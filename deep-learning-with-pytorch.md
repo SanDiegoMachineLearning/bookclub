@@ -1,4 +1,4 @@
-![](./images/deep-learning-with-pytorch.png)
+![](./images/deep-learning-with-pytorch.jpg)
 ## Deep Learning with PyTorch
 
 The SDML book club started reading [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
