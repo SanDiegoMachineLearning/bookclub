@@ -39,7 +39,7 @@ Chapter 6:  Using a neural network to fit the data
 
 Chapter 7:  Telling birds from airplanes: Learning from images
 <br>
-[Notes]() and [Meetup video]()
+[Notes](https://docs.google.com/document/d/1VCuxxpdWF441QnsZMWNISpTxAIJqMG_S7JXbJGOYiRI/edit?usp=sharing) and [Meetup video]()
 
 <br>
 <br>
