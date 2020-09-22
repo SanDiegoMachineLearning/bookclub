@@ -19,23 +19,23 @@ Chapter 1:  Introducing deep learning and the PyTorch Library
 <br>
 Chapter 2:  Pretrained networks
 <br>
-[Notes](https://docs.google.com/document/d/12jqtppoPHc0xOY1OvaDGiRDYYVJqvobK-X2YzZt8cb0/edit?usp=sharing) and [Meetup video]()
+[Notes](https://docs.google.com/document/d/12jqtppoPHc0xOY1OvaDGiRDYYVJqvobK-X2YzZt8cb0/edit?usp=sharing) and [Meetup video](https://www.youtube.com/watch?v=bQ1SfS4urEA)
 
 Chapter 3:  It starts with a tensor
 <br>
-[Notes](https://docs.google.com/document/d/1KD6c9zaYn7Vt0Km1audrbuWTtuzIyRzXULNl9aWNlww/edit?usp=sharing) and [Meetup video]()
+[Notes](https://docs.google.com/document/d/1KD6c9zaYn7Vt0Km1audrbuWTtuzIyRzXULNl9aWNlww/edit?usp=sharing) and [Meetup video](https://www.youtube.com/watch?v=1LY3t8YZOLw)
 
 Chapter 4:  Real-world data representation using tensors
 <br>
-[Notes](https://docs.google.com/document/d/1IstUFzVvKAjl9lWW_IlCMFbDaKOZOgH5QYr2j9huVE0/edit?usp=sharing) and [Meetup video]()
+[Notes](https://docs.google.com/document/d/1IstUFzVvKAjl9lWW_IlCMFbDaKOZOgH5QYr2j9huVE0/edit?usp=sharing) and [Meetup video](https://www.youtube.com/watch?v=N1B1TuCmcUA)
 
 Chapter 5:  The mechanics of learning
 <br>
-[Notes]() and [Meetup video]()
+[Notes]() and [Meetup video](https://www.youtube.com/watch?v=wEAVXqejrOc)
 
 Chapter 6:  Using a neural network to fit the data
 <br>
-[Notes](https://docs.google.com/document/d/1gr80jeEYuJqg2OlHkJjp1892yy9xSp-gvcbTRzv1TMI/edit?usp=sharing) and [Meetup video]()
+[Notes](https://docs.google.com/document/d/1gr80jeEYuJqg2OlHkJjp1892yy9xSp-gvcbTRzv1TMI/edit?usp=sharing) and [Meetup video](https://www.youtube.com/watch?v=LBaEOznJbWc)
 
 Chapter 7:  Telling birds from airplanes: Learning from images
 <br>
