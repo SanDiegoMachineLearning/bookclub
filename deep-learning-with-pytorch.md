@@ -31,7 +31,7 @@ Chapter 4:  Real-world data representation using tensors
 
 Chapter 5:  The mechanics of learning
 <br>
-[Notes]() and [Meetup video](https://www.youtube.com/watch?v=wEAVXqejrOc)
+[Notes](https://docs.google.com/document/d/1dS76s2hcfMxuoXQWo7s74LHDW3QWgWm2TYVmS_X0WMo/edit?usp=sharing) and [Meetup video](https://www.youtube.com/watch?v=wEAVXqejrOc)
 
 Chapter 6:  Using a neural network to fit the data
 <br>
