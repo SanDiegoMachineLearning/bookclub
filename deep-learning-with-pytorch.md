@@ -39,7 +39,11 @@ Chapter 6:  Using a neural network to fit the data
 
 Chapter 7:  Telling birds from airplanes: Learning from images
 <br>
-[Notes](https://docs.google.com/document/d/1VCuxxpdWF441QnsZMWNISpTxAIJqMG_S7JXbJGOYiRI/edit?usp=sharing) and [Meetup video]()
+[Notes](https://docs.google.com/document/d/1VCuxxpdWF441QnsZMWNISpTxAIJqMG_S7JXbJGOYiRI/edit?usp=sharing) and [Meetup video](https://youtu.be/sPJp8gT4_2o)
+
+Chapter 8:  Using convolutions to generalize
+<br>
+[Notes](https://docs.google.com/document/d/1TfecClHTf_F4H0srfrLG2lq_h8FmjlfImFuCHrwWuV4/edit?usp=sharing) and [Meetup video](https://youtu.be/TBt23gtFlGY)
 
 <br>
 <br>
