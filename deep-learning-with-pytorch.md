@@ -45,5 +45,9 @@ Chapter 8:  Using convolutions to generalize
 <br>
 [Notes](https://docs.google.com/document/d/1TfecClHTf_F4H0srfrLG2lq_h8FmjlfImFuCHrwWuV4/edit?usp=sharing) and [Meetup video](https://youtu.be/TBt23gtFlGY)
 
+Recap of Part I (chapters 1-8)
+<br>
+[Notes](https://docs.google.com/document/d/17KNX0Yd4ujxTlymz4pNBzd6MkZm5UUxRKsNqclF1ZRY/edit?usp=sharing)
+
 <br>
 <br>
