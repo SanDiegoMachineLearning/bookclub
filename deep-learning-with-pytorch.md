@@ -48,6 +48,7 @@ Chapter 8:  Using convolutions to generalize
 Recap of Part I (chapters 1-8)
 <br>
 [Notes](https://docs.google.com/document/d/17KNX0Yd4ujxTlymz4pNBzd6MkZm5UUxRKsNqclF1ZRY/edit?usp=sharing)
+<br>
 Chapter 9:  Using PyTorch to fight cancer
 <br>
 [Notes](https://docs.google.com/document/d/118n7TjZwH0Rvy0I-6ou4SiEGXENUNuURUWNAUs_1r24/edit?usp=sharing)
@@ -55,6 +56,7 @@ Chapter 9:  Using PyTorch to fight cancer
 Chapter 10:  Combining data sources into a unified dataset
 <br>
 [Notes](https://docs.google.com/document/d/1mf4ADA3BCbVNzVZaoskx8DlcvUj-rauxY7NO5nSuYYE/edit?usp=sharing)
+<br>
 Video for all three of the above will be posted soon
 
 <br>
