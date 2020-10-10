@@ -61,7 +61,7 @@ Video for all three of the above will be posted soon
 
 Chapter 11:  Training a classification model to detect suspected tumors
 <br>
-[Notes](https://docs.google.com/document/d/118n7TjZwH0Rvy0I-6ou4SiEGXENUNuURUWNAUs_1r24/edit?usp=sharing) and Meetup video coming soon
+[Notes](https://docs.google.com/document/d/1Jgq7z5-lNZ-w7r-g9ICBS3Bga00H3ZHqxp-4DorX8G8/edit?usp=sharing) and Meetup video coming soon
 
 <br>
 <br>
