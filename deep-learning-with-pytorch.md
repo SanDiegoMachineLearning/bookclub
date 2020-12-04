@@ -1,4 +1,5 @@
-![](./images/deep-learning-with-pytorch.jpg)
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/deep-learning-with-pytorch.jpg?raw=true" width="160">
+
 ## Deep Learning with PyTorch
 
 The SDML book club started reading [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
@@ -57,11 +58,28 @@ Chapter 10:  Combining data sources into a unified dataset
 <br>
 [Notes](https://docs.google.com/document/d/118n7TjZwH0Rvy0I-6ou4SiEGXENUNuURUWNAUs_1r24/edit?usp=sharing)
 <br>
-Video for all three of the above will be posted soon
+[Meetup video for all three of the above](https://youtu.be/g5tFYGh5IYc)
 
 Chapter 11:  Training a classification model to detect suspected tumors
 <br>
-[Notes](https://docs.google.com/document/d/1Jgq7z5-lNZ-w7r-g9ICBS3Bga00H3ZHqxp-4DorX8G8/edit?usp=sharing) and Meetup video coming soon
+[Notes](https://docs.google.com/document/d/1Jgq7z5-lNZ-w7r-g9ICBS3Bga00H3ZHqxp-4DorX8G8/edit?usp=sharing) and [Meetup video](https://youtu.be/R8hXhazyE6U)
+
+Chapter 12:  Improving training with metrics and augmentation
+<br>
+[Notes](https://docs.google.com/document/d/1njG5d9iRK2xxTCJYByPk4VRvuKFO-pQpVqPaUumVRJU/edit) and [Meetup video](https://youtu.be/XASjYq73tjs)
+
+Chapter 13:  Using segmentation to find suspected nodules
+<br>
+[Notes](https://docs.google.com/document/d/1TxpHo5P4SNqhmImf7OAiFzECUa-djZFeAD8I4-vRTIo/edit) and [Meetup video](https://youtu.be/ZyYWi0QbSlM)
+
+Chapter 14:  End-to-end nodule analysis, and where to go next
+<br>
+[Notes](https://docs.google.com/document/d/1tRht29WqiyxAW4BkbNHUNI_dkm3jKguf7-DNhON9bb4/edit) and [Meetup video](https://youtu.be/6uugCBY9pXw)
+
+Chapter 15:  Deploying to production
+<br>
+[Notes](https://docs.google.com/document/d/1WZ50W5K3ruRNYzge3MVbw-gTH0SuVKLFDRD7tDyO8KE/edit) and [Meetup video](https://youtu.be/SQV-Ttp_TtM)
 
 <br>
 <br>
+
