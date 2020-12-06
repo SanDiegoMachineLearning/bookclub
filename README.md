@@ -3,7 +3,9 @@ Notes and links from the SDML book club meetings
 ### Designing Data-Intensive Applications
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/designing-data-intensive-apps.jpg?raw=true" width="160">
 
-In December, we will start reading Designing Data-Intensive Applications.
+We just started reading Designing Data-Intensive Applications.
+Notes and videos from the meetup sessions for the book Designing Data-Intensive Applications
+can be found in the document [designing-data-intensive-apps.md](./designing-data-intensive-apps.md).
 
 ### Deep Learning with PyTorch
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/deep-learning-with-pytorch.jpg?raw=true" width="160">
