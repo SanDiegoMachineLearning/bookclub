@@ -12,9 +12,11 @@ An up to date list of references is maintained in the GitHub repository <https:/
 ### Notes and videos
 Here are the chanpter notes and meetup recordings:
 
-Chapter 1:  Reliable, Scalable, and Maintainable Applications
-<br>
-[Notes](https://docs.google.com/document/d/1ZGommori_C70PjV5M-z51P8J3oWz-qhPUPUgf8oP2aU/edit?usp=sharing) and Meetup video will be posted afterward
+Chapter 1:  Reliable, Scalable, and Maintainable Applications \
+[Notes](https://docs.google.com/document/d/1ZGommori_C70PjV5M-z51P8J3oWz-qhPUPUgf8oP2aU/edit?usp=sharing) and [Meetup video](https://youtu.be/JqDAEH_2t6M)
+
+Chapter 2:  Data Models and Query Languages \
+[Notes](https://docs.google.com/document/d/1tpV0cvj0sS5tslPKQnbI48uAf2UKg3_1WI-vYJZlA5E/edit?usp=sharing) and [Meetup video](https://youtu.be/8Xd1Nf1APmc)
 
 
 <br>
