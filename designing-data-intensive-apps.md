@@ -19,8 +19,7 @@ Chapter 2:  Data Models and Query Languages \
 [Notes](https://docs.google.com/document/d/1tpV0cvj0sS5tslPKQnbI48uAf2UKg3_1WI-vYJZlA5E/edit?usp=sharing) and [Meetup video](https://youtu.be/8Xd1Nf1APmc)
 
 Chapter 3:  Storage and Retrieval \
-[Notes](https://docs.google.com/document/d/1r_k-1PJlSp04LusH6yHpsSQ2o-vZIW1Catv9PRAV2iQ/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1r_k-1PJlSp04LusH6yHpsSQ2o-vZIW1Catv9PRAV2iQ/edit?usp=sharing) and [Meetup video](https://youtu.be/b1djvhyUJUk)
 
 <br>
 <br>
-
