@@ -21,5 +21,8 @@ Chapter 2:  Data Models and Query Languages \
 Chapter 3:  Storage and Retrieval \
 [Notes](https://docs.google.com/document/d/1r_k-1PJlSp04LusH6yHpsSQ2o-vZIW1Catv9PRAV2iQ/edit?usp=sharing) and [Meetup video](https://youtu.be/b1djvhyUJUk)
 
+Chapter 4:  Encoding and Evolution \
+[Notes](https://docs.google.com/document/d/1MUh3SYMrSfK0i3t_Bj96SxPlOflkysJ5tUrnsj_F3Jo/edit?usp=sharing) and [Meetup video](https://youtu.be/YZAvkAEPgVw)
+
 <br>
 <br>
