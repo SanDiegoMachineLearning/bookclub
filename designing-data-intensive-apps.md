@@ -25,10 +25,13 @@ Chapter 4:  Encoding and Evolution \
 [Notes](https://docs.google.com/document/d/1MUh3SYMrSfK0i3t_Bj96SxPlOflkysJ5tUrnsj_F3Jo/edit?usp=sharing) and [Meetup video](https://youtu.be/YZAvkAEPgVw)
 
 Chapter 5:  Replication \
-[Notes](https://docs.google.com/document/d/1T8Y4DNrJXr9Cxemz2J9SqxCMA1M115G7o8_-ggMUz9U/edit?usp=sharing) and video coming soon
+[Notes](https://docs.google.com/document/d/1T8Y4DNrJXr9Cxemz2J9SqxCMA1M115G7o8_-ggMUz9U/edit?usp=sharing) and [Meetup video] (https://youtu.be/wk9yig6xqPo)
 
 Chapter 6:  Partitioning \
-[Notes (in progress)](https://docs.google.com/document/d/1JUt1vZMUgTBB3egr59Lj3DFJ2QxWUJYWViYcGOVNwtU/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1JUt1vZMUgTBB3egr59Lj3DFJ2QxWUJYWViYcGOVNwtU/edit?usp=sharing) and [Meetup video] (https://youtu.be/cARZXd8x7Ew)
+
+Chapter 7:  Transactions \
+[Notes[(https://docs.google.com/document/d/1NDisyUYoBhSpzTzsi7NQ5KYRg3BULgmc-J5QT2oNcS4/edit?usp=sharing)
 
 <br>
 <br>
