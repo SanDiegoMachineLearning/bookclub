@@ -33,5 +33,8 @@ Chapter 6:  Partitioning \
 Chapter 7:  Transactions \
 [Notes](https://docs.google.com/document/d/1NDisyUYoBhSpzTzsi7NQ5KYRg3BULgmc-J5QT2oNcS4/edit?usp=sharing)
 
+Chatper 8:  The Trouble with Distributed Systems \
+[Notes](https://docs.google.com/document/d/1CuQn6nEu2z5P1oe6KPZRLQO-3Lrz-S8CqTp5LHNYlOc/edit?usp=sharing)
+
 <br>
 <br>
