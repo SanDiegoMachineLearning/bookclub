@@ -36,5 +36,8 @@ Chapter 7:  Transactions \
 Chatper 8:  The Trouble with Distributed Systems \
 [Notes](https://docs.google.com/document/d/1CuQn6nEu2z5P1oe6KPZRLQO-3Lrz-S8CqTp5LHNYlOc/edit?usp=sharing)
 
+Chapter 9:  Consistency and Consensus \
+[Notes](https://docs.google.com/document/d/1MVwTKULlNDjnMw5MvhU5D1Ms5BBs07163C3_NfYkLaU/edit?usp=sharing)
+
 <br>
 <br>
