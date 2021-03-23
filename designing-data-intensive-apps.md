@@ -10,7 +10,7 @@ Each chapter in the book has many references for further reading.
 An up to date list of references is maintained in the GitHub repository <https://github.com/ept/ddia-references>.
 
 ### Notes and videos
-Here are the chanpter notes and meetup recordings:
+Here are the chapter notes and meetup recordings:
 
 Chapter 1:  Reliable, Scalable, and Maintainable Applications \
 [Notes](https://docs.google.com/document/d/1ZGommori_C70PjV5M-z51P8J3oWz-qhPUPUgf8oP2aU/edit?usp=sharing) and [Meetup video](https://youtu.be/JqDAEH_2t6M)
@@ -31,13 +31,22 @@ Chapter 6:  Partitioning \
 [Notes](https://docs.google.com/document/d/1JUt1vZMUgTBB3egr59Lj3DFJ2QxWUJYWViYcGOVNwtU/edit?usp=sharing) and [Meetup video](https://youtu.be/cARZXd8x7Ew)
 
 Chapter 7:  Transactions \
-[Notes](https://docs.google.com/document/d/1NDisyUYoBhSpzTzsi7NQ5KYRg3BULgmc-J5QT2oNcS4/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1NDisyUYoBhSpzTzsi7NQ5KYRg3BULgmc-J5QT2oNcS4/edit?usp=sharing) and [Meetup video](https://youtu.be/9vvKkkMGQ2Q)
 
 Chatper 8:  The Trouble with Distributed Systems \
-[Notes](https://docs.google.com/document/d/1CuQn6nEu2z5P1oe6KPZRLQO-3Lrz-S8CqTp5LHNYlOc/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1CuQn6nEu2z5P1oe6KPZRLQO-3Lrz-S8CqTp5LHNYlOc/edit?usp=sharing) and [Meetup video](https://youtu.be/WJcKtG7zxe0)
 
 Chapter 9:  Consistency and Consensus \
-[Notes](https://docs.google.com/document/d/1MVwTKULlNDjnMw5MvhU5D1Ms5BBs07163C3_NfYkLaU/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1MVwTKULlNDjnMw5MvhU5D1Ms5BBs07163C3_NfYkLaU/edit?usp=sharing) and [Meetup video](https://youtu.be/0rRsOVCKnsQ)
+
+Chapter 10:  Batch Processing \
+[Notes](https://docs.google.com/document/d/10wPVoRnLInhWNbjXYV3yXPmWzgFHyX1bgLBCFkM8b_s/edit) and [Meetup video](https://youtu.be/uR2fTP26xK8)
+
+Chapter 11:  Stream Processing \
+[Notes](https://docs.google.com/document/d/1cj0uHh2hl49S1BozHlHHUJY-i8GqaX5QQ-tryb0sWms/edit?usp=sharing) and [Meetup video](https://youtu.be/bLCUSDwjnNM)
+
+Chapter 12:  The Future of Data Systems \
+[Notes](https://docs.google.com/document/d/1ltpJUG8SSD1WQftjutPWd_hmbRS9IP1gnuo5JGVOasM/edit) and [Meetup video](https://youtu.be/KyCk_MUITY4)
 
 <br>
 <br>
