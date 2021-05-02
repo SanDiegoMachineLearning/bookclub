@@ -1,9 +1,15 @@
 Notes and links from the SDML book club meetings
 
+### Algorithms to Live By
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/algorithms-to-live-by-paperback-3d.png?raw=true" width="160">
+
+For the book Algorithms to Live By,
+the slides are in [Ted's talks repo](https://github.com/tedkyi/talks).
+
+
 ### Designing Data-Intensive Applications
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/designing-data-intensive-apps.jpg?raw=true" width="160">
 
-We just started reading Designing Data-Intensive Applications.
 Notes and videos from the meetup sessions for the book Designing Data-Intensive Applications
 can be found in the document [designing-data-intensive-apps.md](./designing-data-intensive-apps.md).
 
