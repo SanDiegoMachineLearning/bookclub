@@ -10,7 +10,7 @@ can be found in the document [reinforcement-learning.md](./reinforcement-learnin
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/algorithms-to-live-by-paperback-3d.png?raw=true" width="160">
 
 For the book Algorithms to Live By,
-the slides are in [Ted's talks repo](https://github.com/tedkyi/talks).
+the slides are in [Ted's talks repo](https://github.com/tedkyi/talks), and the [video is on YouTube](https://youtu.be/DKUNUYGS1Kw).
 
 ### Designing Data-Intensive Applications
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/designing-data-intensive-apps.jpg?raw=true" width="160">

@@ -15,7 +15,7 @@ Most of the material was drawn from chapters 1 and 3 of the Sutton & Barto book.
 Content was covered over two weeks. \
 Slides are available in [PowerPoint (large file)](https://github.com/tedkyi/reinforcement-learning/blob/main/1_Introduction_to_reinforcement_learning.pptx) 
 or [PDF (smaller file)](https://github.com/tedkyi/reinforcement-learning/blob/main/1_Introduction_to_reinforcement_learning.pdf) 
-and [Meetup video]() will be posted soon.
+and [Meetup video](https://youtu.be/jDdF8FRgju0) from the first week is up.
 
 Session 2:  **Dynamic Programming and Monte Carlo Methods for RL** \
 The material for this session will come from chapters 4 and 5 of the Sutton & Barto book. 
