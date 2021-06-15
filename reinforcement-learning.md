@@ -19,7 +19,17 @@ and [Meetup video](https://youtu.be/jDdF8FRgju0) from the first week and [part t
 
 Session 2:  **Dynamic Programming and Monte Carlo Methods for RL** \
 Here is the detailed [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278318808/). 
-The main material for this session will come from chapters 4 and 5 of the Sutton & Barto book. 
+The main material for this session came from chapters 4 and 5 of the Sutton & Barto book.
+This session also was covered over two weeks. \
+The first week discussed dynamic programming.  Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/2a_Dynamic_programming.pdf),
+and here is the [dynamic programming video](https://youtu.be/ac4wjMcvkv8). \
+The second week discussed Monte Carlo methods in RL.  This is the link to the [slides in Ted's repo](https://github.com/tedkyi/reinforcement-learning/blob/main/2b_Monte_carlo_methods.pdf),
+and this is the [Monte Carlo methods video](https://youtu.be/Fwk7F2cVuWQ).
+
+Session 3:  **Temporal-Difference Learning** \
+Here is the [Meetup even description](https://www.meetup.com/San-Diego-Machine-Learning/events/278801444/).
+The majority of the material for this session comes from chapter 6 of the Sutton & Barto book.
+
 
 ### Python Implementation
 An implementation of the examples in the book in Python has been shared in this repo: <https://github.com/ShangtongZhang/reinforcement-learning-an-introduction>.
