@@ -28,7 +28,8 @@ and this is the [Monte Carlo methods video](https://youtu.be/Fwk7F2cVuWQ).
 
 Session 3:  **Temporal-Difference Learning** \
 Here is the [Meetup even description](https://www.meetup.com/San-Diego-Machine-Learning/events/278801444/).
-The majority of the material for this session comes from chapter 6 of the Sutton & Barto book.
+The majority of the material for this session comes from chapter 6 of the Sutton & Barto book. \
+Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/3_Temporal_difference_learning.pdf) and video will be uploaded soon.
 
 
 ### Python Implementation
