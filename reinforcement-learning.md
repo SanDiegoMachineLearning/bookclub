@@ -2,7 +2,7 @@
 
 ## Reinforcement Learning
 
-The SDML book club started discussing *Reinfocement Learning:  An Introduction (second edition)* 
+The SDML book club started discussing *Reinforcement Learning:  An Introduction (second edition)* 
 by Richard Sutton and Andrew Barto in May 2021. 
 A PDF copy of the book and other related material can be found on Richard Sutton's [book website](http://incompleteideas.net/book/the-book.html).
 
@@ -27,9 +27,12 @@ The second week discussed Monte Carlo methods in RL.  This is the link to the [s
 and this is the [Monte Carlo methods video](https://youtu.be/Fwk7F2cVuWQ).
 
 Session 3:  **Temporal-Difference Learning** \
-Here is the [Meetup even description](https://www.meetup.com/San-Diego-Machine-Learning/events/278801444/).
+Here is the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278801444/).
 The majority of the material for this session comes from chapter 6 of the Sutton & Barto book. \
 Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/3_Temporal_difference_learning.pdf) and video will be uploaded soon.
+
+Session 4:  **Programming Reinforcement Learning Algorithms** \
+Full details in the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278970571/).
 
 
 ### Python Implementation
