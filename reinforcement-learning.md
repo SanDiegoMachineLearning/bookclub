@@ -32,7 +32,20 @@ The majority of the material for this session comes from chapter 6 of the Sutton
 Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/3_Temporal_difference_learning.pdf) and video will be uploaded soon.
 
 Session 4:  **Programming Reinforcement Learning Algorithms** \
-Full details in the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278970571/).
+Full details in the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278970571/). \
+Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/4_Programming_rl_algorithms.pdf).
+
+Session 5:  **Planning and Learning in Reinforcement Learning** \
+Here are the full details of the [Meetup event](https://www.meetup.com/San-Diego-Machine-Learning/events/279249884/) \
+The material for this session primarily is from chapter 8 of the Sutton & Barto book. \
+Link to the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/5_Planning_and_learning.pdf).
+
+Session 6:  **Policy Gradient Methods for Reinforcement Learning**
+The full description is in the [Meetup event details](https://www.meetup.com/San-Diego-Machine-Learning/events/279556688/) \
+The core concepts for this discussion came from chapter 13 of the Sutton & Barto book.  \
+GitHub has the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/6_Policy_gradient_methods.pdf) for the session. \
+
+*We clearly have a lot of catching up to get all the videos uploaded to YouTube!*
 
 
 ### Python Implementation
