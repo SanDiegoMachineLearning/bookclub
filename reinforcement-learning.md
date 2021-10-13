@@ -49,7 +49,7 @@ and here is the [video recording](https://youtu.be/ZODHxkjkuv4).
 
 Application:  **Exploring the Reinforcement Learning Techniques in AlphaGo**
 Here is the info in the [Meetup description](https://www.meetup.com/San-Diego-Machine-Learning/events/279836799/) \
-This is the [video of the session](https://youtu.be/cM76cIIAlNg)
+Here are Ryan's [slides](./Exploring%20the%20Reinforcement%20Learning%20Techniques%20in%20AlphaGo.pdf) and this is the [video of the session](https://youtu.be/cM76cIIAlNg)
 
 
 ### Python Implementation
