@@ -33,7 +33,8 @@ Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main
 
 Session 4:  **Programming Reinforcement Learning Algorithms** \
 Full details in the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278970571/). \
-Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/4_Programming_rl_algorithms.pdf).
+Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/4_Programming_rl_algorithms.pdf)
+and here is the [video](https://youtu.be/H2TE3v3b9Cg).
 
 Session 5:  **Planning and Learning in Reinforcement Learning** \
 Here are the full details of the [Meetup event](https://www.meetup.com/San-Diego-Machine-Learning/events/279249884/) \
@@ -43,9 +44,12 @@ Link to the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/
 Session 6:  **Policy Gradient Methods for Reinforcement Learning**
 The full description is in the [Meetup event details](https://www.meetup.com/San-Diego-Machine-Learning/events/279556688/) \
 The core concepts for this discussion came from chapter 13 of the Sutton & Barto book.  \
-GitHub has the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/6_Policy_gradient_methods.pdf) for the session. \
+GitHub has the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/6_Policy_gradient_methods.pdf) for the session
+and here is the [video recording](https://youtu.be/ZODHxkjkuv4).
 
-*We clearly have a lot of catching up to get all the videos uploaded to YouTube!*
+Application:  **Exploring the Reinforcement Learning Techniques in AlphaGo**
+Here is the info in the [Meetup description](https://www.meetup.com/San-Diego-Machine-Learning/events/279836799/) \
+This is the [video of the session](https://youtu.be/cM76cIIAlNg)
 
 
 ### Python Implementation
