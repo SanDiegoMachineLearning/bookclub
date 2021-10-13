@@ -1,5 +1,11 @@
 Notes and links from the SDML book club meetings
 
+### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl_geron.jpg?raw=true" width="160">
+
+Notes/slides and videos from the meetup sessions for the book Reinforcement Learning:  An Introduction
+can be found in the document [hands-on-machine-learning.md](./hands-on-machine-learning.md).
+
 ### Reinforcement Learning
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/reinforcement-learning.jpg?raw=true" width="160">
 
@@ -32,7 +38,7 @@ The notebooks for the book are located in the GitHub repository https://github.c
 
 The notebook with instructions and code for downloading the datasets not contained in the book repo is located in this repo https://github.com/tedkyi/feature-engineering.
 
-### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition -- 2019
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl_geron.jpg?raw=true" width="160">
 
 Jupyter notebooks with code from Hands-On Machine Learning is available in this repo:  https://github.com/ageron/handson-ml2.
