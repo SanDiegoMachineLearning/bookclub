@@ -16,7 +16,7 @@ We met other people in small breakout rooms and discussed chapter 1 of the HOML 
 Chapter 2:  **End-to-End Machine Learning Project** \
 Meetup:  [Chapter 2 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281328667/). \
 Discussion leader:  Ian Cook \
-[Notes](./homl/Ch2.pdf) and the Video of first session will be posted soon.  We will finish this chapter next week.
+[Notes](./homl/Ch2.pdf) and the [Video of first session](https://youtu.be/Sg-TtgEFEQg).  We will finish this chapter next week.
 
 Chapter 3:  **Classification** \
 Meetup:  [Week 3 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281476737/). \
