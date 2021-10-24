@@ -21,7 +21,14 @@ Discussion leader:  Ian Cook \
 Chapter 3:  **Classification** \
 Meetup:  [Week 3 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281476737/). \
 Discussion leader:  Vibhu Sapra \
-We will finish talking about the end-to-end ML process, then review classification problems.
+We will finish talking about the end-to-end ML process, then review classification problems. \
+[Slides](./homl/Hands-On%20Machine%20Learning%20MNIST%20+%20Classification.pdf) and Video of the combo session will be posted soon.
+
+Chapter 4:  **Training Models** \
+Meetup:  [Chapter 4 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281616380). \
+Discussion leader:  Anne Knowles \
+We will discuss several foundational techniques in ML including linear regression, logistic regression, and gradient descent. 
+We will also look at how models are trained, the bias/variance trade-off, and regularization. 
 
 
 ### Code Examples
