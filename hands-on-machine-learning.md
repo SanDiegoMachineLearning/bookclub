@@ -28,7 +28,13 @@ Chapter 4:  **Training Models** \
 Meetup:  [Chapter 4 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281616380). \
 Discussion leader:  Anne Knowles \
 We will discuss several foundational techniques in ML including linear regression, logistic regression, and gradient descent. 
-We will also look at how models are trained, the bias/variance trade-off, and regularization. 
+We will also look at how models are trained, the bias/variance trade-off, and regularization. \
+[Slides](./homl/SDML-GeronCh4Facilitate2021_.pdf)
+
+Chapter 5:  **Support Vector Machines** \
+Meetup:  [Chapter 5 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281763016/). \
+Discussion leader:  Bhanu Yerra \
+This week we will discuss the core concepts of Support Vector Machines, how to use them, and how they work. 
 
 
 ### Code Examples
