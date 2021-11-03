@@ -22,14 +22,14 @@ Chapter 3:  **Classification** \
 Meetup:  [Week 3 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281476737/). \
 Discussion leader:  Vibhu Sapra \
 We will finish talking about the end-to-end ML process, then review classification problems. \
-[Slides](./homl/Hands-On%20Machine%20Learning%20MNIST%20+%20Classification.pdf) and Video of the combo session will be posted soon.
+[Slides](./homl/Hands-On%20Machine%20Learning%20MNIST%20+%20Classification.pdf) and [Video of the combo session](https://youtu.be/VTflLUkdpe8).
 
 Chapter 4:  **Training Models** \
 Meetup:  [Chapter 4 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281616380). \
 Discussion leader:  Anne Knowles \
 We will discuss several foundational techniques in ML including linear regression, logistic regression, and gradient descent. 
 We will also look at how models are trained, the bias/variance trade-off, and regularization. \
-[Slides](./homl/SDML-GeronCh4Facilitate2021_.pdf)
+[Slides](./homl/SDML-GeronCh4Facilitate2021_.pdf) and [Chapter 4 video](https://youtu.be/Z9nqssVrXn0)
 
 Chapter 5:  **Support Vector Machines** \
 Meetup:  [Chapter 5 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281763016/). \
