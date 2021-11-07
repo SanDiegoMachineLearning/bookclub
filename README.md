@@ -3,7 +3,8 @@ Notes and links from the SDML book club meetings
 ### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl_geron.jpg?raw=true" width="160">
 
-Notes/slides and videos from the meetup sessions for the book Reinforcement Learning:  An Introduction
+Notes/slides and videos from the meetup sessions for the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 
+which started in October 2021,
 can be found in the document [hands-on-machine-learning.md](./hands-on-machine-learning.md).
 
 ### Reinforcement Learning
