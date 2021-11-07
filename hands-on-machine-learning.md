@@ -34,7 +34,13 @@ We will also look at how models are trained, the bias/variance trade-off, and re
 Chapter 5:  **Support Vector Machines** \
 Meetup:  [Chapter 5 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281763016/). \
 Discussion leader:  Bhanu Yerra \
-This week we will discuss the core concepts of Support Vector Machines, how to use them, and how they work. 
+This week we will discuss the core concepts of Support Vector Machines, how to use them, and how they work. \
+[Slides](./homl/SDML_BookClub_HOML_Ch5SVM_Presentation.pdf)
+
+Chapter 6:  **Decision Trees** \
+Meetup:  [Chapter 6 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281918774/). \
+Discussion leader:  Glenn Miller \
+This week's topic will be decision trees. 
 
 
 ### Code Examples
