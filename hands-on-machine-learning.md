@@ -40,7 +40,14 @@ This week we will discuss the core concepts of Support Vector Machines, how to u
 Chapter 6:  **Decision Trees** \
 Meetup:  [Chapter 6 event](https://www.meetup.com/San-Diego-Machine-Learning/events/281918774/). \
 Discussion leader:  Glenn Miller \
-This week's topic will be decision trees. 
+This week's topic will be decision trees. \
+[Slides](./homl/HOML.6.Decision%20Trees.pdf)
+
+Chapter 7:  **Ensemble Learning and Random Forests** \
+Meetup:  [Chapter 7 event](https://www.meetup.com/San-Diego-Machine-Learning/events/282072635/). \
+Discussion leader:  Nidhin Pattaniyil \
+This week we will discuss the general case of ensemble learning, where we use multiple models,
+and the specific algorithms of Random Forests and Gradient Boosted Decision Trees. 
 
 
 ### Code Examples
