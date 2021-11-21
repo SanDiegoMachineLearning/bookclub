@@ -50,6 +50,12 @@ This week we will discuss the general case of ensemble learning, where we use mu
 and the specific algorithms of Random Forests and Gradient Boosted Decision Trees. \
 [Slides](./homl/Chapter%207.%20Ensemble%20Learning%20and%20Random%20Forests.pdf)
 
+Chapter 8:  **Dimensionality Reduction** \
+Meetup:  [Chapter 8 event](https://www.meetup.com/San-Diego-Machine-Learning/events/282216890). \
+Discussion leader:  Harold Anderson \
+Dimensionality reduction techniques are used to cut down the number of features when training models, 
+and are also very useful for visualizing high-dimensional data.
+
 
 ### Code Examples
 Jupyter notebooks with code from Hands-On Machine Learning is available in this repo:  https://github.com/ageron/handson-ml2.
