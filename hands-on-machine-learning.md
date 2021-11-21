@@ -47,7 +47,8 @@ Chapter 7:  **Ensemble Learning and Random Forests** \
 Meetup:  [Chapter 7 event](https://www.meetup.com/San-Diego-Machine-Learning/events/282072635/). \
 Discussion leader:  Nidhin Pattaniyil \
 This week we will discuss the general case of ensemble learning, where we use multiple models,
-and the specific algorithms of Random Forests and Gradient Boosted Decision Trees. 
+and the specific algorithms of Random Forests and Gradient Boosted Decision Trees. \
+[Slides](./homl/Chapter%207.%20Ensemble%20Learning%20and%20Random%20Forests.pdf)
 
 
 ### Code Examples
