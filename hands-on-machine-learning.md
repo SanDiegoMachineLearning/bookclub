@@ -54,7 +54,13 @@ Chapter 8:  **Dimensionality Reduction** \
 Meetup:  [Chapter 8 event](https://www.meetup.com/San-Diego-Machine-Learning/events/282216890) \
 Discussion leader:  Harold Anderson \
 Dimensionality reduction techniques are used to cut down the number of features when training models, 
-and are also very useful for visualizing high-dimensional data.
+and are also very useful for visualizing high-dimensional data. \
+[Slides](./homl/Dimensionality%20reduction.pdf)
+
+Chapter 9, Part 1:  **Clustering Algorithms** \
+Meetup:  [Chapter 9, Part 1 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/282496281/) \
+Discussion leader:  Kalika Curry \
+This meeting will begin our discussion of unsupervised learning techniques. We start with clustering algorithms.
 
 
 ### Code Examples
