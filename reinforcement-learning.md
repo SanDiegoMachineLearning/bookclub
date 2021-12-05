@@ -41,13 +41,13 @@ Here are the full details of the [Meetup event](https://www.meetup.com/San-Diego
 The material for this session primarily is from chapter 8 of the Sutton & Barto book. \
 Link to the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/5_Planning_and_learning.pdf).
 
-Session 6:  **Policy Gradient Methods for Reinforcement Learning**
+Session 6:  **Policy Gradient Methods for Reinforcement Learning** \
 The full description is in the [Meetup event details](https://www.meetup.com/San-Diego-Machine-Learning/events/279556688/) \
 The core concepts for this discussion came from chapter 13 of the Sutton & Barto book.  \
 GitHub has the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/6_Policy_gradient_methods.pdf) for the session
 and here is the [video recording](https://youtu.be/ZODHxkjkuv4).
 
-Application:  **Exploring the Reinforcement Learning Techniques in AlphaGo**
+Application:  **Exploring the Reinforcement Learning Techniques in AlphaGo** \
 Here is the info in the [Meetup description](https://www.meetup.com/San-Diego-Machine-Learning/events/279836799/) \
 Here are Ryan's [slides](./Exploring%20the%20Reinforcement%20Learning%20Techniques%20in%20AlphaGo.pdf) and this is the [video of the session](https://youtu.be/cM76cIIAlNg)
 
