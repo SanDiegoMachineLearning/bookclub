@@ -60,7 +60,8 @@ and are also very useful for visualizing high-dimensional data. \
 Chapter 9, Part 1:  **Clustering Algorithms** \
 Meetup:  [Chapter 9, Part 1 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/282496281/) \
 Discussion leader:  Kalika Curry \
-This meeting will begin our discussion of unsupervised learning techniques. We start with clustering algorithms.
+This meeting will begin our discussion of unsupervised learning techniques. We start with clustering algorithms. \
+[Slides](./homl/HoML%20Chapter%209%20-%20Unsupervised%20Learning.pdf)
 
 
 ### Code Examples
