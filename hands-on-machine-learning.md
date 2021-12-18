@@ -66,7 +66,7 @@ This meeting will begin our discussion of unsupervised learning techniques. We s
 Chapter 9, Part 2:  **Gaussian Mixture Models** \
 Meetup:  [Chapter 9, Part 2 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/282634931/) \
 Discussion leader:  Kalika Curry \
-This meeting we wrap up our review of unsupervised learning techniques with Gaussian mixture models. \
+This meeting we wrap up our review of unsupervised learning techniques with Gaussian mixture models.
 
 
 ### Code Examples
