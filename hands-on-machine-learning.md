@@ -16,7 +16,8 @@ Meetup:  [Chapter 10 event](https://www.meetup.com/San-Diego-Machine-Learning/ev
 Discussion leader:  Jerry Kurata \
 This meetup will kick off our hands-on series about artificial neural networks and deep learning,
 starting with an introduction to neural networks, and how to build them using Keras and TensorFlow 2. \
-[Slides](./homl/Chapter-10-Intro-to-ANN-with-Keras.pdf) and [Notebook on Jerry's GitHub](https://github.com/JerryKurata/SanDiego-ML/blob/main/Hands_on_ML_Chapter_10.ipynb)
+[Slides](./homl/Chapter-10-Intro-to-ANN-with-Keras.pdf), the [Notebook on Jerry's GitHub](https://github.com/JerryKurata/SanDiego-ML/blob/main/Hands_on_ML_Chapter_10.ipynb), 
+and [video recording](https://youtu.be/OzD5so-wGqg)
 
 Chapter 11:  **Training Deep Neural Networks** \
 Meetup:  [Chapter 11 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283147814/) \
@@ -73,17 +74,18 @@ Meetup:  [Chapter 8 event](https://www.meetup.com/San-Diego-Machine-Learning/eve
 Discussion leader:  Harold Anderson \
 Dimensionality reduction techniques are used to cut down the number of features when training models, 
 and are also very useful for visualizing high-dimensional data. \
-[Slides](./homl/Dimensionality%20reduction.pdf)
+[Slides](./homl/Dimensionality%20reduction.pdf) and [video](https://youtu.be/6Ai8G2Now0A)
 
 Chapter 9, Part 1:  **Clustering Algorithms** \
 Meetup:  [Chapter 9, Part 1 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/282496281/) \
 Discussion leader:  Kalika Curry \
 This meeting will begin our discussion of unsupervised learning techniques. We start with clustering algorithms. \
+[Video for part 1](https://youtu.be/9Iqno057vwY) \
 Chapter 9, Part 2:  **Gaussian Mixture Models** \
 Meetup:  [Chapter 9, Part 2 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/282634931/) \
 Discussion leader:  Kalika Curry \
 This meeting we wrap up our review of unsupervised learning techniques with Gaussian mixture models. \
-[Slides for both parts of chapter 9](./homl/HoML%20Chapter%209%20-%20Unsupervised%20Learning.pdf)
+[Slides for both parts of chapter 9](./homl/HoML%20Chapter%209%20-%20Unsupervised%20Learning.pdf) and [video for part 2](https://youtu.be/mhDM-rlP6bQ)
 
 
 ### Code Examples
