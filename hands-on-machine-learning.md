@@ -8,6 +8,24 @@ by Aurelien Geron in October 2021.
 ### Notes and videos
 Below are the notes/slides and meetup recordings:
 
+#### Part II
+(Please scroll down for Part I of the book)
+
+Chapter 10:  **Introduction to Artificial Neural Networks with Keras** \
+Meetup:  [Chapter 10 event](https://www.meetup.com/San-Diego-Machine-Learning/events/282852047/) \
+Discussion leader:  Jerry Kurata \
+This meetup will kick off our hands-on series about artificial neural networks and deep learning,
+starting with an introduction to neural networks, and how to build them using Keras and TensorFlow 2. \
+[Slides](./homl/Chapter-10-Intro-to-ANN-with-Keras.pdf) and [Notebook on Jerry's GitHub](https://github.com/JerryKurata/SanDiego-ML/blob/main/Hands_on_ML_Chapter_10.ipynb)
+
+Chapter 11:  **Training Deep Neural Networks** \
+Meetup:  [Chapter 11 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283147814/) \
+Discussion leader:  Robert Kraig \
+This week we will drill into some of the issues in training deep neural networks, including taking advantage of transfer learning, and using different optimizers, learning rates, and regularization tools.
+
+
+#### Part I
+
 Chapter 1:  **The Machine Learning Landscape** \
 Here is the full [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/280580801/). 
 We met other people in small breakout rooms and discussed chapter 1 of the HOML book. \
