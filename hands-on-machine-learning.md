@@ -22,7 +22,8 @@ and [video recording](https://youtu.be/OzD5so-wGqg)
 Chapter 11:  **Training Deep Neural Networks** \
 Meetup:  [Chapter 11 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283147814/) \
 Discussion leader:  Robert Kraig \
-This week we will drill into some of the issues in training deep neural networks, including taking advantage of transfer learning, and using different optimizers, learning rates, and regularization tools.
+This week we will drill into some of the issues in training deep neural networks, including taking advantage of transfer learning, and using different optimizers, learning rates, and regularization tools. \
+[Slides](./homl/geron_chapter11_220115.pdf)
 
 
 #### Part I
