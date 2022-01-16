@@ -25,6 +25,11 @@ Discussion leader:  Robert Kraig \
 This week we will drill into some of the issues in training deep neural networks, including taking advantage of transfer learning, and using different optimizers, learning rates, and regularization tools. \
 [Slides](./homl/geron_chapter11_220115.pdf)
 
+Chapter 12:  **Custom Models and Training with TensorFlow** \
+Meetup:  [Chapter 12 session](https://www.meetup.com/San-Diego-Machine-Learning/events/283296968) \
+Discussion leader:  George Zoto \
+This session will provide an overview of TensorFlow and look into how you can do customizations when Keras doesn't have exactly what you need predefined for you.
+
 
 #### Part I
 
