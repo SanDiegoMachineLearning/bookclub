@@ -31,6 +31,12 @@ Discussion leader:  George Zoto \
 This session will provide an overview of TensorFlow and look into how you can do customizations when Keras doesn't have exactly what you need predefined for you. \
 [Slides](./homl/Custom%20Models%20and%20Training%20with%20TensorFlow.pdf) and a links to resources, including [George's Jupyter notebook](https://colab.research.google.com/drive/1BXxiVvbybLgzi89SpKGtiZwPCmVQJ-DI?usp=sharing), are on slide 6.
 
+Chapter 13:  **Loading and Preprocessing Data with TensorFlow** \
+Meetup:  [Chapter 13 event](https://www.meetup.com/San-Diego-Machine-Learning/events/283432190/) \
+Discussion leader:  Kirk Parker \
+Real world deep learning requires reading huge datasets efficiently. Preprocessing the data - including encoding and normalizing - is often necessary as well.
+This session will discuss the capabilities built into Keras and TensorFlow to handle these needs.
+
 
 #### Part I
 
