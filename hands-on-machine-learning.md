@@ -23,13 +23,13 @@ Chapter 11:  **Training Deep Neural Networks** \
 Meetup:  [Chapter 11 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283147814/) \
 Discussion leader:  Robert Kraig \
 This week we will drill into some of the issues in training deep neural networks, including taking advantage of transfer learning, and using different optimizers, learning rates, and regularization tools. \
-[Slides](./homl/geron_chapter11_220115.pdf)
+[Slides](./homl/geron_chapter11_220115.pdf) and [video](https://youtu.be/lHF8ff-jvdM)
 
 Chapter 12:  **Custom Models and Training with TensorFlow** \
 Meetup:  [Chapter 12 session](https://www.meetup.com/San-Diego-Machine-Learning/events/283296968) \
 Discussion leader:  George Zoto \
 This session will provide an overview of TensorFlow and look into how you can do customizations when Keras doesn't have exactly what you need predefined for you. \
-[Slides](./homl/Custom%20Models%20and%20Training%20with%20TensorFlow.pdf) and a links to resources, including [George's Jupyter notebook](https://colab.research.google.com/drive/1BXxiVvbybLgzi89SpKGtiZwPCmVQJ-DI?usp=sharing), are on slide 6.
+[Slides](./homl/Custom%20Models%20and%20Training%20with%20TensorFlow.pdf) and the links to resources, including [George's Jupyter notebook](https://colab.research.google.com/drive/1BXxiVvbybLgzi89SpKGtiZwPCmVQJ-DI?usp=sharing), are on slide 6.
 
 Chapter 13:  **Loading and Preprocessing Data with TensorFlow** \
 Meetup:  [Chapter 13 event](https://www.meetup.com/San-Diego-Machine-Learning/events/283432190/) \
