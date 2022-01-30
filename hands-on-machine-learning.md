@@ -6,7 +6,7 @@ The SDML book club started discussing *Hands-On Machine Learning with Scikit-Lea
 by Aurelien Geron in October 2021. 
 
 ### Notes and videos
-Below are the notes/slides and meetup recordings:
+Below are the notes/slides and meetup recordings.  All of the videos are on Ryan's YouTube channel:  https://www.youtube.com/c/ITConnected/videos
 
 #### Part II
 (Please scroll down for Part I of the book)
@@ -29,7 +29,7 @@ Chapter 12:  **Custom Models and Training with TensorFlow** \
 Meetup:  [Chapter 12 session](https://www.meetup.com/San-Diego-Machine-Learning/events/283296968) \
 Discussion leader:  George Zoto \
 This session will provide an overview of TensorFlow and look into how you can do customizations when Keras doesn't have exactly what you need predefined for you. \
-[Slides](./homl/Custom%20Models%20and%20Training%20with%20TensorFlow.pdf) and the links to resources, including [George's Jupyter notebook](https://colab.research.google.com/drive/1BXxiVvbybLgzi89SpKGtiZwPCmVQJ-DI?usp=sharing), are on slide 6.
+[Slides](./homl/Custom%20Models%20and%20Training%20with%20TensorFlow.pdf) and the links to resources, including [George's Jupyter notebook](https://colab.research.google.com/drive/1BXxiVvbybLgzi89SpKGtiZwPCmVQJ-DI?usp=sharing), are on slide 6.  [Video recording](https://youtu.be/z4RiEEw2NaU) is on YouTube.
 
 Chapter 13:  **Loading and Preprocessing Data with TensorFlow** \
 Meetup:  [Chapter 13 event](https://www.meetup.com/San-Diego-Machine-Learning/events/283432190/) \
