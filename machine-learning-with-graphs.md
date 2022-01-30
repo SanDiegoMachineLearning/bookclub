@@ -12,10 +12,10 @@ Session 1:  **Introduction to Graphs and Their Applications** \
 Here is the full [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/283431771/). 
 We introduced graphs, talked about how they differ from images and text, 
 and saw example applications of graph ML. \
-[Slides]() and the [Video on the YanAITalk YouTube channel]().
+[Slides (coming soon)]() and the [Video on the YanAITalk YouTube channel (coming soon)]().
 
 Session 2:  **Traditional Methods for ML on Graphs** \
-Meetup:  [Session 2]() \
+Meetup:  [Session 2 (coming soon)]() \
 We begin our with a look at algorithms to geenerate hand-crafted features for graph ML problems.
 
 
