@@ -1,5 +1,11 @@
 Notes and links from the SDML book club meetings
 
+### Machine Learning with Graphs
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/graph.jpg?raw=true" width="160">
+
+Notes/slides and videos from the meetup sessions for Machine Learning with Graphs, which started in January 2022,
+can be found in the document [machine-learning-with-graphs.md](./machine-learning-with-graphs.md).
+
 ### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl_geron.jpg?raw=true" width="160">
 
