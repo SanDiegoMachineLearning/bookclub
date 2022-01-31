@@ -35,7 +35,8 @@ Chapter 13:  **Loading and Preprocessing Data with TensorFlow** \
 Meetup:  [Chapter 13 event](https://www.meetup.com/San-Diego-Machine-Learning/events/283432190/) \
 Discussion leader:  Kirk Parker \
 Real world deep learning requires reading huge datasets efficiently. Preprocessing the data - including encoding and normalizing - is often necessary as well.
-This session will discuss the capabilities built into Keras and TensorFlow to handle these needs.
+This session will discuss the capabilities built into Keras and TensorFlow to handle these needs. \
+[Video](https://youtu.be/fN1l07ayiyQ) is available
 
 Chapter 14:  **Deep Computer Vision Using Convolutional Neural Networks** \
 Meetup:  [Chapter 14 session](https://www.meetup.com/San-Diego-Machine-Learning/events/283581229/) \
