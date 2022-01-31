@@ -37,6 +37,12 @@ Discussion leader:  Kirk Parker \
 Real world deep learning requires reading huge datasets efficiently. Preprocessing the data - including encoding and normalizing - is often necessary as well.
 This session will discuss the capabilities built into Keras and TensorFlow to handle these needs.
 
+Chapter 14:  **Deep Computer Vision Using Convolutional Neural Networks** \
+Meetup:  [Chapter 14 session](https://www.meetup.com/San-Diego-Machine-Learning/events/283581229/) \
+Discussion leader:  George Zoto \
+Convolutional Neural Networks (CNNs) brought forth the revolution of deep learning.  
+This week we will explain convolutional layers and how they are used in the CNN architecture for several different computer vision tasks.
+
 
 #### Part I
 
