@@ -16,8 +16,21 @@ Here are the [slides](./graph/01-intro.pdf),
 the [first video about why graphs](https://youtu.be/vQDMq8iahG0), and the [second video about applications of graphs](https://youtu.be/NDGHhUwlGpY).
 
 Session 2:  **Traditional Methods for ML on Graphs** \
-Meetup:  [Session 2 (coming soon)]() February 12, 12:00 PST / 2:00 CST \
+Meetup:  [Session 2](https://www.meetup.com/San-Diego-Machine-Learning/events/283621781/) February 12, 12:00 PST / 2:00 CST \
 We begin our journey with a look at algorithms to generate hand-crafted features for graph ML problems.
+
+Remainder of schedule:
+* Node Embeddings
+* Link Analysis: PageRank
+* Graph Neural Networks 1: GNN Model
+* Graph Neural Networks 2: Design Space
+* Applications of Graph Neural Networks
+* Community Structure in Networks
+* GNNs for Recommender Systems
+* Deep Generative Models for Graphs
+* Knowledge Graph Embeddings
+* Reasoning over Knowledge Graphs
+* Specific application coding tutorial(s)
 
 
 ### Resources
