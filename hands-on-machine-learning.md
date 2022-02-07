@@ -36,13 +36,20 @@ Meetup:  [Chapter 13 event](https://www.meetup.com/San-Diego-Machine-Learning/ev
 Discussion leader:  Kirk Parker \
 Real world deep learning requires reading huge datasets efficiently. Preprocessing the data - including encoding and normalizing - is often necessary as well.
 This session will discuss the capabilities built into Keras and TensorFlow to handle these needs. \
-[Video](https://youtu.be/fN1l07ayiyQ) is available
+[Slides](./homl/13.%20Loading%20and%20Preprocessing%20Data%20with%20TensorFlow.pdf) and [video](https://youtu.be/fN1l07ayiyQ)
 
 Chapter 14:  **Deep Computer Vision Using Convolutional Neural Networks** \
 Meetup:  [Chapter 14 session](https://www.meetup.com/San-Diego-Machine-Learning/events/283581229/) \
 Discussion leader:  George Zoto \
 Convolutional Neural Networks (CNNs) brought forth the revolution of deep learning.  
-This week we will explain convolutional layers and how they are used in the CNN architecture for several different computer vision tasks.
+This week we will explain convolutional layers and how they are used in the CNN architecture for several different computer vision tasks. \
+[Slides](./homl/Deep%20Computer%20Vision%20Using%20Convolutional%20Neural%20Networks.pdf)
+
+Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
+Meetup:  [Chapter 15 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283788541/) \
+Discussion leader:  Steven Fouskarinis \
+This session examines RNNs and other building blocks for dealing with sequential data. 
+Next meeting we will go into Natural Language Processing in further detail.
 
 
 #### Part I
