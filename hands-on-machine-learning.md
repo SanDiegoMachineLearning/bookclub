@@ -43,7 +43,7 @@ Meetup:  [Chapter 14 session](https://www.meetup.com/San-Diego-Machine-Learning/
 Discussion leader:  George Zoto \
 Convolutional Neural Networks (CNNs) brought forth the revolution of deep learning.  
 This week we will explain convolutional layers and how they are used in the CNN architecture for several different computer vision tasks. \
-[Slides](./homl/Deep%20Computer%20Vision%20Using%20Convolutional%20Neural%20Networks.pdf)
+[Slides](./homl/Deep%20Computer%20Vision%20Using%20Convolutional%20Neural%20Networks.pdf) (note that George's terrific list of resources is on slides 18 & 19.
 
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
 Meetup:  [Chapter 15 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283788541/) \
