@@ -51,6 +51,12 @@ Discussion leader:  Steven Fouskarinis \
 This session examines RNNs and other building blocks for dealing with sequential data. 
 Next meeting we will go into Natural Language Processing in further detail.
 
+Remainder of the schedule:
+* Natural Language Processing with RNNs and Attention - *March 5*
+* Representation Learning and Generative Learning Using Autoencoders and GANs - *March 19*
+* Reinforcement Learning - *April 2*
+* Training and Deploying TensorFlow Models at Scale - *April 16*
+
 
 #### Part I
 

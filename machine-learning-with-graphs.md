@@ -2,7 +2,7 @@
 
 ## Machine Learning with Graphs
 
-Houston ML and the SDML book club started discussing *Machine Learning with Graphs*, 
+[Houston ML](https://www.meetup.com/Houston-Machine-Learning/) and the SDML book club started discussing *Machine Learning with Graphs*, 
 based on the Stanford course CS224W, in January 2022. 
 
 ### Slides and videos
@@ -17,9 +17,10 @@ the [first video about why graphs](https://youtu.be/vQDMq8iahG0), and the [secon
 
 Session 2:  **Traditional Methods for ML on Graphs** \
 Meetup:  [Session 2](https://www.meetup.com/San-Diego-Machine-Learning/events/283621781/) February 12, 12:00 PST / 2:00 CST \
-We begin our journey with a look at algorithms to generate hand-crafted features for graph ML problems.
+We begin our journey with a look at algorithms to generate hand-crafted features for graph ML problems. \
+[Slides](./graph/graphml-02-traditional-ml.pdf)
 
-Remainder of schedule:
+Remainder of the schedule:
 * Node Embeddings
 * Link Analysis: PageRank
 * Graph Neural Networks 1: GNN Model
@@ -37,7 +38,8 @@ Remainder of schedule:
 The main website for the Stanford course CS224W is http://web.stanford.edu/class/cs224w/. \
 The primary text is [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton. 
 This material supports the slides, and in some cases goes into further depth. \
-In our meetup, supplemental coding examples will be drawn from [Graph Machine Learning](https://www.amazon.com/dp/1800204493) by Claudio Stamile et al. \
+In our meetup, supplemental coding examples will be drawn from [Graph Machine Learning](https://www.amazon.com/dp/1800204493) by Claudio Stamile et al.
+The notebooks for this book can be found at https://github.com/PacktPublishing/Graph-Machine-Learning. \
 The Fall 2021 videos of Prefessor Lescovec are available from this YouTube playlist:  https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
 
