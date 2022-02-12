@@ -18,7 +18,7 @@ the [first video about why graphs](https://youtu.be/vQDMq8iahG0), and the [secon
 Session 2:  **Traditional Methods for ML on Graphs** \
 Meetup:  [Session 2](https://www.meetup.com/San-Diego-Machine-Learning/events/283621781/) February 12, 12:00 PST / 2:00 CST \
 We begin our journey with a look at algorithms to generate hand-crafted features for graph ML problems. \
-[Slides](./graph/graphml-02-traditional-ml.pdf)
+[Slides](./graph/graphml-02-traditional-ml.pdf) and the [Jupyter notebook](./graph/traditional-ml.ipynb)
 
 Remainder of the schedule:
 * Node Embeddings
