@@ -16,9 +16,15 @@ Here are the [slides](./graph/01-intro.pdf),
 the [first video about why graphs](https://youtu.be/vQDMq8iahG0), and the [second video about applications of graphs](https://youtu.be/NDGHhUwlGpY).
 
 Session 2:  **Traditional Methods for ML on Graphs** \
-Meetup:  [Session 2](https://www.meetup.com/San-Diego-Machine-Learning/events/283621781/) February 12, 12:00 PST / 2:00 CST \
+Meetup:  [Session 2](https://www.meetup.com/San-Diego-Machine-Learning/events/283621781/) \
 We begin our journey with a look at algorithms to generate hand-crafted features for graph ML problems. \
-[Slides](./graph/graphml-02-traditional-ml.pdf) and the [Jupyter notebook](./graph/traditional-ml.ipynb)
+Links for the [Slides](./graph/graphml-02-traditional-ml.pdf) and the [Jupyter notebook](./graph/traditional-ml.ipynb). 
+There are three videos:  [node features](https://youtu.be/Jg1xZdHX9Xk), [link-level features](https://youtu.be/O1R2FVpvzMc), and [graph-level features](https://youtu.be/cVOQig51wqI).
+
+Session 3:  **Node Embeddings** \
+Meetup:  [Third event](https://www.meetup.com/San-Diego-Machine-Learning/events/283976180/) February 26, 12:00 PST / 2:00 CST \
+Generalized representations learned for nodes in a graph.
+
 
 Remainder of the schedule:
 * Node Embeddings
