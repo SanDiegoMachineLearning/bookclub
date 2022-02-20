@@ -53,7 +53,7 @@ Next meeting we will go into Natural Language Processing in further detail. \
 [Slides](./homl/HOML-Ch15_Processing_Sequences_w_RNNs+CNNs.pdf)
 
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
-Meetup:  [Chapter 16 event]() \
+Meetup:  [Chapter 16 event](https://www.meetup.com/San-Diego-Machine-Learning/events/284126272/) \
 Discussion leader:  Vibhu Sapra \
 This session dives deeper into natural language processing tasks and introduces the revolutionary transformer architecture.
 
