@@ -22,12 +22,16 @@ Links for the [Slides](./graph/graphml-02-traditional-ml.pdf) and the [Jupyter n
 There are three videos:  [node features](https://youtu.be/Jg1xZdHX9Xk), [link-level features](https://youtu.be/O1R2FVpvzMc), and [graph-level features](https://youtu.be/cVOQig51wqI).
 
 Session 3:  **Node Embeddings** \
-Meetup:  [Third event](https://www.meetup.com/San-Diego-Machine-Learning/events/283976180/) February 26, 12:00 PST / 2:00 CST \
-Generalized representations learned for nodes in a graph.
+Meetup:  [Third event](https://www.meetup.com/San-Diego-Machine-Learning/events/283976180/) \
+Generalized representations (shallow embeddings) learned for nodes in a graph. \
+The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf) and the [notebook](./graph/node-embeddings.ipynb) with examples.
+
+Session 4:  **PageRank** \
+Meetup:  [Fourth session](https://www.meetup.com/San-Diego-Machine-Learning/events/284277972/) March 12, 12:00 PST / 2:00 CST \
+The PageRank algorithm, variations, and relationship to matrix factorization.
 
 
 Remainder of the schedule:
-* Node Embeddings
 * Link Analysis: PageRank
 * Graph Neural Networks 1: GNN Model
 * Graph Neural Networks 2: Design Space
