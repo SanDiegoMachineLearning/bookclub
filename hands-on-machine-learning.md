@@ -43,14 +43,15 @@ Meetup:  [Chapter 14 session](https://www.meetup.com/San-Diego-Machine-Learning/
 Discussion leader:  George Zoto \
 Convolutional Neural Networks (CNNs) brought forth the revolution of deep learning.  
 This week we will explain convolutional layers and how they are used in the CNN architecture for several different computer vision tasks. \
-[Slides](./homl/Deep%20Computer%20Vision%20Using%20Convolutional%20Neural%20Networks.pdf) (note that George's terrific list of resources is on slides 18 & 19).
+[Slides](./homl/Deep%20Computer%20Vision%20Using%20Convolutional%20Neural%20Networks.pdf) (note that George's terrific list of resources is on slides 18 & 19) 
+and [video](https://youtu.be/8tuQSn2q9-k)
 
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
 Meetup:  [Chapter 15 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/283788541/) \
 Discussion leader:  Steven Fouskarinis \
 This session examines RNNs and other building blocks for dealing with sequential data. 
 Next meeting we will go into Natural Language Processing in further detail. \
-[Slides](./homl/HOML-Ch15_Processing_Sequences_w_RNNs+CNNs.pdf)
+[Slides](./homl/HOML-Ch15_Processing_Sequences_w_RNNs+CNNs.pdf) and [video](https://youtu.be/OMUollnjz_s)
 
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
 Meetup:  [Chapter 16 event](https://www.meetup.com/San-Diego-Machine-Learning/events/284126272/) \
