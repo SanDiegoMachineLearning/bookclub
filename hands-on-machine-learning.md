@@ -56,11 +56,15 @@ Next meeting we will go into Natural Language Processing in further detail. \
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
 Meetup:  [Chapter 16 event](https://www.meetup.com/San-Diego-Machine-Learning/events/284126272/) \
 Discussion leader:  Vibhu Sapra \
-This session dives deeper into natural language processing tasks and introduces the revolutionary transformer architecture.
+This session dives deeper into natural language processing tasks and introduces the revolutionary transformer architecture. \
+[Slides](./homl/NLP%20with%20RNNs%20%26%20Attention.pdf)
 
+Chapter 17:  **Representation Learning and Generative Learning Using Autoencoders and GANs** \
+Meetup:  [Chapter 17 session](https://www.meetup.com/San-Diego-Machine-Learning/events/284437576/) \
+Discussion leader:  Robert Kraig \
+This week we will discuss encoding images into and generating images from lower dimensional spaces.
 
 Remainder of the schedule:
-* Natural Language Processing with RNNs and Attention - *March 5*
 * Representation Learning and Generative Learning Using Autoencoders and GANs - *March 19*
 * Reinforcement Learning - *April 2*
 * Training and Deploying TensorFlow Models at Scale - *April 16*
