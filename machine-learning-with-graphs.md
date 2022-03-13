@@ -26,13 +26,18 @@ Meetup:  [Third event](https://www.meetup.com/San-Diego-Machine-Learning/events/
 Generalized representations (shallow embeddings) learned for nodes in a graph. \
 The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf) and the [notebook](./graph/node-embeddings.ipynb) with examples.
 
-Session 4:  **PageRank** \
-Meetup:  [Fourth session](https://www.meetup.com/San-Diego-Machine-Learning/events/284277972/) March 12, 12:00 PST / 2:00 CST \
-The PageRank algorithm, variations, and relationship to matrix factorization.
+Session 4:  **Link Analysis: PageRank** \
+Meetup:  [Fourth session](https://www.meetup.com/San-Diego-Machine-Learning/events/284277972/) \
+The PageRank algorithm, as well as variations such as personal PageRank. \
+[Yan's Colab notebook](https://colab.research.google.com/drive/1RUOMmm7QFmg8sqLVm2_yz8EcZdCOJfk0?usp=sharing)
+
+Session 5:  **Graph Neural Networks 1: GNN Model** \
+Meetup:  [Fifth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/284595271/) March 26, 12:00 PST / 2:00 CST \
+In this session, we introduce graph neural networks (GNNs), which combine node features and graph structure in learning about graphs.
+This week we will introduce the GNN model, and the following session will flesh out more details about what GNNs look like.
 
 
 Remainder of the schedule:
-* Link Analysis: PageRank
 * Graph Neural Networks 1: GNN Model
 * Graph Neural Networks 2: Design Space
 * Applications of Graph Neural Networks
