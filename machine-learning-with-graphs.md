@@ -29,7 +29,9 @@ The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf
 Session 4:  **Link Analysis: PageRank** \
 Meetup:  [Fourth session](https://www.meetup.com/San-Diego-Machine-Learning/events/284277972/) \
 The PageRank algorithm, as well as variations such as personal PageRank. \
-[Yan's Colab notebook](https://colab.research.google.com/drive/1RUOMmm7QFmg8sqLVm2_yz8EcZdCOJfk0?usp=sharing)
+These are the [slides from the meetup](./graph/04-pagerank.pdf). 
+The recording was broken into four short videos on Yan's YouTube channel:  [PageRank introduction](https://youtu.be/gKh0Du3knr8), [How to solve](https://youtu.be/DSZrkPTVIHk), [Personalization](https://youtu.be/TqIegZgCJ9Y), and [Coding example](https://youtu.be/Ez4HgtK95_c).
+Here is [Yan's Colab notebook](https://colab.research.google.com/drive/1RUOMmm7QFmg8sqLVm2_yz8EcZdCOJfk0?usp=sharing) that was demonstrated.
 
 Session 5:  **Graph Neural Networks 1: GNN Model** \
 Meetup:  [Fifth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/284595271/) March 26, 12:00 PST / 2:00 CST \
