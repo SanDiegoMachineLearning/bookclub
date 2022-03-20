@@ -62,10 +62,16 @@ This session dives deeper into natural language processing tasks and introduces 
 Chapter 17:  **Representation Learning and Generative Learning Using Autoencoders and GANs** \
 Meetup:  [Chapter 17 session](https://www.meetup.com/San-Diego-Machine-Learning/events/284437576/) \
 Discussion leader:  Robert Kraig \
-This week we will discuss encoding images into and generating images from lower dimensional spaces.
+This week we will discuss encoding images into and generating images from lower dimensional spaces. \
+[Slides](./homl/HOML_chapter17_220319.pdf)
+
+Chapter 18:  **Reinforcement Learning** \
+Meetup:  [Chapter 18 event](https://www.meetup.com/San-Diego-Machine-Learning/events/284728428/) \
+Discussion leader:  Rajinder Mavi \
+This meeting we will do a whirlwhind tour of reinforcement learning. 
+If you are interested in going deeper, check out the [book club series we did on reinforcement learning](./reinforcement-learning.md).
 
 Remainder of the schedule:
-* Representation Learning and Generative Learning Using Autoencoders and GANs - *March 19*
 * Reinforcement Learning - *April 2*
 * Training and Deploying TensorFlow Models at Scale - *April 16*
 
