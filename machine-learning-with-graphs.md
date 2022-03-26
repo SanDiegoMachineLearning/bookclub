@@ -36,13 +36,14 @@ Here is [Yan's Colab notebook](https://colab.research.google.com/drive/1RUOMmm7Q
 Session 5:  **Graph Neural Networks 1: GNN Model** \
 Meetup:  [Fifth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/284595271/) March 26, 12:00 PST / 2:00 CST \
 In this session, we introduce graph neural networks (GNNs), which combine node features and graph structure in learning about graphs.
-This week we will introduce the GNN model, and the following session will flesh out more details about what GNNs look like.
+This week we will introduce the GNN model, and the following session will flesh out more details about what GNNs look like. \
+[Slides](./graph/graphml-05-GNN1.pdf)
 
 
 Remainder of the schedule:
 * Graph Neural Networks 1: GNN Model
 * Graph Neural Networks 2: Design Space
-* Applications of Graph Neural Networks
+* Augmenting & Training Graph Neural Networks
 * Community Structure in Networks
 * GNNs for Recommender Systems
 * Deep Generative Models for Graphs
