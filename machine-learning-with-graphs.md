@@ -34,16 +34,20 @@ The recording was broken into four short videos on Yan's YouTube channel:  [Page
 Here is [Yan's Colab notebook](https://colab.research.google.com/drive/1RUOMmm7QFmg8sqLVm2_yz8EcZdCOJfk0?usp=sharing) that was demonstrated.
 
 Session 5:  **Graph Neural Networks 1: GNN Model** \
-Meetup:  [Fifth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/284595271/) March 26, 12:00 PST / 2:00 CST \
+Meetup:  [Fifth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/284595271/) \
 In this session, we introduce graph neural networks (GNNs), which combine node features and graph structure in learning about graphs.
 This week we will introduce the GNN model, and the following session will flesh out more details about what GNNs look like. \
 [Slides](./graph/graphml-05-GNN1.pdf)
 
+Session 6:  **Graph Neural Networks 2: Design Space** \
+Meetup:  [Sixth event](https://www.meetup.com/San-Diego-Machine-Learning/events/284891007/) April 9, 12:00 PST / 2:00 CST \
+This week, we explore various choices for designing graph neural networks (GNNs),
+including choices for aggregation and update within each layer and options to stack layers.
+
 
 Remainder of the schedule:
-* Graph Neural Networks 1: GNN Model
 * Graph Neural Networks 2: Design Space
-* Augmenting & Training Graph Neural Networks
+* Graph Neural Network Augmentation & Training
 * Community Structure in Networks
 * GNNs for Recommender Systems
 * Deep Generative Models for Graphs
