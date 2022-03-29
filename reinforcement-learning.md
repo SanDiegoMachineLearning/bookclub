@@ -29,7 +29,7 @@ and this is the [Monte Carlo methods video](https://youtu.be/Fwk7F2cVuWQ).
 Session 3:  **Temporal-Difference Learning** \
 Here is the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278801444/).
 The majority of the material for this session comes from chapter 6 of the Sutton & Barto book. \
-Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/3_Temporal_difference_learning.pdf) and video will be uploaded soon.
+Here are the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/3_Temporal_difference_learning.pdf) and [video](https://youtu.be/DbctF_QwtA0).
 
 Session 4:  **Programming Reinforcement Learning Algorithms** \
 Full details in the [Meetup event description](https://www.meetup.com/San-Diego-Machine-Learning/events/278970571/). \
@@ -39,7 +39,7 @@ and here is the [video](https://youtu.be/H2TE3v3b9Cg).
 Session 5:  **Planning and Learning in Reinforcement Learning** \
 Here are the full details of the [Meetup event](https://www.meetup.com/San-Diego-Machine-Learning/events/279249884/) \
 The material for this session primarily is from chapter 8 of the Sutton & Barto book. \
-Link to the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/5_Planning_and_learning.pdf).
+Link to the [slides](https://github.com/tedkyi/reinforcement-learning/blob/main/5_Planning_and_learning.pdf) and the [video](https://youtu.be/hgPW4XGnpLY).
 
 Session 6:  **Policy Gradient Methods for Reinforcement Learning** \
 The full description is in the [Meetup event details](https://www.meetup.com/San-Diego-Machine-Learning/events/279556688/) \
