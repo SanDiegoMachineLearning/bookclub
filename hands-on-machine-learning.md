@@ -63,7 +63,7 @@ Chapter 17:  **Representation Learning and Generative Learning Using Autoencoder
 Meetup:  [Chapter 17 session](https://www.meetup.com/San-Diego-Machine-Learning/events/284437576/) \
 Discussion leader:  Robert Kraig \
 This week we will discuss encoding images into and generating images from lower dimensional spaces. \
-[Slides](./homl/HOML_chapter17_220319.pdf)
+[Slides](./homl/HOML_chapter17_220319.pdf) and [video recording](https://youtu.be/Zt0GAkeGfBQ)
 
 Chapter 18:  **Reinforcement Learning** \
 Meetup:  [Chapter 18 event](https://www.meetup.com/San-Diego-Machine-Learning/events/284728428/) \
