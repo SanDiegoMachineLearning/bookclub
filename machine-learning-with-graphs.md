@@ -37,7 +37,7 @@ Session 5:  **Graph Neural Networks 1: GNN Model** \
 Meetup:  [Fifth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/284595271/) \
 In this session, we introduce graph neural networks (GNNs), which combine node features and graph structure in learning about graphs.
 This week we will introduce the GNN model, and the following session will flesh out more details about what GNNs look like. \
-[Slides](./graph/graphml-05-GNN1.pdf)
+[Slides](./graph/graphml-05-GNN1.pdf) and [video](https://youtu.be/00N96dXw_MA)
 
 Session 6:  **Graph Neural Networks 2: Design Space** \
 Meetup:  [Sixth event](https://www.meetup.com/San-Diego-Machine-Learning/events/284891007/) April 9, 12:00 PST / 2:00 CST \
