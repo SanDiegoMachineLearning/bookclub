@@ -24,7 +24,8 @@ There are three videos:  [node features](https://youtu.be/Jg1xZdHX9Xk), [link-le
 Session 3:  **Node Embeddings** \
 Meetup:  [Third event](https://www.meetup.com/San-Diego-Machine-Learning/events/283976180/) \
 Generalized representations (shallow embeddings) learned for nodes in a graph. \
-The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf) and the [notebook](./graph/node-embeddings.ipynb) with examples.
+The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/03-nodeemb.pdf), the [notebook](./graph/node-embeddings.ipynb) with examples,
+and the [video](https://youtu.be/IRnV5LqxNfU).
 
 Session 4:  **Link Analysis: PageRank** \
 Meetup:  [Fourth session](https://www.meetup.com/San-Diego-Machine-Learning/events/284277972/) \
@@ -40,13 +41,17 @@ This week we will introduce the GNN model, and the following session will flesh 
 [Slides](./graph/graphml-05-GNN1.pdf) and [video](https://youtu.be/00N96dXw_MA)
 
 Session 6:  **Graph Neural Networks 2: Design Space** \
-Meetup:  [Sixth event](https://www.meetup.com/San-Diego-Machine-Learning/events/284891007/) April 9, 12:00 PST / 2:00 CST \
+Meetup:  [Sixth event](https://www.meetup.com/San-Diego-Machine-Learning/events/284891007/) \
 This week, we explore various choices for designing graph neural networks (GNNs),
-including choices for aggregation and update within each layer and options to stack layers.
+including choices for aggregation and update within each layer and options to stack layers. \
+The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/07-GNN2.pdf) and the [video](https://youtu.be/TzgDRvvXKP4).
+
+Session 7:  **Graph Neural Network Augmentation & Training** \
+Meetup:  [Seventh event](https://www.meetup.com/San-Diego-Machine-Learning/events/285143856/) April 30, 12:00 PST / 2:00 CST \
+Please note, due to scheduling conflicts, this event is **three** weeks after the previous session (not two weeks).
 
 
 Remainder of the schedule:
-* Graph Neural Networks 2: Design Space
 * Graph Neural Network Augmentation & Training
 * Community Structure in Networks
 * GNNs for Recommender Systems
