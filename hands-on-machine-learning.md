@@ -71,10 +71,11 @@ Discussion leader:  Rajinder Mavi \
 This meeting we will do a whirlwhind tour of reinforcement learning. 
 If you are interested in going deeper, check out the [book club series we did on reinforcement learning](./reinforcement-learning.md).
 
-Remainder of the schedule:
-* Reinforcement Learning - *April 2*
-* Training and Deploying TensorFlow Models at Scale - *April 16*
-
+Chapter 19:  **Training and Deploying TensorFlow Models at Scale** \
+Meetup:  [Chapter 19 meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/285044773/) \
+Discussion leader:  Nidhin Pattaniyil \
+This final session we will discuss training models on GPUs or multiple GPUs, as well as how to deploy and serve models.
+[Slides](.homl/Chapter%2019.%20Training%20and%20Deploying%20TensorFlow%20Models%20at%20Scale.pdf)
 
 #### Part I
 
