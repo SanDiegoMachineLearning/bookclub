@@ -48,10 +48,11 @@ The [Stanford slides](http://web.stanford.edu/class/cs224w/slides/07-GNN2.pdf) a
 
 Session 7:  **Graph Neural Network Augmentation & Training** \
 Meetup:  [Seventh event](https://www.meetup.com/San-Diego-Machine-Learning/events/285143856/) \
-Please note, due to scheduling conflicts, this event is **three** weeks after the previous session (not two weeks).
+Please note, due to scheduling conflicts, this event is **three** weeks after the previous session (not two weeks). \
+[Slides](./graph/GNN-application.pdf) and [video](https://youtu.be/ILvlEbLF_oo)
 
 Session 8:  **Community Structure in Networks** \
-Meetup:  [Eight session](https://www.meetup.com/San-Diego-Machine-Learning/events/285484986/) May 7, 12:00 PST / 2:00 CST \
+Meetup:  [Eighth session](https://www.meetup.com/San-Diego-Machine-Learning/events/285484986/) May 7, 12:00 PST / 2:00 CST \
 We take a brief break from GNNs to discuss how communities form in networks and to look at some community detection algorithms.
 
 
