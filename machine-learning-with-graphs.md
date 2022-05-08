@@ -52,12 +52,15 @@ Please note, due to scheduling conflicts, this event is **three** weeks after th
 [Slides](./graph/GNN-application.pdf) and [video](https://youtu.be/ILvlEbLF_oo)
 
 Session 8:  **Community Structure in Networks** \
-Meetup:  [Eighth session](https://www.meetup.com/San-Diego-Machine-Learning/events/285484986/) May 7, 12:00 PST / 2:00 CST \
-We take a brief break from GNNs to discuss how communities form in networks and to look at some community detection algorithms.
+Meetup:  [Eighth session](https://www.meetup.com/San-Diego-Machine-Learning/events/285484986/) \
+We take a brief break from GNNs to discuss how communities form in networks and to look at some community detection algorithms. \
+[Slides](./graph/graphml-communities.pdf) - see the second to last slide for links to the algorithm papers.
+
+Session 9:  **GNNs for Recommender Systems** \
+Meetup:  [Ninth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/285744577/) May 21, 12:00 PST / 2:00 CST
 
 
 Remainder of the schedule:
-* Community Structure in Networks
 * GNNs for Recommender Systems
 * Deep Generative Models for Graphs
 * Knowledge Graph Embeddings
@@ -66,14 +69,14 @@ Remainder of the schedule:
 
 
 ### Resources
-The main website for the Stanford course CS224W is http://web.stanford.edu/class/cs224w/. \
-The primary text is [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton. 
-This material supports the slides, and in some cases goes into further depth. \
-In our meetup, supplemental coding examples will be drawn from [Graph Machine Learning](https://www.amazon.com/dp/1800204493) by Claudio Stamile et al.
-The notebooks for this book can be found at https://github.com/PacktPublishing/Graph-Machine-Learning. \
-The Fall 2021 videos of Prefessor Lescovec are available from this YouTube playlist:  https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn \
-Tutorials and Colab notebooks for PyTorch Geometric (PyG) can be found here:  https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html \
-The above PyG page includes a link to student tutorials from the CS224W class on various graph ML topics:  https://medium.com/stanford-cs224w
+* The main website for the Stanford course CS224W is http://web.stanford.edu/class/cs224w/.
+* The primary text is [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/) by William L. Hamilton. 
+This material supports the slides, and in some cases goes into further depth.
+* In our meetup, supplemental coding examples will be drawn from [Graph Machine Learning](https://www.amazon.com/dp/1800204493) by Claudio Stamile et al.
+The notebooks for this book can be found at https://github.com/PacktPublishing/Graph-Machine-Learning.
+* The Fall 2021 videos of Prefessor Lescovec are available from this YouTube playlist:  https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+* Tutorials and Colab notebooks for PyTorch Geometric (PyG) can be found here:  https://pytorch-geometric.readthedocs.io/en/latest/notes/colabs.html
+* The above PyG page includes a link to student tutorials from the CS224W class on various graph ML topics:  https://medium.com/stanford-cs224w
 
 
 <br>
