@@ -55,13 +55,19 @@ Session 8:  **Community Structure in Networks** \
 Meetup:  [Eighth session](https://www.meetup.com/San-Diego-Machine-Learning/events/285484986/) \
 We take a brief break from GNNs to discuss how communities form in networks and to look at some community detection algorithms. \
 [Slides](./graph/graphml-communities.pdf) - see the second to last slide for links to the algorithm papers.
+And the [video recording](https://youtu.be/AExBGCjoIVg).
 
-Session 9:  **GNNs for Recommender Systems** \
-Meetup:  [Ninth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/285744577/) May 21, 12:00 PST / 2:00 CST
+Session 9:  **Scaling Up GNNs** \
+Meetup:  [Ninth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/285744577/) \
+Approaches to training GNNs for extremely large graphs. \
+Link to the [Stanford slides](http://web.stanford.edu/class/cs224w/slides/17-scalable.pdf)
+
+Session 10:  **Deep Generative Models for Graphs** \
+Meetup:  [Tenth meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/286065719/) June 4, 12:00 PST / 2:00 CST \
+This session, we look at generating synthetic graphs that are realistic.
 
 
 Remainder of the schedule:
-* GNNs for Recommender Systems
 * Deep Generative Models for Graphs
 * Knowledge Graph Embeddings
 * Reasoning over Knowledge Graphs
