@@ -63,12 +63,15 @@ Approaches to training GNNs for extremely large graphs. \
 Link to the [Stanford slides](http://web.stanford.edu/class/cs224w/slides/17-scalable.pdf)
 
 Session 10:  **Deep Generative Models for Graphs** \
-Meetup:  [Tenth meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/286065719/) June 4, 12:00 PST / 2:00 CST \
+Meetup:  [Tenth meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/286065719/) \
 This session, we look at generating synthetic graphs that are realistic.
+
+Session 11:  **Knowledge Graph Embeddings** \
+Meetup:  [Eleventh session](https://www.meetup.com/san-diego-machine-learning/events/286327091/) June 18, 12:00 PDT / 2:00 CDT \
+This will be the first of two sessions talking about knowledge graphs.
 
 
 Remainder of the schedule:
-* Deep Generative Models for Graphs
 * Knowledge Graph Embeddings
 * Reasoning over Knowledge Graphs
 * Specific application coding tutorial(s)
