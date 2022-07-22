@@ -1,5 +1,11 @@
 Notes and links from the SDML book club meetings
 
+### Quantum Computing
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/dancing_with_qubits.png?raw=true" width="160">
+
+Videos, schedule, and additional materials for the meetup sessions for the Quantum Computing series, using the book *Dancing with Qubits*, which starts in August 2022,
+can be found in the document [quantum-computing.md](./quantum-computing.md).
+
 ### Machine Learning with Graphs
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/graph.jpg?raw=true" width="160">
 
