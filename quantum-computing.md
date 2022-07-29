@@ -2,7 +2,7 @@
 
 ## Quantum Computing
 
-The SDML book club will start discussing *Dancing with Qubits* by Robert Sutor in August 2022. 
+The SDML book club will start discussing *Dancing with Qubits* by Robert Sutor (https://www.packtpub.com/product/dancing-with-qubits/9781838827366) in August 2022. 
 
 ### Notes and videos
 Below are the schedule, any additional materials, and links to the meetup recordings.  The videos will all be uploaded to Ryan's YouTube channel:  https://www.youtube.com/c/ITConnected/videos.
