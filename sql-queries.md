@@ -14,7 +14,7 @@ All of the videos will be posted to Ryan's YouTube channel:  https://www.youtube
 #### Schedule
 
 Session 1:  Kickoff and Chapter 1, **Understanding SQL** \
-Meetup will be Tuesday, September 6, 2022, from 5:30-6:30 pm Pacific \
+Meetup (https://www.meetup.com/san-diego-machine-learning/events/287539370/) will be Tuesday, September 6, 2022, from 5:30-6:30 pm Pacific \
 We will meet other people in small breakout rooms and discuss chapter 1 of the SQL book. 
 
 Session 2:  Chapter 2, **Retrieving Data** and Chapter 3, **Sorting Retrieved Data** \
@@ -27,7 +27,7 @@ Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data**
 Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
 Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
 Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
-Session 12:  Chapter 21, **Understanding Advanced SQL Features**, possible additional advanced topics, and wrap up \
+Session 12:  Chapter 21, **Understanding Advanced SQL Features**, possible additional advanced topics, and wrap up 
 
 If there is interest, additional sessions could be scheduled to understand more deeply how relational databases work
 and concepts around why some queries are slow & how to write good queries

@@ -1,5 +1,12 @@
 Notes and links from the SDML book club meetings
 
+### Learning SQL Queries
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/sqlin10min.jpg?raw=true" width="160">
+
+Notest/slides, videos, schedule, and additional materials for the meetup sessions for the Learning SQL series, 
+using the book *Sams Teach Yourself SQL in 10 Minutes*, which starts in September 2022,
+can be found in the document [sql-queries.md](./quantum-computing.md).
+
 ### Quantum Computing
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/dancing_with_qubits.png?raw=true" width="160">
 
