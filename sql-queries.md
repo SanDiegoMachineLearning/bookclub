@@ -3,7 +3,7 @@
 ## Learning SQL Queries
 
 The SDML book club will start discussing *Sams Teach Yourself SQL in 10 Minutes, 5th Edition* 
-by Ben Forta in September 2022. \
+by Ben Forta (https://www.amazon.com/gp/product/0135182794/) in September 2022. \
 Additional practice problems may be drawn from online resources like [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
 and [SQLBolt](https://sqlbolt.com/).
 
