@@ -2,7 +2,7 @@
 
 ## Quantum Computing
 
-The SDML book club will start discussing *Dancing with Qubits* by Robert Sutor (https://www.packtpub.com/product/dancing-with-qubits/9781838827366) in August 2022. 
+The SDML book club started discussing *Dancing with Qubits* by Robert Sutor (https://www.packtpub.com/product/dancing-with-qubits/9781838827366) in August 2022. 
 
 ### Notes and videos
 Below are the schedule, any additional materials, and links to the meetup recordings.  The videos will all be uploaded to Ryan's YouTube channel:  https://www.youtube.com/c/ITConnected/videos.
@@ -10,12 +10,16 @@ Below are the schedule, any additional materials, and links to the meetup record
 #### Part I -- Foundations
 
 Chapter 1:  **Why Quantum Computing?** \
-Here is the full [Meetup event description](https://www.meetup.com/san-diego-machine-learning/events/287313636/) for the kickoff on August 13, 12:00 pm PDT. 
-We will meet each other in small breakout rooms and discuss chapter 1 of the book. 
+Here is the full [Meetup event description](https://www.meetup.com/san-diego-machine-learning/events/287313636/) for the kickoff on August 13. 
+We will meet each other in small breakout rooms and discuss chapter 1 of the book. \
+Here is the [session schedule and outline of chapter 1](https://docs.google.com/document/d/1ckVprsqS7mXo9Q_4nBs6EBCIbNW30BUMu-r0Ix1c34s/edit?usp=sharing).
+
+Chapter 2:  **They’re Not Old, They’re Classics** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/287822260/) will be Saturday, August 20, 12:00 pm PDT.
+We set a baseline for what classical computing is and how algorithms scale, so that we can show differences with quantum computing.
 
 Remainder of the schedule:
 
-Chapter 2:  **They’re Not Old, They’re Classics** \
 Chapter 3:  **More Numbers than You Can Imagine** \
 Chapter 4:  **Planes and Circles and Spheres, Oh My** \
 Chapter 5:  **Dimensions** -- likely two sessions \
