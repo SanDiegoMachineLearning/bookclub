@@ -15,15 +15,18 @@ We will meet each other in small breakout rooms and discuss chapter 1 of the boo
 Here is the [session schedule and outline of chapter 1](https://docs.google.com/document/d/1ckVprsqS7mXo9Q_4nBs6EBCIbNW30BUMu-r0Ix1c34s/edit?usp=sharing).
 
 Chapter 2:  **They’re Not Old, They’re Classics** \
-The [meetup](https://www.meetup.com/san-diego-machine-learning/events/287822260/) will be Saturday, August 20, 12:00 pm PDT.
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/287822260/) on Saturday, August 20.
 We set a baseline for what classical computing is and how algorithms scale, so that we can show differences with quantum computing. \
 [Chapter outline](https://docs.google.com/document/d/1ZT-70btTopR3ZZksr-M1-SCTnhXwy0lpNQK-ZCeVzew/edit?usp=sharing)
 
-Remainder of the schedule:
-
 Chapter 3:  **More Numbers than You Can Imagine** \
 Chapter 4:  **Planes and Circles and Spheres, Oh My** \
-Chapter 5:  **Dimensions** -- maybe two sessions \
+These chapters will be covered together in [one session](https://www.meetup.com/san-diego-machine-learning/events/287949752/) Saturday, August 27, 12:00 pm PDT. \
+[Outline for both chapters](https://docs.google.com/document/d/1VNqj5gDw2zHtXBsB0Ha9OPspLt2XIdveRSxL8E8TA_o/edit?usp=sharing)
+
+Remainder of the schedule:
+
+Chapter 5:  **Dimensions** \
 Chapter 6:  **What Do You Mean “Probably”?** 
 
 #### Part 2 -- Quantum Computing
