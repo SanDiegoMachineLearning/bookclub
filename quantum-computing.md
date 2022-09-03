@@ -24,9 +24,12 @@ Chapter 4:  **Planes and Circles and Spheres, Oh My** \
 These chapters will be covered together in [one session](https://www.meetup.com/san-diego-machine-learning/events/287949752/) Saturday, August 27, 12:00 pm PDT. \
 [Outline for both chapters](https://docs.google.com/document/d/1VNqj5gDw2zHtXBsB0Ha9OPspLt2XIdveRSxL8E8TA_o/edit?usp=sharing)
 
+Chapter 5:  **Dimensions** \
+A review of linear algebra used in quantum computing.  Saturday, September 3. \
+[Outline](https://docs.google.com/document/d/1F0sPm84bwlGh2Q5Xr6D_6bpmzf-mjb-5GjQWbvT3a5I/edit?usp=sharing)
+
 Remainder of the schedule:
 
-Chapter 5:  **Dimensions** \
 Chapter 6:  **What Do You Mean “Probably”?** 
 
 #### Part 2 -- Quantum Computing
