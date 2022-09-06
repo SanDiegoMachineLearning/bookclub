@@ -15,7 +15,13 @@ All of the videos will be posted to Ryan's YouTube channel:  https://www.youtube
 
 Session 1:  Kickoff and Chapter 1, **Understanding SQL** \
 Meetup (https://www.meetup.com/san-diego-machine-learning/events/287539370/) will be Tuesday, September 6, 2022, from 5:30-6:30 pm Pacific \
-We will meet other people in small breakout rooms and discuss chapter 1 of the SQL book. 
+We will meet other people in small breakout rooms and discuss chapter 1 of the SQL book. \
+Here are [kickoff info and notes for chapter 1](https://docs.google.com/document/d/1nzoMCRpN2R8kqFPGHLOtyeuaLunR1_w3JTwUjwXukW0/edit?usp=sharing),
+sample [SQLite database file](https://github.com/tedkyi/talks/blob/master/TYSQL.sqlite) from the author,
+and a sample [Jupyter notebook](https://github.com/tedkyi/talks/blob/master/Sqlite.ipynb) for running queries on a SQLite database. \
+Sample data for other database systems is available on the [author's book page](https://forta.com/books/0135182794/) in the section about Appendix A.
+
+Remainder of the schedule: 
 
 Session 2:  Chapter 2, **Retrieving Data** and Chapter 3, **Sorting Retrieved Data** \
 Session 3:  Chapter 4, **Filtering Data** and Chapter 5, **Advanced Data Filtering** \
