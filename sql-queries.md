@@ -21,9 +21,13 @@ sample [SQLite database file](https://github.com/tedkyi/talks/blob/master/TYSQL.
 and a sample [Jupyter notebook](https://github.com/tedkyi/talks/blob/master/Sqlite.ipynb) for running queries on a SQLite database. \
 Sample data for other database systems is available on the [author's book page](https://forta.com/books/0135182794/) in the section about Appendix A.
 
+Session 2:  Chapter 2, **Retrieving Data** and Chapter 3, **Sorting Retrieved Data** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/288317091/) will be Tuesday, September 13, 2022, 5:30-6:30 pm PDT. \
+Discussion leader:  James Colbert \
+We start with the `SELECT` statement for retrieving data.
+
 Remainder of the schedule: 
 
-Session 2:  Chapter 2, **Retrieving Data** and Chapter 3, **Sorting Retrieved Data** \
 Session 3:  Chapter 4, **Filtering Data** and Chapter 5, **Advanced Data Filtering** \
 Session 4:  Chapter 6, **Using Wildcard Filtering** and Chapter 7, **Creating Calculated Fields** \
 Session 5:  Chapter 8,  **Using Data Manipulation Functions** and Chapter 9, **Summarizing Data** \
