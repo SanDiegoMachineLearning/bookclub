@@ -30,11 +30,15 @@ We start with the `SELECT` statement for retrieving data. \
 Session 3:  Chapter 4, **Filtering Data** and Chapter 5, **Advanced Data Filtering** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/288423281/) will be Tuesday, September 20, 2022, 5:30-6:30 pm PDT \
 Discussion leader:  Ian Cook \
-We add the `WHERE` clause to filter the rows returned.
+We add the `WHERE` clause to filter the rows returned. \
+[Notes](./tysql/TYSQL%20-%20Chapters%204%20and%205.pdf)
+
+Session 4:  Chapter 6, **Using Wildcard Filtering** and Chapter 7, **Creating Calculated Fields** \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288596285/) will be Tuesday, September 27, 2022, 5:30-6:30 pm PDT. \
+We discuss filtering with the `LIKE` clause, and we talk about calculated fields.
 
 Remainder of the schedule: 
 
-Session 4:  Chapter 6, **Using Wildcard Filtering** and Chapter 7, **Creating Calculated Fields** \
 Session 5:  Chapter 8,  **Using Data Manipulation Functions** and Chapter 9, **Summarizing Data** \
 Session 6:  Chapter 10, **Grouping Data** and Chapter 11, **Working with Subqueries** \
 Session 7:  Chapter 12, **Joining Tables** and Chapter 13, **Creating Advanced Joins** \
