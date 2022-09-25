@@ -32,13 +32,22 @@ Chapter 6:  **What Do You Mean “Probably”?** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/288229350/) will be Saturday, September 10, 12:00 pm PDT. \
 [Outline](https://docs.google.com/document/d/1VNdw-5w3BduVCoY2Zt5I6AVVYrbX3SzgeymEYOkUAH8/edit?usp=sharing)
 
-Remainder of the schedule:
-
 #### Part 2 -- Quantum Computing
 
-Chapter 7:  **One Qubit**  -- likely two sessions \
+Chapter 7:  **One Qubit** \
+The math and description of the state of a single qubit and gates that transform a qubit.  Saturday, September 17. \
+[Outline](https://docs.google.com/document/d/1CF4FkvO1wAPBE_p1Zqh4gTfGa_wRBnO2jKlWa3Yav1A/edit?usp=sharing)
+
 Chapter 8:  **Two Qubits, Three** \
-Chapter 9:  **Wiring Up the Circuits**  -- likely two sessions \
+Extending our understanding to the state of multiple qubits, including some two-qubit and three-qubit gates.  Saturday, September 24. \
+[Outline](https://docs.google.com/document/d/1ibJWdcx36x1NCBV2tiSdlveO8PvmXri08kisRY0GLtA/edit?usp=sharing)
+
+Chapter 9:  **Wiring Up the Circuits**  -- may require more than one session \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288687223/) will discuss how to connect the quantum gates we have seen in the last two chapters.
+
+
+Remainder of the schedule:
+
 Chapter 10:  **From Circuits to Algorithms** \
 Chapter 11:  **Getting Physical** \
 Chapter 12:  **Questions about the Future** 
