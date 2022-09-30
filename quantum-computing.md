@@ -42,7 +42,7 @@ Chapter 8:  **Two Qubits, Three** \
 Extending our understanding to the state of multiple qubits, including some two-qubit and three-qubit gates.  Saturday, September 24. \
 [Outline](https://docs.google.com/document/d/1ibJWdcx36x1NCBV2tiSdlveO8PvmXri08kisRY0GLtA/edit?usp=sharing)
 
-Chapter 9:  **Wiring Up the Circuits**  -- may require more than one session \
+Chapter 9:  **Wiring Up the Circuits**  -- starting Saturday, October 1; may require more than one session \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288687223/) will discuss how to connect the quantum gates we have seen in the last two chapters.
 
 
