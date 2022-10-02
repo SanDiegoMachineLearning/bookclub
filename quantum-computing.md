@@ -43,12 +43,14 @@ Extending our understanding to the state of multiple qubits, including some two-
 [Outline](https://docs.google.com/document/d/1ibJWdcx36x1NCBV2tiSdlveO8PvmXri08kisRY0GLtA/edit?usp=sharing)
 
 Chapter 9:  **Wiring Up the Circuits**  -- starting Saturday, October 1; may require more than one session \
-This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288687223/) will discuss how to connect the quantum gates we have seen in the last two chapters.
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288687223/) will discuss how to connect the quantum gates we have seen in the last two chapters. \
+[Outline](https://docs.google.com/document/d/1EDrZRK3OtBObfqPR5hJPueumbwEvhZotfA9nuoK4PMs/edit?usp=sharing)
 
+Chapter 10:  **From Circuits to Algorithms** \
+In this [session](https://www.meetup.com/san-diego-machine-learning/events/288843216/) we work our way up to some interesting algorithms.  Saturday, October 8.
 
 Remainder of the schedule:
 
-Chapter 10:  **From Circuits to Algorithms** \
 Chapter 11:  **Getting Physical** \
 Chapter 12:  **Questions about the Future** 
 
