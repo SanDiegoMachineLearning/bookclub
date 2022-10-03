@@ -19,19 +19,20 @@ We will meet other people in small breakout rooms and discuss chapter 1 of the S
 Here are [kickoff info and notes for chapter 1](https://docs.google.com/document/d/1nzoMCRpN2R8kqFPGHLOtyeuaLunR1_w3JTwUjwXukW0/edit?usp=sharing),
 sample [SQLite database file](https://github.com/tedkyi/talks/blob/master/TYSQL.sqlite) from the author,
 and a sample [Jupyter notebook](https://github.com/tedkyi/talks/blob/master/Sqlite.ipynb) for running queries on a SQLite database. \
-Sample data for other database systems is available on the [author's book page](https://forta.com/books/0135182794/) in the section about Appendix A.
+Sample data for other database systems is available on the [author's book page](https://forta.com/books/0135182794/) in the section about Appendix A. \
+[Video recording of kickoff and chapter 1](https://youtu.be/jO0XCdi4xnY).
 
 Session 2:  Chapter 2, **Retrieving Data** and Chapter 3, **Sorting Retrieved Data** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/288317091/) will be Tuesday, September 13, 2022, 5:30-6:30 pm PDT. \
 Discussion leader:  James Colbert \
 We start with the `SELECT` statement for retrieving data. \
-[Notes](./tysql/TYSQL%20-%20Chapters%202%20and%203.pdf)
+[Notes](./tysql/TYSQL%20-%20Chapters%202%20and%203.pdf) and [video](https://youtu.be/pqydJRwu_Dc)
 
 Session 3:  Chapter 4, **Filtering Data** and Chapter 5, **Advanced Data Filtering** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/288423281/) will be Tuesday, September 20, 2022, 5:30-6:30 pm PDT \
 Discussion leader:  Ian Cook \
 We add the `WHERE` clause to filter the rows returned. \
-[Notes](./tysql/TYSQL%20-%20Chapters%204%20and%205.pdf)
+[Notes](./tysql/TYSQL%20-%20Chapters%204%20and%205.pdf) and [video](https://youtu.be/qXQMnTc5iu4)
 
 Session 4:  Chapter 6, **Using Wildcard Filtering** and Chapter 7, **Creating Calculated Fields** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288596285/) will be Tuesday, September 27, 2022, 5:30-6:30 pm PDT. \
