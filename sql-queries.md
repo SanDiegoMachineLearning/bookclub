@@ -41,11 +41,15 @@ We discuss filtering with the `LIKE` clause, and we talk about calculated fields
 
 Session 5:  Chapter 8,  **Using Data Manipulation Functions** and Chapter 9, **Summarizing Data** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/288766470/) will be Tuesday, October 4, 2022, 5:30-6:30 pm PDT \
-Using built-in functions and summarizing data with aggregation functions
+Using built-in functions and summarizing data with aggregation functions. \
+[Notes](./tysql/Chapter%208%20and%209%20-%20Summarizing%20and%20Manipulating%20Data.pdf)
+
+Session 6:  Chapter 10, **Grouping Data** and Chapter 11, **Working with Subqueries** \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288917421/) will be Tuesday, October 11, 2022, 5:30-6:30 pm PDT \
+We will introduce the `GROUP BY` clause and discuss subqueries.
 
 Remainder of the schedule: 
 
-Session 6:  Chapter 10, **Grouping Data** and Chapter 11, **Working with Subqueries** \
 Session 7:  Chapter 12, **Joining Tables** and Chapter 13, **Creating Advanced Joins** \
 Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data** \
 Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
