@@ -49,7 +49,7 @@ Session 6:  Chapter 10, **Grouping Data** and Chapter 11, **Working with Subquer
 Discussion leader:  Sule Sidigu \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288917421/) will be Tuesday, October 11, 2022, 5:30-6:30 pm PDT \
 We will introduce the `GROUP BY` clause and discuss subqueries. \
-[Slides](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20Slides.pdf) and [Notes](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20Notes.pdf)
+[Slides](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20slides.pdf) and [Notes](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20notes.pdf)
 
 Remainder of the schedule: 
 
