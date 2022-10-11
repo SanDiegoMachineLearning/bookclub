@@ -48,11 +48,13 @@ This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288687223
 [Outline](https://docs.google.com/document/d/1EDrZRK3OtBObfqPR5hJPueumbwEvhZotfA9nuoK4PMs/edit?usp=sharing) and [video](https://youtu.be/or4jZjdk4qk)
 
 Chapter 10:  **From Circuits to Algorithms** \
-In this [session](https://www.meetup.com/san-diego-machine-learning/events/288843216/) we work our way up to some interesting algorithms.  Saturday, October 8.
+In this [session](https://www.meetup.com/san-diego-machine-learning/events/288843216/) we work our way up to some interesting algorithms.  Saturday, October 8. \
+[Outline](https://docs.google.com/document/d/1gKmaCDsHDr1ue0VQN6OC75ROoIhqCr6DTHbBcCDrWvo/edit?usp=sharing)
 
 Remainder of the schedule:
 
-Chapter 11:  **Getting Physical** \
+Chapter 11:  **Getting Physical**
+and 
 Chapter 12:  **Questions about the Future** 
 
 
