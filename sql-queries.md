@@ -51,9 +51,13 @@ This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288917421
 We will introduce the `GROUP BY` clause and discuss subqueries. \
 [Slides](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20slides.pdf) and [Notes](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20notes.pdf)
 
+Session 7:  Chapter 12, **Joining Tables** and Chapter 13, **Creating Advanced Joins** \
+The [meeting](https://www.meetup.com/san-diego-machine-learning/events/289015801/) will be on Tuesday, October 18, 2002, 5:30-6:30 pm PDT \
+Discussion leader:  Mya Bakhova \
+This session will discuss both basic and advanced ways to join tables.
+
 Remainder of the schedule: 
 
-Session 7:  Chapter 12, **Joining Tables** and Chapter 13, **Creating Advanced Joins** \
 Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data** \
 Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
 Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
