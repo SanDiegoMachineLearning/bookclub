@@ -46,8 +46,8 @@ Using built-in functions and summarizing data with aggregation functions. \
 [Notes](./tysql/Chapter%208%20and%209%20-%20Summarizing%20and%20Manipulating%20Data.pdf)
 
 Session 6:  Chapter 10, **Grouping Data** and Chapter 11, **Working with Subqueries** \
-Discussion leader:  Sule Sidigu \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288917421/) will be Tuesday, October 11, 2022, 5:30-6:30 pm PDT \
+Discussion leader:  Sule Sidigu \
 We will introduce the `GROUP BY` clause and discuss subqueries. \
 [Slides](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20slides.pdf) and [Notes](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20notes.pdf)
 
@@ -56,16 +56,25 @@ The [meeting](https://www.meetup.com/san-diego-machine-learning/events/289015801
 Discussion leader:  Mya Bakhova \
 This session will discuss both basic and advanced ways to join tables.
 
+Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data** \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/289161103/) will be Tuesday, October 25, 2022, 5:30-6:30 pm PDT \
+Discussion leader:  Harold Anderson \
+We will introduce the `UNION` operation and discuss ways to insert rows. \
+
+Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289322564/) will be Tuesday, November 1, 2022, 5:30-6:30 pm PDT \
+Topics will be the `UPDATE` and `DELETE` statements, then creating and modifying database tables.
+
 Remainder of the schedule: 
 
-Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data** \
-Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
 Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
 Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
-Session 12:  Chapter 21, **Understanding Advanced SQL Features**, possible additional advanced topics, and wrap up 
+Session 12:  Chapter 21, **Understanding Advanced SQL Features**, possible additional advanced topics \
+Additional sessions on advanced topics such as window functions, CTEs, and temp tables will be scheduled, \
+details TBD.
 
 If there is interest, additional sessions could be scheduled to understand more deeply how relational databases work
-and concepts around why some queries are slow & how to write good queries
+and concepts around why some queries are slow & how to write good queries. 
 
 
 ### Challenge Solutions
