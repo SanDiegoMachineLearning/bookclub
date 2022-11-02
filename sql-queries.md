@@ -54,20 +54,27 @@ We will introduce the `GROUP BY` clause and discuss subqueries. \
 Session 7:  Chapter 12, **Joining Tables** and Chapter 13, **Creating Advanced Joins** \
 The [meeting](https://www.meetup.com/san-diego-machine-learning/events/289015801/) will be on Tuesday, October 18, 2002, 5:30-6:30 pm PDT \
 Discussion leader:  Mya Bakhova \
-This session will discuss both basic and advanced ways to join tables.
+This session will discuss both basic and advanced ways to join tables. \
+[Slides](./tysql/SQL%20in%2010%20minutes%20-%20Chapters%2012%20and%2013.pdf)
 
 Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289161103/) will be Tuesday, October 25, 2022, 5:30-6:30 pm PDT \
 Discussion leader:  Harold Anderson \
-We will introduce the `UNION` operation and discuss ways to insert rows. \
+We will introduce the `UNION` operation and discuss ways to insert rows. 
 
 Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289322564/) will be Tuesday, November 1, 2022, 5:30-6:30 pm PDT \
-Topics will be the `UPDATE` and `DELETE` statements, then creating and modifying database tables.
+Discussion leader:  Sule Sidigu \
+Topics will be the `UPDATE` and `DELETE` statements, then creating and modifying database tables. \
+[Slides](./tysql/TYSQL%20-%20Chapters%2016%20and%2017.pdf)
+
+Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/289489243/) will be Tuesday, November 8, 2022, 5:30-6:30 pm PST \
+Discussion leader:  Xi Chen \
+We will discuss SQL code saved in the database as views and as stored procedures.
 
 Remainder of the schedule: 
 
-Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
 Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
 Session 12:  Chapter 21, **Understanding Advanced SQL Features**, possible additional advanced topics \
 Additional sessions on advanced topics such as window functions, CTEs, and temp tables will be scheduled, \
