@@ -60,7 +60,8 @@ This session will discuss both basic and advanced ways to join tables. \
 Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289161103/) will be Tuesday, October 25, 2022, 5:30-6:30 pm PDT \
 Discussion leader:  Harold Anderson \
-We will introduce the `UNION` operation and discuss ways to insert rows. 
+We will introduce the `UNION` operation and discuss ways to insert rows. \
+[Slides](./tysql/TYSQL%20-%20Chapters%2014%20and%2015.pdf)
 
 Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289322564/) will be Tuesday, November 1, 2022, 5:30-6:30 pm PDT \
