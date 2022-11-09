@@ -72,14 +72,18 @@ Topics will be the `UPDATE` and `DELETE` statements, then creating and modifying
 Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289489243/) will be Tuesday, November 8, 2022, 5:30-6:30 pm PST \
 Discussion leader:  Xi Chen \
-We will discuss SQL code saved in the database as views and as stored procedures.
+We will discuss SQL code saved in the database as views and as stored procedures. \
+[Slides](./tysql/TYSQL%20-%20Chapters%2018%20and%2019.pdf)
+
+Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/289633398/) will be Tuesday, November 15, 2022, 5:30-6:30 pm PST \
+New content will cover wrapping SQL code in transactions and using cursors to iterate through rows.
 
 Remainder of the schedule: 
 
-Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
-Session 12:  Chapter 21, **Understanding Advanced SQL Features**, possible additional advanced topics \
-Additional sessions on advanced topics such as window functions, CTEs, and temp tables will be scheduled, \
-details TBD.
+Session 12:  Chapter 21, **Understanding Advanced SQL Features**, plus additional topics of **CTEs** and **temp tables** \
+Session 13:  Advanced topic of **window functions** \
+Further sessions on advanced topics may be scheduled, details TBD.
 
 If there is interest, additional sessions could be scheduled to understand more deeply how relational databases work
 and concepts around why some queries are slow & how to write good queries. 
