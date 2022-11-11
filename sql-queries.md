@@ -37,7 +37,7 @@ We add the `WHERE` clause to filter the rows returned. \
 Session 4:  Chapter 6, **Using Wildcard Filtering** and Chapter 7, **Creating Calculated Fields** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288596285/) will be Tuesday, September 27, 2022, 5:30-6:30 pm PDT. \
 We discuss filtering with the `LIKE` clause, and we talk about calculated fields. \
-[Notes](./tysql/TYSQL%20-%20Chapters%206%20and%207.pdf)
+[Notes](./tysql/TYSQL%20-%20Chapters%206%20and%207.pdf) and [video](https://youtu.be/kx-cTYLAxts)
 
 Session 5:  Chapter 8,  **Using Data Manipulation Functions** and Chapter 9, **Summarizing Data** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/288766470/) will be Tuesday, October 4, 2022, 5:30-6:30 pm PDT \
@@ -50,6 +50,7 @@ This [meetup](https://www.meetup.com/san-diego-machine-learning/events/288917421
 Discussion leader:  Sule Sidigu \
 We will introduce the `GROUP BY` clause and discuss subqueries. \
 [Slides](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20slides.pdf) and [Notes](./tysql/TYSQL%20-%20Chapters%2010%20and%2011%20notes.pdf)
+and [video](https://youtu.be/I3v4Btp5bMc)
 
 Session 7:  Chapter 12, **Joining Tables** and Chapter 13, **Creating Advanced Joins** \
 The [meeting](https://www.meetup.com/san-diego-machine-learning/events/289015801/) will be on Tuesday, October 18, 2002, 5:30-6:30 pm PDT \
@@ -61,7 +62,7 @@ Session 8:  Chapter 14, **Combining Queries** and Chapter 15, **Inserting Data**
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289161103/) will be Tuesday, October 25, 2022, 5:30-6:30 pm PDT \
 Discussion leader:  Harold Anderson \
 We will introduce the `UNION` operation and discuss ways to insert rows. \
-[Slides](./tysql/TYSQL%20-%20Chapters%2014%20and%2015.pdf)
+[Slides](./tysql/TYSQL%20-%20Chapters%2014%20and%2015.pdf) and [video](https://youtu.be/o3g1o17eFVo)
 
 Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creating and Manipulating Tables** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289322564/) will be Tuesday, November 1, 2022, 5:30-6:30 pm PDT \
@@ -73,10 +74,11 @@ Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored P
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289489243/) will be Tuesday, November 8, 2022, 5:30-6:30 pm PST \
 Discussion leader:  Xi Chen \
 We will discuss SQL code saved in the database as views and as stored procedures. \
-[Slides](./tysql/TYSQL%20-%20Chapters%2018%20and%2019.pdf)
+[Slides](./tysql/TYSQL%20-%20Chapters%2018%20and%2019.pdf) and [video](https://youtu.be/Gm_nQckYET8)
 
 Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289633398/) will be Tuesday, November 15, 2022, 5:30-6:30 pm PST \
+Discussion leader:  Ryan Chesler \
 New content will cover wrapping SQL code in transactions and using cursors to iterate through rows.
 
 Remainder of the schedule: 
