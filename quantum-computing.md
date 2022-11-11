@@ -51,12 +51,8 @@ Chapter 10:  **From Circuits to Algorithms** \
 In this [session](https://www.meetup.com/san-diego-machine-learning/events/288843216/) we work our way up to some interesting algorithms.  Saturday, October 8. \
 [Outline](https://docs.google.com/document/d/1gKmaCDsHDr1ue0VQN6OC75ROoIhqCr6DTHbBcCDrWvo/edit?usp=sharing)
 
-Remainder of the schedule:
-
-Chapter 11:  **Getting Physical**
-and 
-Chapter 12:  **Questions about the Future** 
-
+Chapter 11:  **Getting Physical** \
+[Outline](https://docs.google.com/document/d/1PK6rv5OV5B7xg_nuueMq0WzdGl_hg2y-LItPVzu-dUk/edit?usp=sharing) and [video](https://youtu.be/nsXOioJy5jw)
 
 ### Errata
 A small number of changes since the first printing are listed here:  https://www.robertsutor.com/wp-content/uploads/2021/10/dwq-changes.pdf.
