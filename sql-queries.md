@@ -92,7 +92,7 @@ Overviews for these additional topics can be found here:
 
 Remainder of the schedule: 
 
-Session 13:  Advanced topic of **window functions** \
+Session 13:  Advanced topics of **window functions** and **CASE** expressions \
 Further sessions on advanced topics may be scheduled, details TBD.
 
 If there is interest, additional sessions could be scheduled to understand more deeply how relational databases work
