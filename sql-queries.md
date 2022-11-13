@@ -81,9 +81,17 @@ This [session](https://www.meetup.com/san-diego-machine-learning/events/28963339
 Discussion leader:  Ryan Chesler \
 New content will cover wrapping SQL code in transactions and using cursors to iterate through rows.
 
+Session 12:  Chapter 22, **Understanding Advanced SQL Features**, plus additional topics of **CTEs** and **temp tables** \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289735395/) will be Tuesday, December 6, 2022, 5:30-6:30 pm PST \
+This session will cover lesson 22 about database constraints and indexes. 
+We are going to supplement the book with material about CTEs and Temp Tables. 
+Overviews for these additional topics can be found here:
+
+* https://learnsql.com/blog/cte-with-examples/
+* https://www.tutorialgateway.org/temp-table-in-sql-server/
+
 Remainder of the schedule: 
 
-Session 12:  Chapter 21, **Understanding Advanced SQL Features**, plus additional topics of **CTEs** and **temp tables** \
 Session 13:  Advanced topic of **window functions** \
 Further sessions on advanced topics may be scheduled, details TBD.
 
