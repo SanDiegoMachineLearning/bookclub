@@ -68,7 +68,7 @@ Session 9:  Chapter 16, **Updating and Deleting Data** and Chapter 17, **Creatin
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289322564/) will be Tuesday, November 1, 2022, 5:30-6:30 pm PDT \
 Discussion leader:  Sule Sidigu \
 Topics will be the `UPDATE` and `DELETE` statements, then creating and modifying database tables. \
-[Slides](./tysql/TYSQL%20-%20Chapters%2016%20and%2017.pdf)
+[Slides](./tysql/TYSQL%20-%20Chapters%2016%20and%2017.pdf) and [video](https://youtu.be/MmuhSdYFV4Y)
 
 Session 10:  Chapter 18, **Using Views** and Chapter 19, **Working with Stored Procedures** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289489243/) will be Tuesday, November 8, 2022, 5:30-6:30 pm PST \
@@ -79,7 +79,8 @@ We will discuss SQL code saved in the database as views and as stored procedures
 Session 11:  Chapter 20, **Managing Transaction Processing** and Chapter 21, **Using Cursors** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/289633398/) will be Tuesday, November 15, 2022, 5:30-6:30 pm PST \
 Discussion leader:  Ryan Chesler \
-New content will cover wrapping SQL code in transactions and using cursors to iterate through rows.
+New content will cover wrapping SQL code in transactions and using cursors to iterate through rows. \
+[video](https://youtu.be/WRtgOsuTcOw)
 
 Session 12:  Chapter 22, **Understanding Advanced SQL Features**, plus additional topics of **CTEs** and **temp tables** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/289735395/) will be Tuesday, December 6, 2022, 5:30-6:30 pm PST \
@@ -90,10 +91,16 @@ Overviews for these additional topics can be found here:
 * https://learnsql.com/blog/cte-with-examples/
 * https://www.tutorialgateway.org/temp-table-in-sql-server/
 
-Remainder of the schedule: 
+[Notes](https://docs.google.com/document/d/11POvpabjTCFZVQg0Xt74a2hmFLuili4JIlBPG4lH-CQ/edit?usp=sharing) and [video](https://youtu.be/5M0vHLf-rLE)
 
 Session 13:  Advanced topics of **window functions** and **CASE** expressions \
-Further sessions on advanced topics may be scheduled, details TBD.
+We are supplementing the book with material about CASE expressions and window functions. \
+Here is a good overview of window functions:
+
+* https://towardsdatascience.com/a-guide-to-advanced-sql-window-functions-f63f2642cbf9
+
+[Notes](https://docs.google.com/document/d/1hQkmV5jjg9ZX_n7lwx9ONyYuFP0y79k6Y-5x65_oYEg/edit#) and [video](https://youtu.be/nvvc1liUJsI)
+
 
 If there is interest, additional sessions could be scheduled to understand more deeply how relational databases work
 and concepts around why some queries are slow & how to write good queries. 
