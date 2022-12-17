@@ -60,7 +60,7 @@ And the [video recording](https://youtu.be/AExBGCjoIVg).
 Session 9:  **Scaling Up GNNs** \
 Meetup:  [Ninth webinar](https://www.meetup.com/San-Diego-Machine-Learning/events/285744577/) \
 Approaches to training GNNs for extremely large graphs. \
-Link to the [Stanford slides](http://web.stanford.edu/class/cs224w/slides/17-scalable.pdf)
+Link to the [Stanford slides](http://web.stanford.edu/class/cs224w/slides/17-scalable.pdf) and [video](https://youtu.be/perS-mvoBDw)
 
 Session 10:  **Deep Generative Models for Graphs** \
 Meetup:  [Tenth meetup](https://www.meetup.com/San-Diego-Machine-Learning/events/286065719/) \
