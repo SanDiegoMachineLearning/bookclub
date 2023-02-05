@@ -28,9 +28,9 @@ Remainder of the initial schedule (dates TBD):
 * Chapter 4, **Graphical models**
 * Chapter 5, **Information theory**
 * Chapter 6, **Optimization**
-* Chapter 7, **Inference algorithms:  an overview**
 
 Part II -- Inference
+* Chapter 7, **Inference algorithms:  an overview**
 * Chapter 8, **Gaussian filtering and smoothing**
 * Chapter 9, **Message passing algorithms**
 * Chapter 10, **Variational inference**
