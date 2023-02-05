@@ -16,7 +16,10 @@ All of the videos will be posted to Ryan's YouTube channel:  https://www.youtube
 Session 1:  Kickoff and Chapter 1, **Introduction** \
 The [kickoff meeting](https://www.meetup.com/san-diego-machine-learning/events/290817833/) will be Tuesday, January 31, 2023, from 6:00-7:30 pm Pacific \
 We will meet other people in small breakout rooms and discuss chapter 1 and sections 2.1-2.2 of PML book 2. \
-Here are the [notes for sections 2.1-2.2](https://docs.google.com/document/d/1r-jy-BrGvXDoCQVNu7kRa8KwB7KdxJ_mxmM7UiWTKjc/edit?usp=sharing).
+Here are the [notes for sections 2.1-2.2](https://docs.google.com/document/d/1r-jy-BrGvXDoCQVNu7kRa8KwB7KdxJ_mxmM7UiWTKjc/edit?usp=sharing). \
+People also shared a couple of their favorite resources for Bayes' Theorem:
+* 3Blue1Brown [video on YouTube](https://youtu.be/HZGCoVF3YvM)
+* Count Bayesie [blog post with lego blocks](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 
 Session 2:  Chapter 2, **Probability** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/291353203/) will be Tuesday, February 7, 2023, 6:00-7:30 pm PST. \
