@@ -24,10 +24,17 @@ People also shared a couple of their favorite resources for Bayes' Theorem:
 Session 2:  Chapter 2, **Probability** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/291353203/) will be Tuesday, February 7, 2023, 6:00-7:30 pm PST. \
 *Discussion leader:  Neal Fultz* \
-We will finish the discussion of probability. 
+We will finish the discussion of probability. \
+Author's references include:
+* Markov chains revisited:  https://arxiv.org/abs/2001.02183
+* NeurIPS 2019 tutorial covering divergence metrics:  https://slideslive.com/38923184/interpretable-comparison-of-distributions-and-models
+
+Session 3:  Chapter 3, **Statistics** \
+The [session](https://www.meetup.com/san-diego-machine-learning/events/291483555/) will be Tuesday, February 14, 2023, 6:00-7:30 pm PST. \
+*Discussion leader:  Roger Stager* \
+We will start the discussion of statistics, and we expect to need another session to finish chapter 3. 
 
 Remainder of the initial schedule (dates TBD):
-* Chapter 3, **Statistics**
 * Chapter 4, **Graphical models**
 * Chapter 5, **Information theory**
 * Chapter 6, **Optimization**
