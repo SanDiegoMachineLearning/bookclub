@@ -21,6 +21,8 @@ People also shared a couple of their favorite resources for Bayes' Theorem:
 * 3Blue1Brown [video on YouTube](https://youtu.be/HZGCoVF3YvM)
 * Count Bayesie [blog post with lego blocks](https://www.countbayesie.com/blog/2015/2/18/bayes-theorem-with-lego)
 
+[video of session 1 content](https://youtu.be/uXjuG4xiQAM)
+
 Session 2:  Chapter 2, **Probability** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/291353203/) will be Tuesday, February 7, 2023, 6:00-7:30 pm PST. \
 *Discussion leader:  Neal Fultz* \
@@ -29,13 +31,31 @@ Author's references include:
 * Markov chains revisited:  https://arxiv.org/abs/2001.02183
 * NeurIPS 2019 tutorial covering divergence metrics:  https://slideslive.com/38923184/interpretable-comparison-of-distributions-and-models
 
+[video of session 2](https://youtu.be/1vtkeR5yieo)
+
 Session 3:  Chapter 3, **Statistics** \
 The [session](https://www.meetup.com/san-diego-machine-learning/events/291483555/) will be Tuesday, February 14, 2023, 6:00-7:30 pm PST. \
 *Discussion leader:  Roger Stager* \
-We will start the discussion of statistics, and we expect to need another session to finish chapter 3. 
+We will start the discussion of statistics in chapter 3. \
+[video](https://youtu.be/xPRDN943w44)
+
+Session 4:  Chapter 3, **Statistics** \
+The [event](https://www.meetup.com/san-diego-machine-learning/events/291652772/) will be Tuesday, February 21, 2023, 6:00-7:30 pm PST. \
+*Discussion leader:  Roger Stager* \
+We will continue the discussion of statistics, and we expect to need another session to finish chapter 3. \
+[video](https://youtu.be/cJ9mAMXKo0c)
+
+Session 5:  Chapter 3, **Statistics** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/291812390/) will be Tuesday, February 28, 2023, 6:00-7:30 pm PST. \
+*Discussion leader:  Jayanth Raman* \
+We finish going through statistics with sections 3.6-3.11. 
+
+Session 6:  Chapter 4, **Graphical models** \
+The [session](https://www.meetup.com/san-diego-machine-learning/events/291951113/) will be Tuesday, March 7, 2023, 6:00-7:30 pm PST. \
+*Discussion leader:  Dev Vidhani* \
+We will start the discussion of chapter 4 about graphical models. 
 
 Remainder of the initial schedule (dates TBD):
-* Chapter 4, **Graphical models**
 * Chapter 5, **Information theory**
 * Chapter 6, **Optimization**
 
