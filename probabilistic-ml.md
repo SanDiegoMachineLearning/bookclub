@@ -48,12 +48,18 @@ We will continue the discussion of statistics, and we expect to need another ses
 Session 5:  Chapter 3, **Statistics** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/291812390/) will be Tuesday, February 28, 2023, 6:00-7:30 pm PST. \
 *Discussion leader:  Jayanth Raman* \
-We finish going through statistics with sections 3.6-3.11. 
+We finish going through statistics with sections 3.6-3.11. \
+[video](https://youtu.be/NWqKIY-aQ7g)
 
 Session 6:  Chapter 4, **Graphical models** \
 The [session](https://www.meetup.com/san-diego-machine-learning/events/291951113/) will be Tuesday, March 7, 2023, 6:00-7:30 pm PST. \
 *Discussion leader:  Dev Vidhani* \
 We will start the discussion of chapter 4 about graphical models. 
+
+Session 7:  Chapter 4, **Graphical models** \
+The [event](https://www.meetup.com/san-diego-machine-learning/events/292126456/) will be Tuesday, March 14, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Dev Vidhani* \
+We plan to finish chapter 4 about graphical models. 
 
 Remainder of the initial schedule (dates TBD):
 * Chapter 5, **Information theory**
