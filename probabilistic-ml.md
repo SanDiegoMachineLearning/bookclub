@@ -61,8 +61,17 @@ The [event](https://www.meetup.com/san-diego-machine-learning/events/292126456/)
 *Discussion leader:  Dev Vidhani* \
 We plan to finish chapter 4 about graphical models. 
 
+Session 8:  Chapter 5, **Information theory** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/292376514/) will be Tuesday, March 21, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Christian Zuniga* \
+We plan to start and discuss most of the information theory chapter.
+
+Session 9:  Chapter 6, **Optimization** \
+The [session](https://www.meetup.com/san-diego-machine-learning/events/292422090/) will be Tuesday, March 28, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Phawis Thammasorn* \
+We will finish the last few pages of chapter 5, then begin the discussion of optimization.
+
 Remainder of the initial schedule (dates TBD):
-* Chapter 5, **Information theory**
 * Chapter 6, **Optimization**
 
 Part II -- Inference
