@@ -69,7 +69,13 @@ We plan to start and discuss most of the information theory chapter.
 Session 9:  Chapter 6, **Optimization** \
 The [session](https://www.meetup.com/san-diego-machine-learning/events/292422090/) will be Tuesday, March 28, 2023, 6:00-7:30 pm PDT. \
 *Discussion leader:  Phawis Thammasorn* \
-We will finish the last few pages of chapter 5, then begin the discussion of optimization.
+Christian will finish sections 5.5 and 5.6, then Phawis will begin the discussion of optimization.
+
+Session 10:  Chapter 6, **Optimization** \
+The [meeting](https://www.meetup.com/san-diego-machine-learning/events/292568587/) will be Tuesday, April 4, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Dev Vidhani* \
+We will briefly look at preconditioned optimizers (including Adam) in section 8.4.6 of Kevin Murphy's [intro book](https://probml.github.io/pml-book/book1.html),
+then continue our discussion of optimization from section 6.5.
 
 Remainder of the initial schedule (dates TBD):
 * Chapter 6, **Optimization**
