@@ -1,4 +1,5 @@
-Notes and links from the SDML book club meetings
+Notes and links from the SDML book club meetings.
+For slides and videos from other, non-book machine learning talks, please see the [SDML talks repo](https://github.com/SanDiegoMachineLearning/talks).
 
 
 ### Probabilistic Machine Learning:  Advanced Topics
