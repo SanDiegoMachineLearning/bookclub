@@ -77,13 +77,31 @@ The [meeting](https://www.meetup.com/san-diego-machine-learning/events/292568587
 We will briefly look at preconditioned optimizers (including Adam) in section 8.4.6 of Kevin Murphy's [intro book](https://probml.github.io/pml-book/book1.html),
 then continue our discussion of optimization from section 6.5.
 
-Remainder of the initial schedule (dates TBD):
-* Chapter 6, **Optimization**
+Session 11:  Chapter 6, **Optimization** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/292743491/) will be Tuesday, April 11, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Dev Vidhani* \
+We will finish discussing optimization.
 
-Part II -- Inference
-* Chapter 7, **Inference algorithms:  an overview**
-* Chapter 8, **Gaussian filtering and smoothing**
-* Chapter 9, **Message passing algorithms**
+#### Part II -- Inference
+
+Session 12:  Chapter 7, **Inference algorithms:  an overview** \
+The [event](https://www.meetup.com/san-diego-machine-learning/events/292851052/) will be Tuesday, April 18, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Ted Kyi* \
+We start the second part of the book with an overview of Bayesian Inference.
+
+Session 13:  Chapter 8, **Gaussian filtering and smoothing** \
+The [session](https://www.meetup.com/san-diego-machine-learning/events/293049780/) will be Tuesday, May 2, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Mya Bakhova* \
+We cover the Kalman filter and its extensions as we talk about Gaussian filtering and smoothing on state space models,
+which are represented by a simple linear chain of hidden states over time.
+
+Session 14:  Chapter 9, **Message passing algorithms** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/293308033/) will be Tuesday, May 9, 2023, 6:00-7:30 pm PDT. \
+*Discussion leader:  Christian Zuniga* \
+We will discuss Hidden Markov Models, belief propagation, and other topics related to message passing algorithms,
+which allow posterior inference for general probabilistic graphical models.
+
+Remainder of the initial schedule (dates TBD):
 * Chapter 10, **Variational inference**
 * Chapter 11, **Monte Carlo methods**
 * Chapter 12, **Markov chain Monte Carlo**
