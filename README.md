@@ -1,6 +1,12 @@
 Notes and links from the SDML book club meetings.
-For slides and videos from other, non-book machine learning talks, please see the [SDML talks repo](https://github.com/SanDiegoMachineLearning/talks).
+For slides and videos from other, non-book machine learning talks, please see the **[SDML talks repo](https://github.com/SanDiegoMachineLearning/talks)**.
 
+
+### Generative AI with Large Language Models (LLMs)
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/DeepLearning_GenAI_with_LLMs.png?raw=true" width="160">
+
+SML is going through this [new course by DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/) on Coursera
+* Kickoff meeting [slides](https://docs.google.com/presentation/d/1vn-Ye-ASIm2hb2iMyZR4fKBaNn2rk0mnSZRme9EF5Bs/edit?usp=sharing) and [video](https://youtu.be/njg9fYUMwxk)
 
 ### Probabilistic Machine Learning:  Advanced Topics
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/probml_book2.jpg?raw=true" width="160">
