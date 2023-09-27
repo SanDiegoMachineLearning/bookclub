@@ -7,7 +7,7 @@ For slides and videos from other, non-book machine learning talks, please see th
 
 SML is going through this [new course by DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/) on Coursera
 * Kickoff meeting [slides](https://docs.google.com/presentation/d/1vn-Ye-ASIm2hb2iMyZR4fKBaNn2rk0mnSZRme9EF5Bs/edit?usp=sharing) and [video](https://youtu.be/njg9fYUMwxk)
-* Week 1 discussion [video](https://youtu.be/uJqvRTIG7bs?si=LA9fN9cgDXur4tCH)
+* Week 1 discussion [slides](https://docs.google.com/presentation/d/1I64tz1uiJYyaqsFovm4s3JIfYpaDDCixWP9f2C07H2Q/edit?usp=sharing) and [video](https://youtu.be/uJqvRTIG7bs?si=LA9fN9cgDXur4tCH)
 
 ### Probabilistic Machine Learning:  Advanced Topics
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/probml_book2.jpg?raw=true" width="160">
