@@ -9,6 +9,7 @@ SML is going through this [new course by DeepLearning.AI](https://www.deeplearni
 * Kickoff meeting [slides](https://docs.google.com/presentation/d/1vn-Ye-ASIm2hb2iMyZR4fKBaNn2rk0mnSZRme9EF5Bs/edit?usp=sharing) and [video](https://youtu.be/njg9fYUMwxk)
 * Week 1 discussion [slides](https://docs.google.com/presentation/d/1I64tz1uiJYyaqsFovm4s3JIfYpaDDCixWP9f2C07H2Q/edit?usp=sharing) and [video](https://youtu.be/uJqvRTIG7bs?si=LA9fN9cgDXur4tCH)
 * Week 2 discussion [slides](https://docs.google.com/presentation/d/1nH8QUXa4FEIOR5zsp95c1lh2trgRWGC6re7SJzkFs38/edit?usp=sharing) and [video](https://youtu.be/wrC3bbcluHE)
+* Week 3 [video](https://youtu.be/YmQlSRmblD0)
 
 ### Probabilistic Machine Learning:  Advanced Topics
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/probml_book2.jpg?raw=true" width="160">
