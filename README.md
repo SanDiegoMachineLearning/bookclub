@@ -2,10 +2,16 @@ Notes and links from the SDML book club meetings.
 For slides and videos from other, non-book machine learning talks, please see the **[SDML talks repo](https://github.com/SanDiegoMachineLearning/talks)**.
 
 
+### Understanding Deep Learning
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/UDLCover.jpg?raw=true" width="160">
+
+The schedule, notes/slides, recordings, and additional materials for the meetup sessions for Understanding Deep Learning
+can be found in the document [understanding-deep-learning.md](./understanding-deep-learning.md).
+
 ### Generative AI with Large Language Models (LLMs)
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/DeepLearning_GenAI_with_LLMs.png?raw=true" width="160">
 
-SML is going through this [new course by DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/) on Coursera
+SDML is going through this [new course by DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/) on Coursera
 * Kickoff meeting [slides](https://docs.google.com/presentation/d/1vn-Ye-ASIm2hb2iMyZR4fKBaNn2rk0mnSZRme9EF5Bs/edit?usp=sharing) and [video](https://youtu.be/njg9fYUMwxk)
 * Week 1 discussion [slides](https://docs.google.com/presentation/d/1I64tz1uiJYyaqsFovm4s3JIfYpaDDCixWP9f2C07H2Q/edit?usp=sharing) and [video](https://youtu.be/uJqvRTIG7bs?si=LA9fN9cgDXur4tCH)
 * Week 2 discussion [slides](https://docs.google.com/presentation/d/1nH8QUXa4FEIOR5zsp95c1lh2trgRWGC6re7SJzkFs38/edit?usp=sharing) and [video](https://youtu.be/wrC3bbcluHE)
@@ -20,7 +26,7 @@ can be found in the document [probabilistic-ml.md](./probabilistic-ml.md).
 ### Learning SQL Queries
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/sqlin10min.jpg?raw=true" width="160">
 
-Notest/slides, videos, schedule, and additional materials for the meetup sessions for the Learning SQL series, 
+Notes/slides, videos, schedule, and additional materials for the meetup sessions for the Learning SQL series, 
 using the book *Sams Teach Yourself SQL in 10 Minutes*, which started in September 2022,
 can be found in the document [sql-queries.md](./sql-queries.md).
 
