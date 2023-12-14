@@ -14,7 +14,7 @@ All of the videos will be posted to the SDML YouTube channel:  [https://www.yout
 #### Schedule
 
 Session 1:  Chapters 1 and 2, **Introduction** and **Supervised Learning** \
-This kickoff event () will be Saturday, January 13, 2024, from 12:00-1:00 pm Pacific \
+This [kickoff event](https://www.meetup.com/san-diego-machine-learning/events/297935477/) will be Saturday, January 13, 2024, from 12:00-1:00 pm Pacific \
 We will meet other people in small breakout rooms, discuss chapters 1 and 2 of the UDL book, and go over answers to the problems at the end of chapter 2. 
 
 Remainder of the schedule (sessions and dates subject to change):
