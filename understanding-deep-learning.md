@@ -15,11 +15,11 @@ All of the videos will be posted to the SDML YouTube channel:  [https://www.yout
 
 Session 1:  Chapters 1 and 2, **Introduction** and **Supervised Learning** \
 This [kickoff event](https://www.meetup.com/san-diego-machine-learning/events/297935477/) will be Saturday, January 13, 2024, from 12:00-1:00 pm Pacific \
-We will meet other people in small breakout rooms, discuss chapters 1 and 2 of the UDL book, and go over answers to the problems at the end of chapter 2. 
-[Slides](https://docs.google.com/document/d/14UgvufQ9gTjbLOhbynhpIe5c-gasHg-ebGXfe01Mwn4/edit?usp=sharing)
+We will meet other people in small breakout rooms, discuss chapters 1 and 2 of the UDL book, and go over answers to the problems at the end of chapter 2. \
+[Notes](https://docs.google.com/document/d/14UgvufQ9gTjbLOhbynhpIe5c-gasHg-ebGXfe01Mwn4/edit?usp=sharing) from the presentation
 
 Chapter 3, **Shallow neural networks** \
-Our [second session](https://www.meetup.com/san-diego-machine-learning/events/298532966/) will be Saturday, January 20, 2024, from 12:00-1:00 pm Pacific \
+Our [second session](https://www.meetup.com/san-diego-machine-learning/events/298532966/) will be Saturday, January 20, 2024, from 12:00-1:00 pm Pacific
 
 Remainder of the schedule (sessions and dates subject to change):
 
