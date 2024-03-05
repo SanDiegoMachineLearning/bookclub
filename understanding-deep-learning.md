@@ -25,19 +25,29 @@ Our [second session](https://www.meetup.com/san-diego-machine-learning/events/29
 
 Chapter 4, **Deep neural networks** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/298681257/) will be Saturday, January 27, 2024, from 12:00-1:00 pm Pacific \
-[Notes](https://docs.google.com/document/d/1018ZOOsjhz5620e5N0srqsirGqH1XTqBNwfOSVrWoSg/edit?usp=sharing)
+[Video](https://youtu.be/iUENUNsqab4) and [notes](https://docs.google.com/document/d/1018ZOOsjhz5620e5N0srqsirGqH1XTqBNwfOSVrWoSg/edit?usp=sharing)
 
 Chapter 5, **Loss functions**, \
-This [event](https://www.meetup.com/san-diego-machine-learning/events/298835295/) will be Saturday, February 10, 2024, from 12:00-1:00 pm Pacific
+This [event](https://www.meetup.com/san-diego-machine-learning/events/298835295/) will be Saturday, February 10, 2024, from 12:00-1:00 pm Pacific \
+[Video](https://youtu.be/i4RxY4zl5ZE) and the [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=1fxQ_a1Q3eFPZ4kPqKbak6_emJK-JfnRH)
+
+Chapter 6, **Fitting models**, 
+This [session](https://www.meetup.com/san-diego-machine-learning/events/299094700/) will be Saturday, February 17, 2024, from 12:00-1:00 pm Pacific \
+[Video](https://youtu.be/CbnPBw4lV2s) and the [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=17QQ5ZzXBtR_uCNCUU1gPRWWRUeZN9exW)
+
+Chapter 7, **Gradients and initialization**, \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/299259147/) will be Saturday, February 24, 2024, from 12:00-1:00 pm Pacific \
+[Video](https://youtu.be/LXU-qusAH0I) and the author's [gradient PowerPoint slides](https://drive.google.com/uc?export=download&id=1hC8JUCOaFWiw3KGn0rm7nW6mEq242QDK) 
+and [initialization PowerPoint slides](https://drive.google.com/uc?export=download&id=1tSjCeAVg0JCeBcPgDJDbi7Gg43Qkh9_d)
+
+Chapter 8, **Measuring performance**, 
+The [meeting](https://www.meetup.com/san-diego-machine-learning/events/299396336/) will be Saturday, March 9, 2024, from 12:00-1:00 pm Pacific \
 
 Remainder of the schedule (sessions and dates subject to change):
 
-Note:  February 3 will be ML Papers and Lightning Talks \
-Chapter 6, **Training models**, February 17, 2024 \
-Chapter 7, **Gradients and initialization**, February 24, 2024 \
-Chapter 8, **Measuring performance** \
-Chapter 9, **Regularization** \
-Chapter 10, **Convolutional networks** \
+Note:  March 16 we will likely be off and have no events that week \
+Chapter 9, **Regularization**, March 23, 2024 \
+Chapter 10, **Convolutional networks**, March 30, 2024 \
 Chapter 11, **Residual networks** \
 Chapter 12, **Transformers** \
 Chapter 13, **Graph neural networks** \
