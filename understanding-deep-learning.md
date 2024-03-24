@@ -31,7 +31,7 @@ Chapter 5, **Loss functions**, \
 This [event](https://www.meetup.com/san-diego-machine-learning/events/298835295/) will be Saturday, February 10, 2024, from 12:00-1:00 pm Pacific \
 [Video](https://youtu.be/i4RxY4zl5ZE) and the [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=1fxQ_a1Q3eFPZ4kPqKbak6_emJK-JfnRH)
 
-Chapter 6, **Fitting models**, 
+Chapter 6, **Fitting models**, \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/299094700/) will be Saturday, February 17, 2024, from 12:00-1:00 pm Pacific \
 [Video](https://youtu.be/CbnPBw4lV2s) and the [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=17QQ5ZzXBtR_uCNCUU1gPRWWRUeZN9exW)
 
@@ -40,17 +40,23 @@ This [meetup](https://www.meetup.com/san-diego-machine-learning/events/299259147
 [Video](https://youtu.be/LXU-qusAH0I) and the author's [gradient PowerPoint slides](https://drive.google.com/uc?export=download&id=1hC8JUCOaFWiw3KGn0rm7nW6mEq242QDK) 
 and [initialization PowerPoint slides](https://drive.google.com/uc?export=download&id=1tSjCeAVg0JCeBcPgDJDbi7Gg43Qkh9_d)
 
-Chapter 8, **Measuring performance**, 
+Chapter 8, **Measuring performance**, \
 The [meeting](https://www.meetup.com/san-diego-machine-learning/events/299396336/) will be Saturday, March 9, 2024, from 12:00-1:00 pm Pacific \
+The [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=1RVZW3KjEs0vNSGx3B2fdizddlr6I0wLl)
+
+Chapter 9, **Regularization**, \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/299696914/) will be Saturday, March 23, 2024, from 12:00-1:00 pm Pacific \
+The author's [PowerPoint slides](https://drive.google.com/uc?export=download&id=1LTicIKPRPbZRkkg6qOr1DSuOB72axood)
+
+Chapter 10, **Convolutional networks**, March 30, 2024 \
+This [event](https://www.meetup.com/san-diego-machine-learning/events/299978220/) will be Saturday, March 30, 2024, from 12:00-1:00 pm Pacific 
 
 Remainder of the schedule (sessions and dates subject to change):
 
-Note:  March 16 we will likely be off and have no events that week \
-Chapter 9, **Regularization**, March 23, 2024 \
-Chapter 10, **Convolutional networks**, March 30, 2024 \
-Chapter 11, **Residual networks** \
-Chapter 12, **Transformers** \
-Chapter 13, **Graph neural networks** \
+Note:  April 6 we will be meeting in person for the ML Papers event \
+Chapter 11, **Residual networks**, April 13, 2024 \
+Chapter 12, **Transformers**, April 20, 2024 \
+Chapter 13, **Graph neural networks**, April 27, 2024 \
 Chapter 14, **Unsupervised learning** \
 Chapter 15, **Generative adversarial networks** \
 Chapter 16, **Normalizing flows** \
