@@ -48,14 +48,15 @@ Chapter 9, **Regularization**, \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/299696914/) will be Saturday, March 23, 2024, from 12:00-1:00 pm Pacific \
 The author's [PowerPoint slides](https://drive.google.com/uc?export=download&id=1LTicIKPRPbZRkkg6qOr1DSuOB72axood)
 
-Chapter 10, **Convolutional networks**, March 30, 2024 \
+Chapter 10, **Convolutional networks**, and \
+Chapter 11, **Residual networks** \
 This [event](https://www.meetup.com/san-diego-machine-learning/events/299978220/) will be Saturday, March 30, 2024, from 12:00-1:00 pm Pacific 
+The [author's slides](https://drive.google.com/uc?export=download&id=1bGVuwAwrofzZdfvj267elIzkYMIvYFj0) mostly discussed CNNs, but also covered content from chapter 11 about residual networks and the U-Net architecture.
 
 Remainder of the schedule (sessions and dates subject to change):
 
 Note:  April 6 we will be meeting in person for the ML Papers event \
-Chapter 11, **Residual networks**, April 13, 2024 \
-Chapter 12, **Transformers**, April 20, 2024 \
+Chapter 12, **Transformers**, April 13, 2024 \
 Chapter 13, **Graph neural networks**, April 27, 2024 \
 Chapter 14, **Unsupervised learning** \
 Chapter 15, **Generative adversarial networks** \
