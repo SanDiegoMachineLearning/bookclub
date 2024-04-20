@@ -55,15 +55,19 @@ The [author's slides](https://drive.google.com/uc?export=download&id=1bGVuwAwrof
 
 Chapter 12, **Transformers** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/300261775/) will be Saturday, April 13, 2024, from 12:00-2:00 pm Pacific.
-Come at 12:00 pm for in person, Zoom will start at 1:00 pm.
+Come at 12:00 pm for in person, Zoom will start at 1:00 pm. \
+Link to [Ted's augmented version of the author's slides](./udl/UDL_12_Transformers.pdf)
+
+Chapter 13, **Graph neural networks**, April 20, 2024 \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/300418258/) will be Saturday, April 20, 2024, from 12:00-2:00 pm Pacific.
+Book club discussion of graphs and GNNs will start at 1:00 pm.
 
 Remainder of the schedule (sessions and dates subject to change):
 
-Chapter 13, **Graph neural networks**, April 20, 2024 \
-Chapter 14, **Unsupervised learning**, April 27, 2024 \
+Chapter 14, **Unsupervised learning**, and \
+Chapter 15, **Generative adversarial networks**, April 27, 2024 \
 Note:  May 4 we will be meeting in person for the ML Papers event \
-Chapter 15, **Generative adversarial networks** \
-Chapter 16, **Normalizing flows** \
+Chapter 16, **Normalizing flows**, May 11, 2024 \
 Chapter 17, **Variational autoencoders** \
 Chapter 18, **Diffusion models** \
 Chapter 19, **Deep reinforcement learning** \
