@@ -75,7 +75,9 @@ Once again, the book club discussion will start at 1:00 pm.
 
 Remainder of the schedule (sessions and dates subject to change):
 
-Chapter 17, **Variational autoencoders** \
+Due to conflicts, there will be no SDML meetup on Saturday, May 18, 2024.
+
+Chapter 17, **Variational autoencoders**, May 25, 2024 \
 Chapter 18, **Diffusion models** \
 Chapter 19, **Deep reinforcement learning** \
 Chapter 20, **Why does deep learning work?** \
