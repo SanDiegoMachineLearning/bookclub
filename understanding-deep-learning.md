@@ -72,7 +72,8 @@ The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300689501/
 
 Chapter 17, **Variational autoencoders**, May 25, 2024 \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300983112/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
-Once again, the book club discussion will start at 1:00 pm.
+Once again, the book club discussion will start at 1:00 pm. \
+[Slides](./udl/UDL_17_VAEs.pdf)
 
 Remainder of the schedule (sessions and dates subject to change):
 
