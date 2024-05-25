@@ -67,18 +67,18 @@ Chapter 15, **Generative adversarial networks** \
 This [meeting](https://www.meetup.com/san-diego-machine-learning/events/300530609/) will be Saturday, April 27, 2024, from 12:00-2:00 pm Pacific. \
 [Slides](./udl/UDL_14_15_GANs.pdf)
 
-Note:  May 4 we will be meeting in person for the ML Papers event
-
 Chapter 16, **Normalizing flows** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300689501/) will be Saturday, May 11, 2024, from 12:00-2:00 pm Pacific.
+
+Chapter 17, **Variational autoencoders**, May 25, 2024 \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300983112/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
 Once again, the book club discussion will start at 1:00 pm.
 
 Remainder of the schedule (sessions and dates subject to change):
 
-Due to conflicts, there will be no SDML meetup on Saturday, May 18, 2024.
+Note:  On Saturday, June 1, 2024, we will have our monthly ML papers discussion
 
-Chapter 17, **Variational autoencoders**, May 25, 2024 \
-Chapter 18, **Diffusion models** \
+Chapter 18, **Diffusion models**, June 8, 2024 \
 Chapter 19, **Deep reinforcement learning** \
 Chapter 20, **Why does deep learning work?** \
 Chapter 21, **Deep learning and ethics** 
