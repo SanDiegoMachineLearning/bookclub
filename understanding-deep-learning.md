@@ -42,47 +42,52 @@ and [initialization PowerPoint slides](https://drive.google.com/uc?export=downlo
 
 Chapter 8, **Measuring performance**, \
 The [meeting](https://www.meetup.com/san-diego-machine-learning/events/299396336/) will be Saturday, March 9, 2024, from 12:00-1:00 pm Pacific \
-The [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=1RVZW3KjEs0vNSGx3B2fdizddlr6I0wLl)
+[Video](https://youtu.be/7lb0GFRHXzY) and the [author's PowerPoint slides](https://drive.google.com/uc?export=download&id=1RVZW3KjEs0vNSGx3B2fdizddlr6I0wLl)
 
 Chapter 9, **Regularization**, \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/299696914/) will be Saturday, March 23, 2024, from 12:00-1:00 pm Pacific \
-The author's [PowerPoint slides](https://drive.google.com/uc?export=download&id=1LTicIKPRPbZRkkg6qOr1DSuOB72axood)
+[Video](https://youtu.be/UwoSt9R5jeA) and the author's [PowerPoint slides](https://drive.google.com/uc?export=download&id=1LTicIKPRPbZRkkg6qOr1DSuOB72axood)
 
 Chapter 10, **Convolutional networks**, and \
 Chapter 11, **Residual networks** \
 This [event](https://www.meetup.com/san-diego-machine-learning/events/299978220/) will be Saturday, March 30, 2024, from 12:00-1:00 pm Pacific \
-The [author's slides](https://drive.google.com/uc?export=download&id=1bGVuwAwrofzZdfvj267elIzkYMIvYFj0) mostly discussed CNNs, but also covered content from chapter 11 about residual networks and the U-Net architecture.
+[Video](https://youtu.be/d8OGw7l2hgU) and the [author's slides](https://drive.google.com/uc?export=download&id=1bGVuwAwrofzZdfvj267elIzkYMIvYFj0) which mostly discussed CNNs, but also covered content from chapter 11 about residual networks and the U-Net architecture. 
 
 Chapter 12, **Transformers** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/300261775/) will be Saturday, April 13, 2024, from 12:00-2:00 pm Pacific.
 Come at 12:00 pm for in person, Zoom will start at 1:00 pm. \
-Link to [Ted's augmented version of the author's slides](./udl/UDL_12_Transformers.pdf)
+[Video](https://youtu.be/ZzHCanNDJFg) and the link to [Ted's augmented version of the author's slides](./udl/UDL_12_Transformers.pdf)
 
 Chapter 13, **Graph neural networks** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/300418258/) will be Saturday, April 20, 2024, from 12:00-2:00 pm Pacific.
-Book club discussion of graphs and GNNs will start at 1:00 pm.
+Book club discussion of graphs and GNNs will start at 1:00 pm. \
+[Video](https://youtu.be/Yy-J4Wr0PSw)
 
 Chapter 14, **Unsupervised learning**, and \
 Chapter 15, **Generative adversarial networks** \
 This [meeting](https://www.meetup.com/san-diego-machine-learning/events/300530609/) will be Saturday, April 27, 2024, from 12:00-2:00 pm Pacific. \
-[Slides](./udl/UDL_14_15_GANs.pdf)
+[Video](https://youtu.be/ZU9Rx66-tJk) and [slides](./udl/UDL_14_15_GANs.pdf)
 
 Chapter 16, **Normalizing flows** \
-The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300689501/) will be Saturday, May 11, 2024, from 12:00-2:00 pm Pacific.
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300689501/) will be Saturday, May 11, 2024, from 12:00-2:00 pm Pacific \
+[Video](https://youtu.be/N5cLQ1o2GZ4)
 
 Chapter 17, **Variational autoencoders**, May 25, 2024 \
-The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300983112/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
+The [event](https://www.meetup.com/san-diego-machine-learning/events/300983112/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
 Once again, the book club discussion will start at 1:00 pm. \
-[Slides](./udl/UDL_17_VAEs.pdf)
+[Video](https://youtu.be/38sXVASkWao) and [Slides](./udl/UDL_17_VAEs.pdf)
+
+Chapter 18, **Diffusion models**, June 8, 2024 \
+The [session](https://www.meetup.com/san-diego-machine-learning/events/301387741/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
+Once again, the book club discussion will start at 1:00 pm.
+
+Chapter 19, **Reinforcement learning**, June 15, 2024 \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/301519532/) will be Saturday, May 25, 2024, from 1:00-2:00 pm Pacific.
 
 Remainder of the schedule (sessions and dates subject to change):
 
-Note:  On Saturday, June 1, 2024, we will have our monthly ML papers discussion
-
-Chapter 18, **Diffusion models**, June 8, 2024 \
-Chapter 19, **Deep reinforcement learning** \
-Chapter 20, **Why does deep learning work?** \
-Chapter 21, **Deep learning and ethics** 
+Chapter 20, **Why does deep learning work?**, June 22, 2024 \
+Chapter 21, **Deep learning and ethics**, combined on June 22, 2024 or separate on June 29, 2024 ???
 
 ### Answers to Selected Problems
 Answers to some of the end of chapter problems can be found here:  https://github.com/udlbook/udlbook/raw/main/UDL_Answer_Booklet_Students.pdf
