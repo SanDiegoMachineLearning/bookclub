@@ -75,7 +75,7 @@ The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300689501/
 Chapter 17, **Variational autoencoders**, May 25, 2024 \
 The [event](https://www.meetup.com/san-diego-machine-learning/events/300983112/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
 Once again, the book club discussion will start at 1:00 pm. \
-[Video](https://youtu.be/38sXVASkWao) and [Slides](./udl/UDL_17_VAEs.pdf)
+[Video](https://youtu.be/38sXVASkWao) and [part 2](https://youtu.be/SRTJ5BKKXs8), and [Slides](./udl/UDL_17_VAEs.pdf)
 
 Chapter 18, **Diffusion models**, June 8, 2024 \
 The [session](https://www.meetup.com/san-diego-machine-learning/events/301387741/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
