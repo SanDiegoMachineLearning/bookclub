@@ -72,22 +72,23 @@ Chapter 16, **Normalizing flows** \
 The [meetup](https://www.meetup.com/san-diego-machine-learning/events/300689501/) will be Saturday, May 11, 2024, from 12:00-2:00 pm Pacific \
 [Video](https://youtu.be/N5cLQ1o2GZ4)
 
-Chapter 17, **Variational autoencoders**, May 25, 2024 \
+Chapter 17, **Variational autoencoders** \
 The [event](https://www.meetup.com/san-diego-machine-learning/events/300983112/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
 Once again, the book club discussion will start at 1:00 pm. \
 [Video](https://youtu.be/38sXVASkWao) and [part 2](https://youtu.be/SRTJ5BKKXs8), and [Slides](./udl/UDL_17_VAEs.pdf)
 
-Chapter 18, **Diffusion models**, June 8, 2024 \
-The [session](https://www.meetup.com/san-diego-machine-learning/events/301387741/) will be Saturday, May 25, 2024, from 12:00-2:00 pm Pacific.
-Once again, the book club discussion will start at 1:00 pm.
+Chapter 18, **Diffusion models** \
+The [session](https://www.meetup.com/san-diego-machine-learning/events/301387741/) will be Saturday, June 8, 2024, from 1:00-2:00 pm Pacific.
+Once again, the book club discussion will start at 1:00 pm. \
+[Video](https://youtu.be/HWesR4t049w)
 
-Chapter 19, **Reinforcement learning**, June 15, 2024 \
-The [meetup](https://www.meetup.com/san-diego-machine-learning/events/301519532/) will be Saturday, May 25, 2024, from 1:00-2:00 pm Pacific.
+Chapter 19, **Reinforcement learning** \
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/301519532/) will be Saturday, June 15, 2024, from 1:00-2:00 pm Pacific.
 
-Remainder of the schedule (sessions and dates subject to change):
+Chapter 20, **Why does deep learning work?** and \
+Chapter 21, **Deep learning and ethics** combined on June 22, 2024 \
+The [final event](https://www.meetup.com/san-diego-machine-learning/events/301667200/) will be Saturday, June 22, 2024, from 1:00-2:00 pm Pacific.
 
-Chapter 20, **Why does deep learning work?**, June 22, 2024 \
-Chapter 21, **Deep learning and ethics**, combined on June 22, 2024 or separate on June 29, 2024 ???
 
 ### Answers to Selected Problems
 Answers to some of the end of chapter problems can be found here:  https://github.com/udlbook/udlbook/raw/main/UDL_Answer_Booklet_Students.pdf
