@@ -83,11 +83,13 @@ Once again, the book club discussion will start at 1:00 pm. \
 [Video](https://youtu.be/HWesR4t049w)
 
 Chapter 19, **Reinforcement learning** \
-The [meetup](https://www.meetup.com/san-diego-machine-learning/events/301519532/) will be Saturday, June 15, 2024, from 1:00-2:00 pm Pacific.
+The [meetup](https://www.meetup.com/san-diego-machine-learning/events/301519532/) will be Saturday, June 15, 2024, from 1:00-2:00 pm Pacific. \
+[Video](https://youtu.be/5MsLLtQSdio)
 
 Chapter 20, **Why does deep learning work?** and \
 Chapter 21, **Deep learning and ethics** combined on June 22, 2024 \
-The [final event](https://www.meetup.com/san-diego-machine-learning/events/301667200/) will be Saturday, June 22, 2024, from 1:00-2:00 pm Pacific.
+The [final event](https://www.meetup.com/san-diego-machine-learning/events/301667200/) will be Saturday, June 22, 2024, from 1:00-2:00 pm Pacific. \
+[Video](https://youtu.be/B5aC8-e1528)
 
 
 ### Answers to Selected Problems
