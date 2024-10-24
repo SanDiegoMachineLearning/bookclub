@@ -2,6 +2,12 @@ Notes and links from the SDML book club meetings.
 For slides and videos from other, non-book machine learning talks, please see the **[SDML talks repo](https://github.com/SanDiegoMachineLearning/talks)**.
 
 
+### Mathematics for Machine Learning
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/mml-book-cover.jpg?raw=true" width="160">
+
+The schedule, notes/slides, record links, and additional materials for the meetup sessions for Mathematics for Machine Learning
+can be found in the document [mathematics-for-machine-learning.md](./mathematics-for-machine-learning.md).
+
 ### Understanding Deep Learning
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/UDLCover.jpg?raw=true" width="160">
 
