@@ -19,7 +19,7 @@ All of the videos will be posted to the SDML YouTube channel:  [https://www.yout
 Session 1:  Chapters 1 and 2, **Introduction and Motivation** and **Linear Algebra** \
 This [kickoff event](https://www.meetup.com/san-diego-machine-learning/events/304168890/) will be Saturday, November 16, 2024, from 12:00-1:30 pm Pacific \
 To get the most out of our time together, please try to read chapter 2 and attempt the exercises at the end of the chapter, before the meetup. \
-[Video](https://youtu.be/Cob_1B9TIlA)
+[Slides](./mml/Chapter%202%20Linear%20Algebra.pdf) and [video](https://youtu.be/Cob_1B9TIlA)
 
 Chapter 3, **Analytic Geometry** \
 Our [second session](https://www.meetup.com/san-diego-machine-learning/events/304593509/) will be December 13, 2024 12:00-1:30 pm PST 
