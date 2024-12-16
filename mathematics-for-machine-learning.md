@@ -22,11 +22,15 @@ To get the most out of our time together, please try to read chapter 2 and attem
 [Slides](./mml/Chapter%202%20Linear%20Algebra.pdf) and [video](https://youtu.be/Cob_1B9TIlA)
 
 Chapter 3, **Analytic Geometry** \
-Our [second session](https://www.meetup.com/san-diego-machine-learning/events/304593509/) will be December 14, 2024 12:00-1:30 pm PST 
+Our [second session](https://www.meetup.com/san-diego-machine-learning/events/304593509/) will be December 14, 2024 12:00-1:30 pm PST \
+[Slides](./mml/Chapter%203_Analytic%20Geometry.pdf), Ryan's [Colab notebook](https://colab.research.google.com/drive/1dvVnFHvQwfp_N4HvDqazKgwx2lKUHPnI),
+and the [video](https://youtu.be/kzTHVYkkAck)
+
+Chapter 4, **Matrix Decompositions** \
+The [next meetup]() will be January 18, 2025 12:00-1:30 pm PST
 
 *Upcoming schedule (subject to change):*
 
-Chapter 4, **Matrix Decompositions** -- January \
 Chapter 5, **Vector Calculus** -- February \
 Chapter 6, **Probability and Distributions** -- March \
 Chapter 7, **Continuous Optimization** -- April 
