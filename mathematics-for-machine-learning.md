@@ -6,7 +6,7 @@ The SDML book club will start discussing *Mathematics for Machine Learning* (htt
 by Deisenroth, Faisal, and Ong in November 2024.
 The book website includes several resources, including a free PDF download of the book.
 You can purchase the book from many retailers, including [here](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X/ref=sr_1_1).
-The plan is to meet monthly, covering one chapter per month.
+The plan is to meet twice per month starting in February, increasing from one chapter per month to two chapters per month.
 
 ### Notes and videos
 Below are the notes/slides and meetup recordings.
@@ -31,17 +31,17 @@ The [next meetup]() will be January 18, 2025 12:00-1:30 pm PST
 
 *Upcoming schedule (subject to change):*
 
-Chapter 5, **Vector Calculus** -- February \
-Chapter 6, **Probability and Distributions** -- March \
-Chapter 7, **Continuous Optimization** -- April 
+Chapter 5, **Vector Calculus** -- mid February \
+Chapter 6, **Probability and Distributions** -- late February \
+Chapter 7, **Continuous Optimization** -- mid March 
 
 **Part II: Central Machine Learning Problems**
 
-Chapter 8, **When Models Meet Data** \
-Chapter 9, **Linear Regression** \
-Chapter 10, **Dimensionality Reduction with Principal Component Analysis** \
-Chapter 11, **Density Estimation with Gaussian Mixture Models** \
-Chapter 12, **Classification with Support Vector Machines** 
+Chapter 8, **When Models Meet Data** -- late March \
+Chapter 9, **Linear Regression** -- mid April \
+Chapter 10, **Dimensionality Reduction with Principal Component Analysis** -- late April \
+Chapter 11, **Density Estimation with Gaussian Mixture Models** -- mid May \
+Chapter 12, **Classification with Support Vector Machines** -- late May 
 
 
 ### Errata
