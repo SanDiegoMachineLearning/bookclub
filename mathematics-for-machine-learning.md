@@ -27,17 +27,23 @@ Our [second session](https://www.meetup.com/san-diego-machine-learning/events/30
 and the [video](https://youtu.be/kzTHVYkkAck)
 
 Chapter 4, **Matrix Decompositions** \
-The [next meetup]() will be January 18, 2025 12:00-1:30 pm PST
+The [next meetup](https://www.meetup.com/san-diego-machine-learning/events/305021996/) will be January 18, 2025 12:00-1:30 pm PST \
+[Video](https://youtu.be/CyAlgBXZd2Y)
+
+Chapter 5, **Vector Calculus** -- mid February \
+The [first February session](https://www.meetup.com/san-diego-machine-learning/events/305829701/) will be February 8, 2025 12:00-1:30 pm PST \
+[Video](https://youtu.be/KHzqR5HqrrQ)
+
+Chapter 6, **Probability and Distributions** -- late February \
+The [next event](https://www.meetup.com/san-diego-machine-learning/events/306070198/) will be February 22, 2025 12:00-1:30 pm PST
 
 *Upcoming schedule (subject to change):*
 
-Chapter 5, **Vector Calculus** -- mid February \
-Chapter 6, **Probability and Distributions** -- late February \
-Chapter 7, **Continuous Optimization** -- mid March 
+Chapter 7, **Continuous Optimization** -- March 8
 
 **Part II: Central Machine Learning Problems**
 
-Chapter 8, **When Models Meet Data** -- late March \
+Chapter 8, **When Models Meet Data** -- March 22 \
 Chapter 9, **Linear Regression** -- mid April \
 Chapter 10, **Dimensionality Reduction with Principal Component Analysis** -- late April \
 Chapter 11, **Density Estimation with Gaussian Mixture Models** -- mid May \
