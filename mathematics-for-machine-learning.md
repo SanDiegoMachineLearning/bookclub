@@ -31,16 +31,17 @@ The [next meetup](https://www.meetup.com/san-diego-machine-learning/events/30502
 [Slides](./mml/Chapter%204%20Matrix%20Decompositions.pdf), Liam's [Colab notebook](https://colab.research.google.com/drive/1coLYEvD5wn9eQSb8LLoJQ80ck2dX2Upp?usp=sharing), 
 and the [Video](https://youtu.be/CyAlgBXZd2Y)
 
-Chapter 5, **Vector Calculus** -- mid February \
+Chapter 5, **Vector Calculus** \
 The [first February session](https://www.meetup.com/san-diego-machine-learning/events/305829701/) will be February 8, 2025 12:00-1:30 pm PST \
 [Slides](./mml/Chapter%205.%20Vector%20Calculus.pdf) and [Video](https://youtu.be/KHzqR5HqrrQ)
 
-Chapter 6, **Probability and Distributions** -- late February \
+Chapter 6, **Probability and Distributions** \
 The [next event](https://www.meetup.com/san-diego-machine-learning/events/306070198/) will be February 22, 2025 12:00-1:30 pm PST
 
-*Upcoming schedule (subject to change):*
+Chapter 7, **Continuous Optimization** -- March 8 \
+The [final session for Part I of the book](https://www.meetup.com/san-diego-machine-learning/events/306339977/) will be February 8, 2025 12:00-1:30 pm PST
 
-Chapter 7, **Continuous Optimization** -- March 8
+*Upcoming schedule (subject to change):*
 
 **Part II: Central Machine Learning Problems**
 
