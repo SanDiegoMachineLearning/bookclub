@@ -28,11 +28,12 @@ and the [video](https://youtu.be/kzTHVYkkAck)
 
 Chapter 4, **Matrix Decompositions** \
 The [next meetup](https://www.meetup.com/san-diego-machine-learning/events/305021996/) will be January 18, 2025 12:00-1:30 pm PST \
-[Video](https://youtu.be/CyAlgBXZd2Y)
+[Slides](./mml/Chapter%204%20Matrix%20Decompositions.pdf), Liam's [Colab notebook](https://colab.research.google.com/drive/1coLYEvD5wn9eQSb8LLoJQ80ck2dX2Upp?usp=sharing), 
+and the [Video](https://youtu.be/CyAlgBXZd2Y)
 
 Chapter 5, **Vector Calculus** -- mid February \
 The [first February session](https://www.meetup.com/san-diego-machine-learning/events/305829701/) will be February 8, 2025 12:00-1:30 pm PST \
-[Video](https://youtu.be/KHzqR5HqrrQ)
+[Slides](./mml/Chapter%205.%20Vector%20Calculus.pdf) and [Video](https://youtu.be/KHzqR5HqrrQ)
 
 Chapter 6, **Probability and Distributions** -- late February \
 The [next event](https://www.meetup.com/san-diego-machine-learning/events/306070198/) will be February 22, 2025 12:00-1:30 pm PST
