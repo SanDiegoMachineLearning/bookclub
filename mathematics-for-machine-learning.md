@@ -41,7 +41,7 @@ The [next event](https://www.meetup.com/san-diego-machine-learning/events/306070
 
 Chapter 7, **Continuous Optimization** \
 The [final session for Part I of the book](https://www.meetup.com/san-diego-machine-learning/events/306339977/) will be March 8, 2025 12:00-1:30 pm PST \
-[Video](https://youtu.be/WK6ePCg9lE4)
+[Slides](./mml/Chapter%207.%20Continuous%20Optimization.pdf) and [video](https://youtu.be/WK6ePCg9lE4)
 
 **Part II: Central Machine Learning Problems**
 
@@ -51,7 +51,7 @@ The [first meetup for Part II](https://www.meetup.com/san-diego-machine-learning
 
 Chapter 9, **Linear Regression** \
 This [session](https://www.meetup.com/san-diego-machine-learning/events/306939534/) is April 19, 2025 12:00-1:30 pm PDT \
-[Video](https://youtu.be/s_MEO4cc1b0)
+[Slides](./mml/Chapter%209.%20Linear%20Regression.pdf) and [video](https://youtu.be/s_MEO4cc1b0)
 
 Chapter 10, **Dimensionality Reduction with Principal Component Analysis** \
 This [event](https://www.meetup.com/san-diego-machine-learning/events/307339613/) is April 26, 2025 12:00-1:30 pm PDT \
