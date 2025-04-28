@@ -40,17 +40,27 @@ The [next event](https://www.meetup.com/san-diego-machine-learning/events/306070
 [Slides](./mml/Chapter%206%20Probability%20and%20Distributions.pdf) and [video](https://youtu.be/ua-JYs6EipI)
 
 Chapter 7, **Continuous Optimization** \
-The [final session for Part I of the book](https://www.meetup.com/san-diego-machine-learning/events/306339977/) will be March 8, 2025 12:00-1:30 pm PST
-
-*Upcoming schedule (subject to change):*
+The [final session for Part I of the book](https://www.meetup.com/san-diego-machine-learning/events/306339977/) will be March 8, 2025 12:00-1:30 pm PST \
+[Video](https://youtu.be/WK6ePCg9lE4)
 
 **Part II: Central Machine Learning Problems**
 
-Chapter 8, **When Models Meet Data** -- March 22 \
-Chapter 9, **Linear Regression** -- mid April \
-Chapter 10, **Dimensionality Reduction with Principal Component Analysis** -- late April \
-Chapter 11, **Density Estimation with Gaussian Mixture Models** -- mid May \
-Chapter 12, **Classification with Support Vector Machines** -- late May 
+Chapter 8, **When Models Meet Data** \
+The [first meetup for Part II](https://www.meetup.com/san-diego-machine-learning/events/306634368/) is March 22, 2025 12:00-1:30 pm PDT \
+[Slides](./mml/Chapter%208%20When%20Models%20Meet%20Data.pdf) and [video](https://youtu.be/mC0GbHjEkAU)
+
+Chapter 9, **Linear Regression** \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/306939534/) is April 19, 2025 12:00-1:30 pm PDT \
+[Video](https://youtu.be/s_MEO4cc1b0)
+
+Chapter 10, **Dimensionality Reduction with Principal Component Analysis** \
+This [event](https://www.meetup.com/san-diego-machine-learning/events/307339613/) is April 26, 2025 12:00-1:30 pm PDT \
+[Slides](./mml/Chapter%2010%20Dimensionality%20Reduction%20with%20Principal%20Component%20Analysis.pdf) and [video](https://youtu.be/MEuspTzDU4I)
+
+Chapter 11, **Density Estimation with Gaussian Mixture Models** \
+The [penultimate event of the series](https://www.meetup.com/san-diego-machine-learning/events/307520669/) will be May 10, 2025 12:00-1:30 pm PDT
+
+Chapter 12, **Classification with Support Vector Machines** -- May 24, 2025 12:00-1:30 pm PDT
 
 
 ### Errata
