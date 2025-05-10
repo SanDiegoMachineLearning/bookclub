@@ -64,7 +64,7 @@ Chapter 12, **Classification with Support Vector Machines** -- May 24, 2025 12:0
 
 
 ### Errata
-Known errata for the book can be viewed here:  https://www.overleaf.com/project/5dc91a1fd24fcd0001186771 \
+Known errata for the book can be viewed here:  https://www.overleaf.com/read/gskfhtxdwtmh \
 To report new errata, open issues here:  https://github.com/mml-book/mml-book.github.io/issues
 
 ### Solutions to Exercises
