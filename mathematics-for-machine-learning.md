@@ -58,9 +58,11 @@ This [event](https://www.meetup.com/san-diego-machine-learning/events/307339613/
 [Slides](./mml/Chapter%2010%20Dimensionality%20Reduction%20with%20Principal%20Component%20Analysis.pdf) and [video](https://youtu.be/MEuspTzDU4I)
 
 Chapter 11, **Density Estimation with Gaussian Mixture Models** \
-The [penultimate event of the series](https://www.meetup.com/san-diego-machine-learning/events/307520669/) will be May 10, 2025 12:00-1:30 pm PDT
+The [penultimate event of the series](https://www.meetup.com/san-diego-machine-learning/events/307520669/) will be May 10, 2025 12:00-1:30 pm PDT \
+[Video](https://youtu.be/EVCwbyzC_jQ)
 
-Chapter 12, **Classification with Support Vector Machines** -- May 24, 2025 12:00-1:30 pm PDT
+Chapter 12, **Classification with Support Vector Machines** \
+The final [meetup](https://www.meetup.com/san-diego-machine-learning/events/307773083/) for this book will be May 24, 2025 12:00-1:30 pm PDT
 
 
 ### Errata
