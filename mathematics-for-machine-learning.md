@@ -62,7 +62,8 @@ The [penultimate event of the series](https://www.meetup.com/san-diego-machine-l
 [Slides](./mml/Chapter%2011_Gaussian%20Mixture%20Models.pdf) and [video](https://youtu.be/EVCwbyzC_jQ)
 
 Chapter 12, **Classification with Support Vector Machines** \
-The final [meetup](https://www.meetup.com/san-diego-machine-learning/events/307773083/) for this book will be May 24, 2025 12:00-1:30 pm PDT
+The final [meetup](https://www.meetup.com/san-diego-machine-learning/events/307773083/) for this book is May 24, 2025 12:00-1:30 pm PDT \
+[Slides](./mml/Chapter%2012%20SVM.pdf) and [video](https://youtu.be/nOBMGJ7bNP4)
 
 
 ### Errata
