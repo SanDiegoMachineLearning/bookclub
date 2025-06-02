@@ -24,7 +24,7 @@ All of the videos will be posted to the SDML YouTube channel:  [https://www.yout
 Combining the book and workshop content may require some tweaks. Please note that the sequence and dates are subject to change. Note also we may choose to combine or skip certain portions of the source material.
 
 Session 1:  Chapter 1 of the book, **Introduction** \
-This [kickoff event]() will be Saturday, June 14, 2025, from 12:00-1:30 pm Pacific \
+This [kickoff event](https://www.meetup.com/san-diego-machine-learning/events/308224845/) will be Saturday, June 14, 2025, from 12:00-1:30 pm Pacific \
 We will introduce the format of the series, talk about the history of computer vision, and meet other learners.
 
 *Future topics and dates subject to change*
