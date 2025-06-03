@@ -23,18 +23,20 @@ All of the videos will be posted to the SDML YouTube channel:  [https://www.yout
 
 Combining the book and workshop content may require some tweaks. Please note that the sequence and dates are subject to change. Note also we may choose to combine or skip certain portions of the source material.
 
-Session 1:  Chapter 1 of the book, **Introduction** \
+*Session 1*:  Chapter 1 of the book, **Introduction** \
 This [kickoff event](https://www.meetup.com/san-diego-machine-learning/events/308224845/) will be Saturday, June 14, 2025, from 12:00-1:30 pm Pacific \
 We will introduce the format of the series, talk about the history of computer vision, and meet other learners.
 
 *Future topics and dates subject to change*
 
-Session 2:  Workshop 1, **Foundations of Computer Vision**, June 28, 2025 \
-Session 3:  Chapter 2 of the book, **Image formation**, July 19, 2025 \
-Session 4:  Workshop 2, **Introduction to Neural Networks**, August 9, 2025 \
-Session 5:  Chapter 3 of the book, **Image processing**, August 23, 2025 \
-Session 6:  Workshop 3, **Introduction to Image Classification**, September 13, 2025 \
-Session 7:  Chapter 4 of the book, **Model fitting and optimization**, September 27, 2025 \
+*Session 2*:  Workshop 1, **Foundations of Computer Vision** and Workshop 2, **Introduction to Neural Networks** -- June 28, 2025 \
+*Session 3*:  Chapter 2 of the book, **Image formation** -- July 19, 2025 \
+*Session 4*:  Workshop 3, **Introduction to Image Classification** -- August 9, 2025 \
+*Session 5*:  Chapter 3 of the book, **Image processing** -- August 23, 2025 \
+*Session 6*:  Workshop 4, **Introduction to Convolutional Neural Networks** -- September 13, 2025 \
+*Session 7*:  Chapter 4 of the book, **Model fitting and optimization** and Chapter 5, **Deep learning** -- September 27, 2025 \
+*Session 8*:  Workshop 5, **Training Techniques for Convolutional Networks** -- October 11, 2025 \
+*Session 9*:  Chapter 6 of the book, **Recognition** -- October 25, 2025 
 
 Sequence and timing of the remaining chapters and workshops is TBD.
 
