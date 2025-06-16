@@ -27,9 +27,11 @@ Combining the book and workshop content may require some tweaks. Please note tha
 This [kickoff event](https://www.meetup.com/san-diego-machine-learning/events/308224845/) will be Saturday, June 14, 2025, from 12:00-1:30 pm Pacific \
 We will introduce the format of the series, talk about the history of computer vision, and meet other learners.
 
+*Session 2*:  Workshop 1, **Foundations of Computer Vision** and Workshop 2, **Introduction to Neural Networks** \
+The [first hands-on workshop session](https://www.meetup.com/san-diego-machine-learning/events/308520974/) will be June 28, 2025, from 12:00-1:30 pm Pacific
+
 *Future topics and dates subject to change*
 
-*Session 2*:  Workshop 1, **Foundations of Computer Vision** and Workshop 2, **Introduction to Neural Networks** -- June 28, 2025 \
 *Session 3*:  Chapter 2 of the book, **Image formation** -- July 19, 2025 \
 *Session 4*:  Workshop 3, **Introduction to Image Classification** -- August 9, 2025 \
 *Session 5*:  Chapter 3 of the book, **Image processing** -- August 23, 2025 \
