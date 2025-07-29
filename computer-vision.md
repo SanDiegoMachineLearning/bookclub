@@ -37,7 +37,8 @@ The [meetup](https://www.meetup.com/san-diego-machine-learning/events/308723380/
 [Slides](./cv/CV_1.pdf) and [video](https://youtu.be/MYZ09roAGeo)
 
 *Session 4*:  Workshop 3, **Introduction to Image Classification** -- August 9, 2025 \
-This [event](https://www.meetup.com/san-diego-machine-learning/events/310156933/) was combined with the monthly update on notable ML news and model releases, on July 26, 2025, from 12:00-1:30 pm Pacific
+This [event](https://www.meetup.com/san-diego-machine-learning/events/310156933/) was combined with the monthly update on notable ML news and model releases, on July 26, 2025, from 12:00-1:30 pm Pacific \
+[Video](https://youtu.be/-gM3Dg6yvKU)
 
 *Future topics and dates subject to change*
 
