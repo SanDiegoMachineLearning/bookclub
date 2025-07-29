@@ -2,6 +2,14 @@ Notes and links from the SDML book club meetings.
 For slides and videos from other, non-book machine learning talks, please see the **[SDML talks repo](https://github.com/SanDiegoMachineLearning/talks)**.
 
 
+### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl3.jfif?raw=true" width="160">
+
+
+Notes/slides and videos from the meetup sessions for the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 
+which started in August 2025,
+can be found in the document [hands-on-machine-learning-3.md](./hands-on-machine-learning-3.md).
+
 ### Computer Vision
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/Szeliski2ndBookFrontCover.png?raw=true" width="160"> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/PracticalComputerVision.jpg?raw=true" width="400">
