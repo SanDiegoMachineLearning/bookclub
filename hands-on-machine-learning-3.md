@@ -4,6 +4,10 @@
 
 The SDML book club started discussing *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition* 
 by Aurelien Geron in August 2025. 
+Note that there are 3 editions of this book, and the 2nd and 3rd editions have very similar covers,
+with the edition number shown in the upper right corner.
+This is a popular book and can be purchased from most stores where you buy technical books.
+
 This is an extraordinarily well written book, and people who do the work every week can "go from zero to hero" in just a few months.
 The plan will be to do one chapter weekly, except one Saturday each month will be reserved for discussing computer vision and ML news.
 
