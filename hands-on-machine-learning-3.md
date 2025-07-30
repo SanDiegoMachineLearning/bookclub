@@ -49,5 +49,9 @@ Chapter 19:  **Training and Deploying TensorFlow Models at Scale**
 ### Code Examples
 Jupyter notebooks with code from Hands-On Machine Learning is available in this repo:  https://github.com/ageron/handson-ml3.
 
+
+### Author's Solutions to Exercises
+Solutions to each chapter's exercises are also available at the end of each chapter's Jupyter notebook in the repo:  https://github.com/ageron/handson-ml3.
+
 <br>
 <br>
