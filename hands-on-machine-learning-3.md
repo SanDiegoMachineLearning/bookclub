@@ -17,13 +17,17 @@ All of the videos will be posted to the SDML YouTube channel:  [https://www.yout
 
 #### Part I
 
-Chapter 1:  **The Machine Learning Landscape**, \
+Chapter 1:  **The Machine Learning Landscape** \
 Here is the full [Meetup event description](https://www.meetup.com/san-diego-machine-learning/events/310160598/) for the kickoff on August 2, 2025 at 12:00 pm Pacific Time. 
-We will meet other people and discuss chapter 1 of the HOML book.
+We will meet other people and discuss chapter 1 of the HOML book. \
+[Video](https://youtu.be/7L9TDYBgkso)
+
+Chapter 2:  **End-to-End Machine Learning Project** \
+Our [second session](https://www.meetup.com/san-diego-machine-learning/events/310334627/) will be on August 9, 2025 at 12:00 pm Pacific Time. 
+Please read as much of chapter 2 before the meeting as you can, and start familiarizing yourself with code notebooks, if you have not used Colab or Jupyter before.
 
 *Future session dates are subject to change*
 
-Chapter 2:  **End-to-End Machine Learning Project** -- August 9, 2025 \
 Chapter 3:  **Classification** -- August 16, 2025 \
 Chapter 4:  **Training Models** -- August 23, 2025 \
 Chapter 5:  **Support Vector Machines** -- September 13, 2025 \
@@ -47,7 +51,8 @@ Chapter 19:  **Training and Deploying TensorFlow Models at Scale**
 
 
 ### Code Examples
-Jupyter notebooks with code from Hands-On Machine Learning is available in this repo:  https://github.com/ageron/handson-ml3.
+Jupyter notebooks with code from Hands-On Machine Learning is available in this repo:  https://github.com/ageron/handson-ml3. \
+If you want to open a code notebook in Google Colab, you can go straight into Colab with a menu to select which chapter with this link: https://homl.info/colab3
 
 
 ### Author's Solutions to Exercises
