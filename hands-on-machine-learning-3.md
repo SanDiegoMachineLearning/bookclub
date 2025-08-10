@@ -24,11 +24,15 @@ We will meet other people and discuss chapter 1 of the HOML book. \
 
 Chapter 2:  **End-to-End Machine Learning Project** \
 Our [second session](https://www.meetup.com/san-diego-machine-learning/events/310334627/) will be on August 9, 2025 at 12:00 pm Pacific Time. 
-Please read as much of chapter 2 before the meeting as you can, and start familiarizing yourself with code notebooks, if you have not used Colab or Jupyter before.
+Please read as much of chapter 2 before the meeting as you can, and start familiarizing yourself with code notebooks, if you have not used Colab or Jupyter before. \
+[Notes](https://docs.google.com/document/d/1eyRb8RPYw1L_Q5kX4HipTexJrGh4OCaT9iSfhARZlxg/edit?usp=sharing) and [video](https://youtu.be/oY3dm3ekAks)
+
+Chapter 3:  **Classification** -- August 16, 2025 \
+Our [third meeting](https://www.meetup.com/san-diego-machine-learning/events/310436312/) will be on August 16, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 3 about classification problems and how you measure them.
 
 *Future session dates are subject to change*
 
-Chapter 3:  **Classification** -- August 16, 2025 \
 Chapter 4:  **Training Models** -- August 23, 2025 \
 Chapter 5:  **Support Vector Machines** -- September 13, 2025 \
 Chapter 6:  **Decision Trees** \
