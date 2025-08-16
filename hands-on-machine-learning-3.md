@@ -29,14 +29,19 @@ Please read as much of chapter 2 before the meeting as you can, and start famili
 
 Chapter 3:  **Classification** -- August 16, 2025 \
 Our [third meeting](https://www.meetup.com/san-diego-machine-learning/events/310436312/) will be on August 16, 2025 at 12:00 pm Pacific Time. 
-We will discuss chapter 3 about classification problems and how you measure them.
+We will discuss chapter 3 about classification problems and how you measure them. \
+[Notes](https://docs.google.com/document/d/1c9rKhMW2KPA78HGfnzP_zdDYH-fHSDM-6pE3gn4pmfQ/edit?usp=sharing)
+
+Chapter 4:  **Training Models** -- August 23, 2025 \
+This [event](https://www.meetup.com/san-diego-machine-learning/events/310557925/) will be on August 23, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 4, which includes models such as linear regression, polynomial regression, and logistic regression, 
+and also gradient descent, the bias/variance tradeoff, and regularized linear models.
 
 *Future session dates are subject to change*
 
-Chapter 4:  **Training Models** -- August 23, 2025 \
 Chapter 5:  **Support Vector Machines** -- September 13, 2025 \
-Chapter 6:  **Decision Trees** \
-Chapter 7:  **Ensemble Learning and Random Forests** \
+Chapter 6:  **Decision Trees** -- September 20, 2025 \
+Chapter 7:  **Ensemble Learning and Random Forests** -- September 27, 2025 \
 Chapter 8:  **Dimensionality Reduction** \
 Chapter 9:  **Unsupervised Learning Techniques**
 
