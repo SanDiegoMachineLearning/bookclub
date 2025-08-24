@@ -7,6 +7,9 @@ by Aurelien Geron in August 2025.
 Note that there are 3 editions of this book, and the 2nd and 3rd editions have very similar covers,
 with the edition number shown in the upper right corner.
 This is a popular book and can be purchased from most stores where you buy technical books.
+Note also, we have learned that a [new edition of the book is being written which will use 
+PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) instead of TensorFlow in Part II of the book.
+We will also pull in available resources from the new edition to cover PyTorch.
 
 This is an extraordinarily well written book, and people who do the work every week can "go from zero to hero" in just a few months.
 The plan will be to do one chapter weekly, except one Saturday each month will be reserved for discussing computer vision and ML news.
@@ -27,19 +30,24 @@ Our [second session](https://www.meetup.com/san-diego-machine-learning/events/31
 Please read as much of chapter 2 before the meeting as you can, and start familiarizing yourself with code notebooks, if you have not used Colab or Jupyter before. \
 [Notes](https://docs.google.com/document/d/1eyRb8RPYw1L_Q5kX4HipTexJrGh4OCaT9iSfhARZlxg/edit?usp=sharing) and [video](https://youtu.be/oY3dm3ekAks)
 
-Chapter 3:  **Classification** -- August 16, 2025 \
+Chapter 3:  **Classification** \
 Our [third meeting](https://www.meetup.com/san-diego-machine-learning/events/310436312/) will be on August 16, 2025 at 12:00 pm Pacific Time. 
 We will discuss chapter 3 about classification problems and how you measure them. \
-[Notes](https://docs.google.com/document/d/1c9rKhMW2KPA78HGfnzP_zdDYH-fHSDM-6pE3gn4pmfQ/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1c9rKhMW2KPA78HGfnzP_zdDYH-fHSDM-6pE3gn4pmfQ/edit?usp=sharing) and [video](https://youtu.be/XEQpi9GrCMc)
 
-Chapter 4:  **Training Models** -- August 23, 2025 \
+Chapter 4:  **Training Models** \
 This [event](https://www.meetup.com/san-diego-machine-learning/events/310557925/) will be on August 23, 2025 at 12:00 pm Pacific Time. 
 We will discuss chapter 4, which includes models such as linear regression, polynomial regression, and logistic regression, 
-and also gradient descent, the bias/variance tradeoff, and regularized linear models.
+and also gradient descent, the bias/variance tradeoff, and regularized linear models. \
+[Notes](https://docs.google.com/document/d/12zIkVk3hTc7nhqO-7NKIQBNbNYK5ogUrQZa5JB7sijg/edit?tab=t.0#heading=h.w908ls2ppawf) and [video](https://youtu.be/xqmCrtwaHzA)
+
+Chapter 5:  **Support Vector Machines** \
+This [meetup](https://www.meetup.com/san-diego-machine-learning/events/310675694/) will be on September 13, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 5 about support vector machines. As usual, we will go beyond the formal material of the book to discuss the big picture lessons we can learn.
+
 
 *Future session dates are subject to change*
 
-Chapter 5:  **Support Vector Machines** -- September 13, 2025 \
 Chapter 6:  **Decision Trees** -- September 20, 2025 \
 Chapter 7:  **Ensemble Learning and Random Forests** -- September 27, 2025 \
 Chapter 8:  **Dimensionality Reduction** \
