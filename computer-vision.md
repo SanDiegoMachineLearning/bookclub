@@ -42,8 +42,12 @@ This [event](https://www.meetup.com/san-diego-machine-learning/events/310156933/
 
 *Future topics and dates subject to change*
 
-*Session 5*:  Workshop 4, **Introduction to Convolutional Neural Networks** -- September 6, 2025 \
+*Session 5*:  Workshop 4, **Introduction to Convolutional Neural Networks** \
+The [monthly meetup](https://www.meetup.com/san-diego-machine-learning/events/310675675/) includeded the discussion about CNNs \
+[Video](https://youtu.be/wWW_fiL3tpQ)
+
 *Session 6*:  Workshop 5, **Training Techniques for Convolutional Networks** -- October 4, 2025 
+*Session 7*:  Workshop 6, **Training Techniques for Convolutional Networks** -- November 1, 2025 
 
 Sequence and timing of the remaining chapters and workshops is TBD.
 
