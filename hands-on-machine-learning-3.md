@@ -43,12 +43,17 @@ and also gradient descent, the bias/variance tradeoff, and regularized linear mo
 
 Chapter 5:  **Support Vector Machines** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/310675694/) will be on September 13, 2025 at 12:00 pm Pacific Time. 
-We will discuss chapter 5 about support vector machines. As usual, we will go beyond the formal material of the book to discuss the big picture lessons we can learn.
+We will discuss chapter 5 about support vector machines. As usual, we will go beyond the formal material of the book to discuss the big picture lessons we can learn. \
+[Notes](https://docs.google.com/document/d/17PjPwtG-SM5xguTJ5Ka7mjepSatDZWO1_YPdq1j4mvY/edit?usp=sharing) and [video](https://youtu.be/WyL4utGAK1g)
+
+Chapter 6:  **Decision Trees** \
+This [session](https://www.meetup.com/san-diego-machine-learning/events/311018430/) will be on September 20, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 6 about decision trees. 
+Decision trees are the building block for the most widely used ML algorithms for tabular data, which we will discuss the following week.
 
 
 *Future session dates are subject to change*
 
-Chapter 6:  **Decision Trees** -- September 20, 2025 \
 Chapter 7:  **Ensemble Learning and Random Forests** -- September 27, 2025 \
 Chapter 8:  **Dimensionality Reduction** \
 Chapter 9:  **Unsupervised Learning Techniques**
