@@ -52,20 +52,30 @@ We will discuss chapter 6 about decision trees.
 Decision trees are the building block for the most widely used ML algorithms for tabular data, which we will discuss the following week. \
 [Notes](https://docs.google.com/document/d/1MVwPpQoAiVbBuilE3tTn_UbxUaoWOlww5OlSPkMFTXY/edit?usp=sharing) and [video](https://youtu.be/SlvKNwWf3o8)
 
-Chapter 7:  **Ensemble Learning and Random Forests** -- September 27, 2025 \
-This [event](https://www.meetup.com/san-diego-machine-learning/events/311155773/) will be on September 20, 2025 at 12:00 pm Pacific Time. 
-We will discuss chapter 7, which covers ensemble learning, random forests, and gradient boosting -- the most widely used ML algorithm for tabular data.
+Chapter 7:  **Ensemble Learning and Random Forests** \
+This [event](https://www.meetup.com/san-diego-machine-learning/events/311155773/) will be on September 27, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 7, which covers ensemble learning, random forests, and gradient boosting -- the most widely used ML algorithm for tabular data. \
+[Notes](https://docs.google.com/document/d/1iEx_5_AaK85b4Ltgyx04sNHOzXwP2jytNxaP7StvCMY/edit?usp=sharing) and [video](https://youtu.be/Dx6df7O-Il0?si=z4Dc1j5FAJV5eFyI)
 
-*Future session dates are subject to change*
+Chapter 8:  **Dimensionality Reduction** -- October 11, 2025 \
+[Notes](https://docs.google.com/document/d/1tJ_jNNsmD1YAzwmgkfUa__GUikXxWjJtUBkp_wqmqtU/edit?usp=sharing) and [video](https://youtu.be/Pid9dSsJICg?si=NezjD0a5MZ6KLVLY)
 
-Chapter 8:  **Dimensionality Reduction -- October 11, 2025 ** \
-Chapter 9:  **Unsupervised Learning Techniques -- October 18, 2025 **
+Chapter 9:  **Unsupervised Learning Techniques** -- October 18, 2025 \
+[Notes](https://docs.google.com/document/d/1T62IvOwTSuv9GQnjGclbXgMtDIlQHxRXk3Ej5E639W0/edit?usp=drive_link) and [video](https://youtu.be/8S1A8RHvWSw)
 
 #### Part II
 
-Chapter 10:  **Introduction to Artificial Neural Networks with Keras -- October 25, 2025** \
-Chapter 11:  **Training Deep Neural Networks** \
+Chapter 10:  **Introduction to Artificial Neural Networks with Keras** -- October 25, 2025 \
+[Video](https://youtu.be/dMu_hlDZErk)
+
+Chapter 11:  **Training Deep Neural Networks** -- November 15, 2025 \
+[Notes](https://docs.google.com/document/d/19ObEKBMWyKy-gFbndpZ7k1Qqrjrv1qowLuFzDr5y9OM/edit?usp=drive_link) and [video](https://youtu.be/EQN9OYwj_HU)
+
 Chapter 12:  **Custom Models and Training with TensorFlow** \
+[Notebook](https://colab.research.google.com/drive/1811EyXYAYLRY0Q2SRyH3fHq2Bk-DGtZv?usp=sharing)
+
+*Future session dates are subject to change*
+
 Chapter 13:  **Loading and Preprocessing Data with TensorFlow** \
 Chapter 14:  **Deep Computer Vision Using Convolutional Neural Networks** \
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
