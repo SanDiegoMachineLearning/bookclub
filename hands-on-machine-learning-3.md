@@ -57,26 +57,36 @@ This [event](https://www.meetup.com/san-diego-machine-learning/events/311155773/
 We will discuss chapter 7, which covers ensemble learning, random forests, and gradient boosting -- the most widely used ML algorithm for tabular data. \
 [Notes](https://docs.google.com/document/d/1iEx_5_AaK85b4Ltgyx04sNHOzXwP2jytNxaP7StvCMY/edit?usp=sharing) and [video](https://youtu.be/Dx6df7O-Il0?si=z4Dc1j5FAJV5eFyI)
 
-Chapter 8:  **Dimensionality Reduction** -- October 11, 2025 \
+Chapter 8:  **Dimensionality Reduction** \
+This [meeting](https://www.meetup.com/san-diego-machine-learning/events/311264428/) will be on October 11, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 8 about dimensionality reduction techniques. \
 [Notes](https://docs.google.com/document/d/1tJ_jNNsmD1YAzwmgkfUa__GUikXxWjJtUBkp_wqmqtU/edit?usp=sharing) and [video](https://youtu.be/Pid9dSsJICg?si=NezjD0a5MZ6KLVLY)
 
-Chapter 9:  **Unsupervised Learning Techniques** -- October 18, 2025 \
+Chapter 9:  **Unsupervised Learning Techniques** \
+This [meeting](https://www.meetup.com/san-diego-machine-learning/events/311483478/) will be on October 18, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 9 about unsupervised learning techniques, including clustering and Gaussian mixture models. \
 [Notes](https://docs.google.com/document/d/1T62IvOwTSuv9GQnjGclbXgMtDIlQHxRXk3Ej5E639W0/edit?usp=drive_link) and [video](https://youtu.be/8S1A8RHvWSw)
 
 #### Part II
 
-Chapter 10:  **Introduction to Artificial Neural Networks with Keras** -- October 25, 2025 \
-[Video](https://youtu.be/dMu_hlDZErk)
+Chapter 10:  **Introduction to Artificial Neural Networks with Keras** \
+This [meeting](https://www.meetup.com/san-diego-machine-learning/events/311594007/) will be on October 25, 2025 at 12:00 pm Pacific Time. 
+We will use the first chapter in Part II (chapter 10) to cover the core principles for implementing neural networks. \
+[Notes](https://docs.google.com/document/d/1AAhQFuQxpXmiXBFwaTd0ejY3A4FVDvz5tWraiytdwek/edit?usp=sharing) and [video](https://youtu.be/dMu_hlDZErk)
 
-Chapter 11:  **Training Deep Neural Networks** -- November 15, 2025 \
+Chapter 11:  **Training Deep Neural Networks** \
+This [meeting](https://www.meetup.com/san-diego-machine-learning/events/311939942/) will be on November 15, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 11, which covers practical issues such as reusing pretrained layers and selecting learning rate schedules. \
 [Notes](https://docs.google.com/document/d/19ObEKBMWyKy-gFbndpZ7k1Qqrjrv1qowLuFzDr5y9OM/edit?usp=drive_link) and [video](https://youtu.be/EQN9OYwj_HU)
 
 Chapter 12:  **Custom Models and Training with TensorFlow** \
-[Notebook](https://colab.research.google.com/drive/1811EyXYAYLRY0Q2SRyH3fHq2Bk-DGtZv?usp=sharing)
+This [meeting](https://www.meetup.com/san-diego-machine-learning/events/312439946/) will be on December 20, 2025 at 12:00 pm Pacific Time. 
+We will discuss chapter 12 about how to do anything you want with deep learning, even if it is not built into TensorFlow or PyTorch. \
+[Notebook](https://colab.research.google.com/drive/1811EyXYAYLRY0Q2SRyH3fHq2Bk-DGtZv?usp=sharing) and [video](https://youtu.be/SX7XNqtiJa4)
 
 *Future session dates are subject to change*
 
-Chapter 13:  **Loading and Preprocessing Data with TensorFlow** \
+Chapter 13:  **Loading and Preprocessing Data with TensorFlow** -- January, date TBD \
 Chapter 14:  **Deep Computer Vision Using Convolutional Neural Networks** \
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
