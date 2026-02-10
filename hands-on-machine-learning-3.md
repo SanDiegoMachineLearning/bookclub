@@ -91,15 +91,28 @@ We have the following resources from when we discussed the 2nd edition of the bo
 
 Chapter 14:  **Deep Computer Vision Using Convolutional Neural Networks** \
 This [meetup](https://www.meetup.com/san-diego-machine-learning/events/312745681/) will be on January 10, 2026 at 12:00 pm Pacific Time.
-We will discuss convolutional neural networks (CNNs), which are the core building block that began the deep learning revolution.
-
-*Future session dates are subject to change*
+We will discuss convolutional neural networks (CNNs), which are the core building block that began the deep learning revolution. \
+[Notes](https://docs.google.com/document/d/10BNumOrUwe4xBY1pEc59vGOYxbnFWwZlsaI1MpzwgZo/edit?usp=sharing) and [video](https://youtu.be/i0mQmTxAAl8)
 
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
+We combined these two chapters into one [event]() on January 24, 2026 at 12:00 pm Pacific Time. \
+[Video](https://youtu.be/P35uE-49zwI)
+
 Chapter 17:  **Autoencoders, GANs, and Diffusion Models** \
+Our final [meetup](https://www.meetup.com/san-diego-machine-learning/events/313260676/) will be on February 14, 2026 at 2:00 pm Pacific Time.
+This session will round out our discussion of neural building blocks and architectures with a review of autoencoders, GANs, and diffusion models.
+
 Chapter 18:  **Reinforcement Learning** \
+It's hard to cover RL in one chapter, so we recommend other resources if you're completely new to RL.
+Feel free to check out the [book club series we did on reinforcement learning](./reinforcement-learning.md). \
+Here is the video from when we read the 2nd edition: [video](https://youtu.be/IHDie_iiraA)
+
 Chapter 19:  **Training and Deploying TensorFlow Models at Scale**
+We will also be skipping the last chapter, which discusses training models on GPUs or multiple GPUs and how to deploy and serve models,
+because it's rather dated at this point.
+Below are resources from when we discussed the 2nd edition: \
+[Slides](./homl/Chapter%2019.%20Training%20and%20Deploying%20TensorFlow%20Models%20at%20Scale.pdf) and [video](https://youtu.be/iBifBbgM2cg)
 
 
 ### Code Examples
