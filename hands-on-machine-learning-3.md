@@ -97,7 +97,7 @@ We will discuss convolutional neural networks (CNNs), which are the core buildin
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
 We combined these two chapters into one [event](https://www.meetup.com/san-diego-machine-learning/events/312949089/) on January 24, 2026 at 12:00 pm Pacific Time. \
-[Video](https://youtu.be/P35uE-49zwI)
+[Notes](https://docs.google.com/document/d/1vLjKBtV0FoTFRG2dv5t4CUbYYCPi3sBYaMKDg8FSy6I/edit?usp=sharing) and [video](https://youtu.be/P35uE-49zwI)
 
 Chapter 17:  **Autoencoders, GANs, and Diffusion Models** \
 Our final [meetup](https://www.meetup.com/san-diego-machine-learning/events/313260676/) will be on February 14, 2026 at 2:00 pm Pacific Time.
