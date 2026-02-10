@@ -96,7 +96,7 @@ We will discuss convolutional neural networks (CNNs), which are the core buildin
 
 Chapter 15:  **Processing Sequences Using RNNs and CNNs** \
 Chapter 16:  **Natural Language Processing with RNNs and Attention** \
-We combined these two chapters into one [event]() on January 24, 2026 at 12:00 pm Pacific Time. \
+We combined these two chapters into one [event](https://www.meetup.com/san-diego-machine-learning/events/312949089/) on January 24, 2026 at 12:00 pm Pacific Time. \
 [Video](https://youtu.be/P35uE-49zwI)
 
 Chapter 17:  **Autoencoders, GANs, and Diffusion Models** \
