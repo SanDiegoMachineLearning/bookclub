@@ -101,7 +101,8 @@ We combined these two chapters into one [event](https://www.meetup.com/san-diego
 
 Chapter 17:  **Autoencoders, GANs, and Diffusion Models** \
 Our final [meetup](https://www.meetup.com/san-diego-machine-learning/events/313260676/) will be on February 14, 2026 at 2:00 pm Pacific Time.
-This session will round out our discussion of neural building blocks and architectures with a review of autoencoders, GANs, and diffusion models.
+This session will round out our discussion of neural building blocks and architectures with a review of autoencoders, GANs, and diffusion models. \
+[Notes](https://docs.google.com/document/d/1mpdgP02vJSn4zJ7CnaQLYokK28Fp5i4JmjI1j5BNTzs/edit?usp=drive_link) and [video](https://youtu.be/k9g8SaFsvXU)
 
 Chapter 18:  **Reinforcement Learning** \
 It's hard to cover RL in one chapter, so we recommend other resources if you're completely new to RL.
