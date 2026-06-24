@@ -1,52 +1,35 @@
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/llm-inference.jpg?raw=true" width="160">
 
-## Designing Data-Intensive Applications
+## LLM Inference Illustrated
 
-The SDML book club started reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-by Martin Kleppmann in December 2020.
-
-### Literature References
-Each chapter in the book has many references for further reading.
-An up to date list of references is maintained in the GitHub repository <https://github.com/ept/ddia-references>.
+The SDML book club started reading [LLM Inference Illustrated](https://tedkyi.github.io/llm-inference/)
+by Ted Kyi in March 2026.
 
 ### Notes and videos
-Here are the chapter notes and meetup recordings:
+Here are the chapter video recordings:
 
-Chapter 1:  Reliable, Scalable, and Maintainable Applications \
-[Notes](https://docs.google.com/document/d/1MMMAAqen9FdskelaiGOsElVAlmxN5B60uxbBG-Cw2tA/edit?usp=sharing) and [Meetup video](https://youtu.be/JqDAEH_2t6M)
+Chapter 1:  **Introduction** \
+[Video](https://youtu.be/hoEov8sWBzU)
 
-Chapter 2:  Data Models and Query Languages \
-[Notes](https://docs.google.com/document/d/1tpV0cvj0sS5tslPKQnbI48uAf2UKg3_1WI-vYJZlA5E/edit?usp=sharing) and [Meetup video](https://youtu.be/8Xd1Nf1APmc)
+Chapter 2:  **The Decoder-Only Transformer** \
+[Video](https://youtu.be/YWb4w_Z8guU)
 
-Chapter 3:  Storage and Retrieval \
-[Notes](https://docs.google.com/document/d/1r_k-1PJlSp04LusH6yHpsSQ2o-vZIW1Catv9PRAV2iQ/edit?usp=sharing) and [Meetup video](https://youtu.be/b1djvhyUJUk)
+Chapter 3:  **Measuring LLM Inference** \
+[Video](https://youtu.be/22UQ148X5xU)
 
-Chapter 4:  Encoding and Evolution \
-[Notes](https://docs.google.com/document/d/1MUh3SYMrSfK0i3t_Bj96SxPlOflkysJ5tUrnsj_F3Jo/edit?usp=sharing) and [Meetup video](https://youtu.be/YZAvkAEPgVw)
+Chapter 4:  **Model Design Choices** \
+[Video](https://youtu.be/QZnMnIdyXzM)
 
-Chapter 5:  Replication \
-[Notes](https://docs.google.com/document/d/1T8Y4DNrJXr9Cxemz2J9SqxCMA1M115G7o8_-ggMUz9U/edit?usp=sharing) and [Meetup video](https://youtu.be/wk9yig6xqPo)
+Chapter 5:  **Scheduling Bottlenecks** \
+[Video](https://youtu.be/PLENQ6oL7xs)
 
-Chapter 6:  Partitioning \
-[Notes](https://docs.google.com/document/d/1JUt1vZMUgTBB3egr59Lj3DFJ2QxWUJYWViYcGOVNwtU/edit?usp=sharing) and [Meetup video](https://youtu.be/cARZXd8x7Ew)
+Chapter 6:  **Request Compute, Memory, and Latency Bottlenecks** \
+[Video](https://youtu.be/uJQAmzQwo04)
 
-Chapter 7:  Transactions \
-[Notes](https://docs.google.com/document/d/1NDisyUYoBhSpzTzsi7NQ5KYRg3BULgmc-J5QT2oNcS4/edit?usp=sharing) and [Meetup video](https://youtu.be/9vvKkkMGQ2Q)
+Chapter 7:  **Scaling Across Hardware** \
+[Video](https://youtu.be/XXj5enp4N98)
 
-Chatper 8:  The Trouble with Distributed Systems \
-[Notes](https://docs.google.com/document/d/1CuQn6nEu2z5P1oe6KPZRLQO-3Lrz-S8CqTp5LHNYlOc/edit?usp=sharing) and [Meetup video](https://youtu.be/WJcKtG7zxe0)
-
-Chapter 9:  Consistency and Consensus \
-[Notes](https://docs.google.com/document/d/1MVwTKULlNDjnMw5MvhU5D1Ms5BBs07163C3_NfYkLaU/edit?usp=sharing) and [Meetup video](https://youtu.be/0rRsOVCKnsQ)
-
-Chapter 10:  Batch Processing \
-[Notes](https://docs.google.com/document/d/10wPVoRnLInhWNbjXYV3yXPmWzgFHyX1bgLBCFkM8b_s/edit) and [Meetup video](https://youtu.be/uR2fTP26xK8)
-
-Chapter 11:  Stream Processing \
-[Notes](https://docs.google.com/document/d/1cj0uHh2hl49S1BozHlHHUJY-i8GqaX5QQ-tryb0sWms/edit?usp=sharing) and [Meetup video](https://youtu.be/bLCUSDwjnNM)
-
-Chapter 12:  The Future of Data Systems \
-[Notes](https://docs.google.com/document/d/1ltpJUG8SSD1WQftjutPWd_hmbRS9IP1gnuo5JGVOasM/edit) and [Meetup video](https://youtu.be/KyCk_MUITY4)
+If you have found any errors, report an issue to the book GitHub repo: [https://github.com/tedkyi/llm-inference](https://github.com/tedkyi/llm-inference).
 
 <br>
 <br>
