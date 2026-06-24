@@ -2,9 +2,20 @@ Notes and links from the SDML book club meetings.
 For slides and videos from other, non-book machine learning talks, please see the **[SDML talks repo](https://github.com/SanDiegoMachineLearning/talks)**.
 
 
+### AI Engineering
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/ai-engineering.jpg?raw=true" width="160">
+
+Notes/slides and videos from the meetup sessions for the book AI Engineering: Building Applications with Foundation Models 
+can be found in the document [ai-engineering.md](./ai-engineering.md).
+
+### LLM Inference Illustrated
+<img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/llm-inference.jpg?raw=true" width="160">
+
+Links to video recordings from the meetup sessions for the book LLM Inference Illustrated, which started in March 2026,
+can be found in the document [llm-inference.md](./llm-inference.md).
+
 ### Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
 <img src="https://github.com/SanDiegoMachineLearning/bookclub/blob/master/images/homl3.jfif?raw=true" width="160">
-
 
 Notes/slides and videos from the meetup sessions for the book Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 
 which started in August 2025,
