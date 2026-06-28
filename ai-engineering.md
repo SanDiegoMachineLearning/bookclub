@@ -12,14 +12,15 @@ The book's GitHub repository contains chapter summaries, study notes, and other 
 ### Notes and videos
 Here are the chapter notes and meetup recordings:
 
-Chapter 1:  **Introduction to Building AI Applications with Foundation Models** \
+Chapter 1:  **Introduction to Building AI Applications with Foundation Models** - *June 20, 2026* \
 [Notes](https://docs.google.com/document/d/1XT631kLSIDSH5YzvFbFctrcwOSXmu7ewUja95qrNHow/edit?usp=sharing) and [video](https://youtu.be/VzwlQMks9y0)
 
-Chapter 2:  **Understanding Foundation Models** - June 27, 2026
+Chapter 2:  **Understanding Foundation Models** - *June 27, 2026* \
+[Notes](https://docs.google.com/document/d/1GOmQ75E1v4ZMHFmDB2WApiCgHdMDlOpDjdhF_WhjOqk/edit?usp=sharing) and [video](https://youtu.be/shQZS4QoDm8)
+
+Chapter 3:  **Evaluation Methodology** - *July 11, 2026*
 
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
-
-Chapter 3:  **Evaluation Methodology** \
 Chapter 4:  **Evaluate AI Systems** \
 Chapter 5:  **Prompt Engineering** \
 Chapter 6:  **RAG and Agents** \
