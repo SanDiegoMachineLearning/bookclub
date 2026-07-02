@@ -21,6 +21,7 @@ Chapter 2:  **Understanding Foundation Models** - *June 27, 2026* \
 Chapter 3:  **Evaluation Methodology** - *July 11, 2026*
 
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
+
 Chapter 4:  **Evaluate AI Systems** \
 Chapter 5:  **Prompt Engineering** \
 Chapter 6:  **RAG and Agents** \
