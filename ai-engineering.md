@@ -18,11 +18,13 @@ Chapter 1:  **Introduction to Building AI Applications with Foundation Models** 
 Chapter 2:  **Understanding Foundation Models** - *June 27, 2026* \
 [Notes](https://docs.google.com/document/d/1GOmQ75E1v4ZMHFmDB2WApiCgHdMDlOpDjdhF_WhjOqk/edit?usp=sharing) and [video](https://youtu.be/shQZS4QoDm8)
 
-Chapter 3:  **Evaluation Methodology** - *July 11, 2026*
+Chapter 3:  **Evaluation Methodology** - *July 11, 2026* \
+[Slides](https://docs.google.com/presentation/d/1nv8Z9sfrTjCPrF94wCpGqzlU8_4oIqI-tGJGolKlQkI/edit?usp=sharing) and [video](https://youtu.be/F8hBRb9MFF0)
+
+Chapter 4:  **Evaluate AI Systems** - *July 25, 2026*
 
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
-Chapter 4:  **Evaluate AI Systems** \
 Chapter 5:  **Prompt Engineering** \
 Chapter 6:  **RAG and Agents** \
 Chapter 7:  **Finetuning** \
