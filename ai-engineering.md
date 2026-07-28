@@ -32,6 +32,7 @@ Chapter 7:  **Finetuning** \
 Chapter 8:  **Dataset Engineering** \
 Chapter 9:  **Inference Optimization** \
 Chapter 10:  **AI Engineering Architecture and User Feedback** \
+Project Showcase:  **Presentation of AI Engineering Projects** 
 
 
 
