@@ -22,7 +22,7 @@ Chapter 3:  **Evaluation Methodology** - *July 11, 2026* \
 [Slides](https://docs.google.com/presentation/d/1nv8Z9sfrTjCPrF94wCpGqzlU8_4oIqI-tGJGolKlQkI/edit?usp=sharing) and [video](https://youtu.be/F8hBRb9MFF0)
 
 Chapter 4:  **Evaluate AI Systems** - *July 25, 2026* \
-[Notes](https://docs.google.com/document/d/1pvYQggJ3l_hkck1Uu2kFb9n8Q0JSS5cuK0aH5wIBEAU/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1pvYQggJ3l_hkck1Uu2kFb9n8Q0JSS5cuK0aH5wIBEAU/edit?usp=sharing) and [video](https://youtu.be/-YJi3YKGGLY)
 
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
