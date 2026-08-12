@@ -30,6 +30,8 @@ Chapter 5:  **Prompt Engineering** - *August 8, 2026* \
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
 Chapter 6:  **RAG and Agents** - TBD \
+[Notes](https://docs.google.com/document/d/1DE3lJnrtXQ5S5gb28Fxj61LrRyP70aYynkZWE3sU4ak/edit?usp=sharing)
+
 Chapter 7:  **Finetuning** \
 Chapter 8:  **Dataset Engineering** \
 Chapter 9:  **Inference Optimization** \
