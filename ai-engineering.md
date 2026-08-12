@@ -24,10 +24,12 @@ Chapter 3:  **Evaluation Methodology** - *July 11, 2026* \
 Chapter 4:  **Evaluate AI Systems** - *July 25, 2026* \
 [Notes](https://docs.google.com/document/d/1pvYQggJ3l_hkck1Uu2kFb9n8Q0JSS5cuK0aH5wIBEAU/edit?usp=sharing) and [video](https://youtu.be/-YJi3YKGGLY)
 
+Chapter 5:  **Prompt Engineering** - *August 8, 2026* \
+[Notes](https://docs.google.com/document/d/1BxNnPmN1ABakDF73D7auYJ-MI8ux40nbigeXf4O_glo/edit?usp=sharing) and [video](https://youtu.be/Otj9EslzxxM)
+
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
-Chapter 5:  **Prompt Engineering** \
-Chapter 6:  **RAG and Agents** \
+Chapter 6:  **RAG and Agents** - TBD \
 Chapter 7:  **Finetuning** \
 Chapter 8:  **Dataset Engineering** \
 Chapter 9:  **Inference Optimization** \
