@@ -27,10 +27,10 @@ Chapter 4:  **Evaluate AI Systems** - *July 25, 2026* \
 Chapter 5:  **Prompt Engineering** - *August 8, 2026* \
 [Notes](https://docs.google.com/document/d/1BxNnPmN1ABakDF73D7auYJ-MI8ux40nbigeXf4O_glo/edit?usp=sharing) and [video](https://youtu.be/Otj9EslzxxM)
 
-*The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
-
-Chapter 6:  **RAG and Agents** - TBD \
+Chapter 6:  **RAG and Agents** - *September 19, 2026* \
 [Notes](https://docs.google.com/document/d/1DE3lJnrtXQ5S5gb28Fxj61LrRyP70aYynkZWE3sU4ak/edit?usp=sharing)
+
+*The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
 Chapter 7:  **Finetuning** \
 Chapter 8:  **Dataset Engineering** \
