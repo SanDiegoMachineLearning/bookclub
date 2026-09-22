@@ -33,9 +33,9 @@ Chapter 6:  **RAG and Agents** - *September 19, 2026* \
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
 Chapter 7:  **Finetuning** - *October 3, 2026* \
-Chapter 8:  **Dataset Engineering** \
-Chapter 9:  **Inference Optimization** \
-Chapter 10:  **AI Engineering Architecture and User Feedback** \
+Chapter 8:  **Dataset Engineering** - *October 10, 2026* \
+Chapter 9:  **Inference Optimization** - *October 24, 2026* \
+Chapter 10:  **AI Engineering Architecture and User Feedback** - *TBD* \
 Project Showcase:  **Presentation of AI Engineering Projects** 
 
 
