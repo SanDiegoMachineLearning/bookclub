@@ -31,10 +31,10 @@ Chapter 6:  **RAG and Agents** - *September 19, 2026* \
 [Notes](https://docs.google.com/document/d/1DE3lJnrtXQ5S5gb28Fxj61LrRyP70aYynkZWE3sU4ak/edit?usp=sharing) and [video](https://youtu.be/N_A1Pzplcj0)
 
 Chapter 7:  **Finetuning** - *October 3, 2026* \
-[Notes](https://docs.google.com/document/d/1kubciu1az0OO976QSE6u8aty6OkjORVJe2xuD78El04/edit?tab=t.0) and [video](https://youtu.be/p2sAM4eWI20?si=ziYlUzxkxeLrONCm)
+[Notes](https://docs.google.com/document/d/1kubciu1az0OO976QSE6u8aty6OkjORVJe2xuD78El04/edit?tab=t.0) and [video](https://youtu.be/p2sAM4eWI20)
 
 Chapter 8:  **Dataset Engineering** - *October 10, 2026* \
-[Notes](https://docs.google.com/presentation/d/186tlR5tQVcJps8t5qD8rOTzh1eM1M97vhV1zaJKqohY/edit?usp=sharing)
+[Notes](https://docs.google.com/presentation/d/186tlR5tQVcJps8t5qD8rOTzh1eM1M97vhV1zaJKqohY/edit?usp=sharing) and [video](https://youtu.be/AmOFwy7p0mc)
 
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
