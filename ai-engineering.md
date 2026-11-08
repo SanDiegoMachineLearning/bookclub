@@ -37,7 +37,7 @@ Chapter 8:  **Dataset Engineering** - *October 10, 2026* \
 [Notes](https://docs.google.com/presentation/d/186tlR5tQVcJps8t5qD8rOTzh1eM1M97vhV1zaJKqohY/edit?usp=sharing) and [video](https://youtu.be/AmOFwy7p0mc)
 
 Chapter 9:  **Inference Optimization** - *October 24, 2026* \
-[Notes](https://docs.google.com/document/d/1nYjBW9v1zd23QCCWeokuxiGIy-A_nohz8H4NJQ76kT4/edit?usp=sharing)
+[Notes](https://docs.google.com/document/d/1nYjBW9v1zd23QCCWeokuxiGIy-A_nohz8H4NJQ76kT4/edit?usp=sharing) and [video](https://youtu.be/JR9U6u3tsu8)
 
 *The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
 
