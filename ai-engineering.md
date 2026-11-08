@@ -39,10 +39,8 @@ Chapter 8:  **Dataset Engineering** - *October 10, 2026* \
 Chapter 9:  **Inference Optimization** - *October 24, 2026* \
 [Notes](https://docs.google.com/document/d/1nYjBW9v1zd23QCCWeokuxiGIy-A_nohz8H4NJQ76kT4/edit?usp=sharing) and [video](https://youtu.be/JR9U6u3tsu8)
 
-*The upcoming schedule will be approximately weekly, though holidays and other events will cause some weeks to be pushed out.*
-
-Chapter 10:  **AI Engineering Architecture and User Feedback** - *TBD* \
-Project Showcase:  **Presentation of AI Engineering Projects** 
+Chapter 10:  **AI Engineering Architecture and User Feedback** - *November 7, 2026* \
+[Notes](https://docs.google.com/document/d/1nq_32sFQr9DVdAKH3k7lX3eCNsZzo_vDDmP_82ALd2w/edit?usp=sharing)
 
 
 
